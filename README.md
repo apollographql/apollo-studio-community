@@ -41,7 +41,7 @@ Studio is a client for querying your graph. To use it, you will need to provide 
 
 ### CORS considerations
 
-The queries you construct will be sent directly from the web app in your browser at https://engine.apollographql.com to your server. Many servers have [CORS protections enabled](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) that prevent requests from unknown servers from being responded to. If your server has these protections enabled, you will likely need to safe-list (whitelist) https://engine.apollographql.com in your CORS policy so that your requests from Studio are not rejected.
+The queries you construct will be sent directly from the web app in your browser at https://engine.apollographql.com to your server. Many servers have [CORS protections enabled](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) that prevent requests from unknown URLs from being responded to. If your server has these protections enabled, you will likely need to safe-list (whitelist) https://engine.apollographql.com in your CORS policy so that your requests from Studio are not rejected.
 
 We are extremely interested in hearing your thoughts on CORS, [please don't hold back from sharing if you have them](https://forms.gle/hhfA72JPC3fw43Wx5).
 
