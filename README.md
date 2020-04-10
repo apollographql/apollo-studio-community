@@ -19,7 +19,7 @@ To try the pre-release version of Apollo Studio visit <https://engine.apollograp
 
 ### Try the demo
 
-Join our demo account, Acephei Corporation, by visiting <https://demo.apollo.dev> and creating an account. Then, [visit the `acephei` graph im Studio](https://engine.apollographql.com/studio/acephei?schemaTag=production) and try making your first query.
+Join our demo account, Acephei Corporation, by visiting <https://demo.apollo.dev> and creating an account. Then, [visit the `acephei` graph in Studio](https://engine.apollographql.com/studio/acephei?schemaTag=production) and try making your first query.
 
 An example query you can try on the `acephei` graph:
 ```
@@ -41,15 +41,15 @@ Studio is a client for querying your graph. To use it, you will need to provide 
 
 ### CORS considerations
 
-The queries you construct will be sent directly from the web app in your browser at https://engine.apollographql.com to your server. Many servers have [CORS protections enabled](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) that prevent requests from unknown servers from being responded to. If your server has these protections enabled, you will likely need to safe-list (whitelist) https://engine.apollographql.com in your CORS policy so that your requests from Studio are responded to and not rejected.
+The queries you construct will be sent directly from the web app in your browser at https://engine.apollographql.com to your server. Many servers have [CORS protections enabled](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) that prevent requests from unknown servers from being responded to. If your server has these protections enabled, you will likely need to safe-list (whitelist) https://engine.apollographql.com in your CORS policy so that your requests from Studio are not rejected.
 
-We are extremely interested in hearing your thoughts on this policy –– [please share them with us](https://forms.gle/hhfA72JPC3fw43Wx5).
+We are extremely interested in hearing your thoughts on CORS, [please don't hold back from sharing if you have them](https://forms.gle/hhfA72JPC3fw43Wx5).
 
 ### Authentication
 
-Studio does not currently support any explicity forms of authentication with endpoints. If your graph requires authentication, you can accomplish this right now by setting headers for your responses. The headers you set will be saved in your browser's local storage, one entry per graph/variant pair.
+Studio does not explicity support any forms of authentication with endpoints. If you need to authenticate with your graph, you can do that by setting headers on your requests. The headers you set will be saved in your browser's local storage, one object entry per graph/variant pair.
 
-We are extremely interested in hearing how you authenticate with your graph and what type of auth experience you would find ideal for a tool like Studio –– [please share them with us](https://forms.gle/hhfA72JPC3fw43Wx5).
+We are extremely interested in hearing how you authenticate with your graph and what type of auth experience you would find ideal for a tool like Studio, [please don't hold back from sharing them with us](https://forms.gle/hhfA72JPC3fw43Wx5).
 
 ## Motivations for building a hosted GraphQL client
 
