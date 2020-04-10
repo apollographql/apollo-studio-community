@@ -2,11 +2,12 @@
 
 Welcome to Apollo Studio, a browser-based tool for exploring GraphQL schemas, composing queries, and testing responses.
 
+
 ## Before you start: IMPORTANT DISCLAIMER
 
 The documentation here is currently only a preview of pre-release software. You may use it at will, but this evaluation product is not yet fully supported or considered generally available. While we will try to avoid breaking changes once a feature is in use, until the features discussed herein are taken out of preview we could make breaking changes. Please be aware of the heightened risk of using preview software.
 
-Use of anything described in these preview docs (current as of March 2020) is done at your own risk and is governed by [The Apollo Terms of Service](https://www.apollographql.com/Apollo-Terms-of-Service.pdf).
+Use of anything described in these preview docs (current as of April 2020) is done at your own risk and is governed by [The Apollo Terms of Service](https://www.apollographql.com/Apollo-Terms-of-Service.pdf).
 
 PREVIEWS ARE PROVIDED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE," AND ARE EXCLUDED FROM ANY SERVICE LEVEL AGREEMENTS AND LIMITED WARRANTY. Previews may not be covered by customer support. Previews may be subject to reduced or different security, compliance and privacy commitments, as further explained in the Terms of Service, Privacy Policy and any additional notices provided with the Preview. We may change or discontinue Previews at any time without notice. We also may choose not to release a Preview into "General Availability."
 
@@ -14,7 +15,41 @@ PREVIEWS ARE PROVIDED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE," AND ARE EX
 
 If you are reading this, you are part of a small number of folks we are showing this "too early" with the explicit purpose of working you to solve the problems your graph consumers face. 
 
-To try the pre-release version of Apollo Studio visit <https://engine.apollographql.com/studio>. You will need to login with your Apollo user account.
+To try the pre-release version of Apollo Studio visit <https://engine.apollographql.com/studio>. You will need to login with your Apollo user account. If you have not created a graph and published your schema to Apollo before, you will need to do that before you can use Studio. Studio is currently only accessible by visiting this URL –– there are no links to it from within Graph Manager.
+
+### Try the demo
+
+Join our demo account, Acephei Corporation, by visiting <https://demo.apollo.dev> and creating an account. Then, [visit the `acephei` graph im Studio](https://engine.apollographql.com/studio/acephei?schemaTag=production) and try making your first query.
+
+An example query you can try on the `acephei` graph:
+```
+query {
+  products {
+    edges {
+      product {
+        name
+        price
+      }
+    }
+  }
+}
+```
+
+## Set up your graph
+
+Studio is a client for querying your graph. To use it, you will need to provide a URL to the graph that Studio can send your constructued queries to.
+
+### CORS considerations
+
+The queries you construct will be sent directly from the web app in your browser at https://engine.apollographql.com to your server. Many servers have [CORS protections enabled](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) that prevent requests from unknown servers from being responded to. If your server has these protections enabled, you will likely need to safe-list (whitelist) https://engine.apollographql.com in your CORS policy so that your requests from Studio are responded to and not rejected.
+
+We are extremely interested in hearing your thoughts on this policy –– [please share them with us](https://forms.gle/hhfA72JPC3fw43Wx5).
+
+### Authentication
+
+Studio does not currently support any explicity forms of authentication with endpoints. If your graph requires authentication, you can accomplish this right now by setting headers for your responses. The headers you set will be saved in your browser's local storage, one entry per graph/variant pair.
+
+We are extremely interested in hearing how you authenticate with your graph and what type of auth experience you would find ideal for a tool like Studio –– [please share them with us](https://forms.gle/hhfA72JPC3fw43Wx5).
 
 ## Motivations for building a hosted GraphQL client
 
@@ -26,7 +61,7 @@ We seek to solve a set of problems that we've heard from graph administrators:
 
 ## We'd love to hear your feedback
 
-We are interested in seeing if the current experience is useful by itself and/or what other problems you want your graph exploring tools to provide.
+We are very interested in seeing if the current experience is useful by itself and/or what other problems you want your graph exploring tools to provide.
 
 _We are eager for your feedback, so please reach out._
 
