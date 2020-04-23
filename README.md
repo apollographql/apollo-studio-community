@@ -13,7 +13,7 @@ PREVIEWS ARE PROVIDED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE," AND ARE EX
 
 ## Getting Started
 
-If you are reading this, you are part of a small number of folks we are showing this "too early" with the explicit purpose of working you to solve the problems your graph consumers face. 
+If you are reading this, you are part of a small number of folks we are showing this to early with the explicit purpose of working with you to solve the problems your graph consumers face. 
 
 To try the pre-release version of Apollo Studio visit <https://engine.apollographql.com/studio>. You will need to login with your Apollo user account. If you have not created a graph and published your schema to Apollo before, you will need to do that before you can use Studio. Studio is currently only accessible by visiting this URL –– there are no links to it from within Graph Manager.
 
