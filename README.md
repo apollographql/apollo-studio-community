@@ -2,17 +2,15 @@
 
 Welcome to Apollo Studio, a browser-based tool for exploring GraphQL schemas, composing queries, and testing responses.
 
-> Before you start: IMPORTANT DISCLAIMER
+> *The documentation here is currently only a preview of pre-release software. You may use it at will, but this evaluation product is not yet fully supported or considered generally available. While we will try to avoid breaking changes once a feature is in use, until the features discussed herein are taken out of preview we could make breaking changes. Please be aware of the heightened risk of using preview software.*
 
-> The documentation here is currently only a preview of pre-release software. You may use it at will, but this evaluation product is not yet fully supported or considered generally available. While we will try to avoid breaking changes once a feature is in use, until the features discussed herein are taken out of preview we could make breaking changes. Please be aware of the heightened risk of using preview software.
+> *Use of anything described in these preview docs (current as of May 2020) is done at your own risk and is governed by [The Apollo Terms of Service](https://www.apollographql.com/Apollo-Terms-of-Service.pdf).*
 
-> Use of anything described in these preview docs (current as of May 2020) is done at your own risk and is governed by [The Apollo Terms of Service](https://www.apollographql.com/Apollo-Terms-of-Service.pdf).
-
-> PREVIEWS ARE PROVIDED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE," AND ARE EXCLUDED FROM ANY SERVICE LEVEL AGREEMENTS AND LIMITED WARRANTY. Previews may not be covered by customer support. Previews may be subject to reduced or different security, compliance and privacy commitments, as further explained in the Terms of Service, Privacy Policy and any additional notices provided with the Preview. We may change or discontinue Previews at any time without notice. We also may choose not to release a Preview into "General Availability."
+> *PREVIEWS ARE PROVIDED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE," AND ARE EXCLUDED FROM ANY SERVICE LEVEL AGREEMENTS AND LIMITED WARRANTY. Previews may not be covered by customer support. Previews may be subject to reduced or different security, compliance and privacy commitments, as further explained in the Terms of Service, Privacy Policy and any additional notices provided with the Preview. We may change or discontinue Previews at any time without notice. We also may choose not to release a Preview into "General Availability."*
 
 ## We'd love to hear your feedback
 
-Also before you start, please keep in mind that **we are very eager to hear your feedback**. We are very interested in seeing if the current experience is useful by itself and/or what other problems you want your graph exploring tools to provide.
+Before you start, please keep in mind that **we are very eager to hear your feedback**. We are very interested in seeing if the current experience is useful by itself and/or what other problems you want your graph exploring tools to provide.
 
 1. Please [fill out our structured form](https://forms.gle/hhfA72JPC3fw43Wx5) after you have had a chance to use Studio for a few tasks if you are interested in sharing structured feedback.
 2. For open-ended suggestions or bug reports, please submit an Issue in this repository.
@@ -57,9 +55,9 @@ In addition to the core editor, Studio provides a way to build and manage your q
 
 ![Screen Recording 2020-05-15 at 03 49 PM](https://user-images.githubusercontent.com/5922187/82102248-d126ee00-96c3-11ea-8c06-51e846112f5e.gif)
 
-#### Search
+#### Spotlight Search
 
-Studio comes with a "spotlight search" to helps you find what you're looking for extremely quickly. It also provides a way for you to add search results directly to your queries.
+Studio comes with search designed to help you find what you're looking for extremely quickly. It also provides a way for you to add search results directly to your queries.
 
 ![Screen Recording 2020-05-15 at 04 53 PM](https://user-images.githubusercontent.com/5922187/82104685-a725f980-96cc-11ea-8b90-830c94ebfcb9.gif)
 
@@ -90,6 +88,6 @@ query {
 ```
 
 
-## Reminder that we'd love your feedback
+## Reminder: We'd love your feedback
 
 If you made it to the end of this README, thank you for coming on this journey with us! Please remember that we're eager to hear any thoughts you have through our [feedback form](https://forms.gle/hhfA72JPC3fw43Wx5) and the Issues on this repository.
