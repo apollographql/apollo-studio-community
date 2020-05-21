@@ -23,7 +23,7 @@ To try Apollo Studio, visit <https://engine.apollographql.com/studio>. You will 
 
 ### Set up your graph
 
-Studio is a client for querying your graph, much like GraphiQL and GraphQL Playgroud, but built by Apollo and hosted in the cloud.
+Studio is a client for querying your graph, much like GraphiQL and GraphQL Playground, but built by Apollo and hosted in the cloud.
 
 #### Motivations for building a hosted GraphQL client
 
