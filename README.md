@@ -71,7 +71,7 @@ Studio remembers what you previously ran, allowing you to easily run queries you
 
 ## Try the demo
 
-If you aren't an Apollo user already or don't have a graph available to try Studio with, you can join our demo account (Acephei Corporation) to try out Studio. To do that, visit <https://demo.apollo.dev>, create an account, then [visit the `acephei` graph in Studio](https://engine.apollographql.com/studio/acephei?schemaTag=production).
+If you aren't an Apollo user already or don't have a graph available to try Studio with, you can join our demo account (Example Co.) to try out Studio. To do that, visit <https://demo.apollo.dev>, create an account, then [visit the `acephei` graph in Studio](https://engine.apollographql.com/studio/acephei?schemaTag=production).
 
 An example query you can try on the `acephei` graph:
 ```
@@ -86,6 +86,20 @@ query {
   }
 }
 ```
+
+#### Try Studio with the GitHub graph
+
+Once you're a member of Example Co., you will also be able to [visit the `github` graph in Studio](https://engine.apollographql.com/studio/github) and run queries against that.
+
+To authenticate with the GitHub graph properly, you will need to [get a personal access token](https://github.com/settings/tokens) and change your headers in Studio to this:
+```
+{
+  "Content-Type": "application/json",
+  "Authorization": "bearer XX-GH-PERSONAL-ACCESS-TOKEN-XX"
+}
+```
+
+Note that the GitHub API does not like Studio's default `apollographql-client-name` header, so you will need to remove that one.
 
 
 ## Reminder: We'd love your feedback
