@@ -1,6 +1,4 @@
-## 2020-07-22
-
-### ✨New Page: Checks ✨
+## 2020-07-22 –– ✨New Page: Checks ✨
 
 We have released the new Checks page for our schema [checks feature](https://www.apollographql.com/docs/studio/schema-checks/). You can now **see recent checks** that have been run against and **configure your check parameters** from directly within the UI.
 
@@ -30,9 +28,7 @@ We have released the new Checks page for our schema [checks feature](https://www
 - You can now manage operations individually using a "meatball" context menu, even when other operations are invalid 🍝
 - You can now generate variables for your query using autocomplete in the editor.
 
-## 2020-06-30
-
-### ✨ New Page: Explorer ✨
+## 2020-06-30 –– ✨ New Page: Explorer ✨
 
 We have released the Explorer, available as a top-level page for graphs. The Explorer is a full-featured query building IDE that connects to the registry and can be configured uniquely for each of your variants.
 
