@@ -6,14 +6,6 @@ We have released a new home page for your graph in Studio that contain's your gr
 |Auto-generated documentation for type and field references.|Changelog –– what changed and when.|Full SDL.|
 |<img width="1284" alt="Screenshot of Types page" src="https://user-images.githubusercontent.com/743976/88816756-bcb6a580-d18a-11ea-9188-7c51ecfe0362.png">|<img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88817042-11f2b700-d18b-11ea-903c-e0e0cb975439.png">|<img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88818141-5c286800-d18c-11ea-83a6-e69106ec6520.png">|
 
-
-
-
-
-
-
-
-
 ## 2020-07-22 –– ✨New Page: Checks ✨
 
 We have released the new Checks page for our schema [checks feature](https://www.apollographql.com/docs/studio/schema-checks/). You can now **see recent checks** that have been run against and **configure your check parameters** from directly within the UI.
@@ -23,9 +15,9 @@ We have released the new Checks page for our schema [checks feature](https://www
 ## 2020-07-21
 
 #### New in the Explorer:
-
-- You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data:
-  ![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif)
+|New in the Explorer:||
+|:--|--|
+|You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data.|![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif)|
 
 ## 2020-07-14
 
