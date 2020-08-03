@@ -1,10 +1,11 @@
 ## 2020-07-29 –– ✨New Page: Schema ✨
+
 We have released a new home page for your graph in Studio that contain's your graph's docs, changelog, and SDL.
 
-||New information about your schema:||
-|:-------------:|:-------------:|:-------------:|
-|Auto-generated documentation for type and field references.|Changelog –– what changed and when.|Full SDL.|
-|<img width="1284" alt="Screenshot of Types page" src="https://user-images.githubusercontent.com/743976/88816756-bcb6a580-d18a-11ea-9188-7c51ecfe0362.png">|<img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88817042-11f2b700-d18b-11ea-903c-e0e0cb975439.png">|<img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88818141-5c286800-d18c-11ea-83a6-e69106ec6520.png">|
+|                                                                                                                                                            |                                                 New information about your schema:                                                 |                                                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+|                                                Auto-generated documentation for type and field references.                                                 |                                                Changelog –– what changed and when.                                                 |                                                             Full SDL.                                                              |
+| <img width="1284" alt="Screenshot of Types page" src="https://user-images.githubusercontent.com/743976/88816756-bcb6a580-d18a-11ea-9188-7c51ecfe0362.png"> | <img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88817042-11f2b700-d18b-11ea-903c-e0e0cb975439.png"> | <img width="1284" alt="" src="https://user-images.githubusercontent.com/743976/88818141-5c286800-d18c-11ea-83a6-e69106ec6520.png"> |
 
 ## 2020-07-22 –– ✨New Page: Checks ✨
 
@@ -14,27 +15,26 @@ We have released the new Checks page for our schema [checks feature](https://www
 
 ## 2020-07-21
 
-#### New in the Explorer:
-|New in the Explorer:||
-|:--|--|
-|You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data.|![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif)|
+| New in the Explorer:                                                                                                                                               |                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data. | ![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif) |
 
 ## 2020-07-14
 
-#### New in Integrations:
+| New in Integrations::                                                                                                                                   |                                                                                                                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| By popular request, you can now use the Datadog-forwarder with Datadog instances in the EU. Head to your graph's Integrations page to configure this 🌍 | ![Screen Recording 2020-08-03 at 01 17 38 PM](https://user-images.githubusercontent.com/5922187/89223506-c1fd6100-d58b-11ea-8e51-0f047d3757ea.gif) |
 
-- By popular request, you can now use the Datadog-forwarder with Datadog instances in the EU. Head to your graph's Integrations page to configure this 🌍
-
-#### New in the Explorer:
-
-- You can now configure requests to authenticate with your domain through cookies in the Explorer's settings tab 🍪
+| New in the Explorer:                                                                                              |                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You can now configure requests to authenticate with your domain through cookies in the Explorer's settings tab 🍪 | ![Screen Recording 2020-08-03 at 01 21 30 PM](https://user-images.githubusercontent.com/5922187/89223825-536cd300-d58c-11ea-82d5-052c62c66044.gif) |
 
 ## 2020-07-07
 
-#### New in the Explorer:
-
-- You can now manage operations individually using a "meatball" context menu, even when other operations are invalid 🍝
-- You can now generate variables for your query using autocomplete in the editor.
+| New in the Explorer:                                                                                                  |                                                                                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You can now manage operations individually using a "meatball" context menu, even when other operations are invalid 🍝 | ![Screen Recording 2020-08-03 at 01 23 27 PM](https://user-images.githubusercontent.com/5922187/89223976-9038ca00-d58c-11ea-8058-a225faf6a2b6.gif) |
+| You can now generate variables for your query using autocomplete in the editor.                                       | ![Screen Recording 2020-08-03 at 01 24 22 PM](https://user-images.githubusercontent.com/5922187/89224079-b9f1f100-d58c-11ea-8666-412be8f8bf83.gif) |
 
 ## 2020-06-30 –– ✨ New Page: Explorer ✨
 
@@ -46,4 +46,4 @@ Full details on the release in our announcement post: [Introducing the Apollo Ex
 
 ## 2020-06-29
 
-We have formally [renamed the product from Graph Manager to Studio](https://www.apollographql.com/blog/graph-manager-is-now-studio/) and have updated our website, docs, and in-product references to reflect the change.
+We have formally [renamed the product from Graph Manager to Studio](https://www.apollographql.com/blog/graph-manager-is-now-studio/), moved our URL from engine.apollographql.com to studio.apollographql.com, and have updated our website, docs, and in-product references to reflect the change.
