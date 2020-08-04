@@ -26,6 +26,7 @@ We anticipate exposing 4 primary roles ot start. Unless you're on our private ro
 
 - **Billing Manager** — full admin access to configuration on your organization, its billing, and its members, but no access to graphs.
 - **Consumer** — full access to the Documentation and Explorer pages in Studio, but limited access to everything else. This role can be considered "read-only".
+- **Observer** - The same "read" access as a Contributor, but without the ability to mutate anything about graphs. 
 - **Contributor** — basically everything an admin can do, minus a few very destructive acts like deleting graphs and adding other admins. You can make API keys, you can set up integrations, etc.
 - **Admin** — full permission to change everything about the org and the graphs within it, incl. promoting other admins, inviting other users, transferring graphs, deleting graphs, etc.
 
