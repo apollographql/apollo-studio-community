@@ -1,3 +1,16 @@
+## 2020-08-05
+
+New in general:
+
+- You can now do a _one-time_ schema upload to Studio by introspecting a URL or pasting a schema to get started **much** more quickly.
+- You can now do a one-time upload of your schema at any point by clicking the "Upload Schema" button on the Schema page.
+
+![Screen Recording 2020-08-05 at 10 32 09 AM](https://user-images.githubusercontent.com/5922187/89444869-3c9ebb80-d707-11ea-9afe-2ad911843933.gif)
+
+| New in the Explorer:                                                           |                                                                                                                                                    |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You can copy an operation to CURL from the Explorer's "meatball" context menu. | ![Screen Recording 2020-08-03 at 12 22 39 PM](https://user-images.githubusercontent.com/5922187/89219182-2ddbcb80-d584-11ea-9e21-4950c86306a8.gif) |
+
 ## 2020-07-29 –– ✨New Page: Schema ✨
 
 We have released a new home page for your graph in Studio that contain's your graph's docs, changelog, and SDL.
@@ -16,7 +29,7 @@ We have released the new Checks page for our schema [checks feature](https://www
 ## 2020-07-21
 
 | New in the Explorer:                                                                                                                                               |                                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data. | ![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif) |
 
 ## 2020-07-14
