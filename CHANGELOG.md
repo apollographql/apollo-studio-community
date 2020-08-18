@@ -1,3 +1,10 @@
+## 2020-08-18
+
+- "Type Browser" has been renamed to "Reference"
+- Directives are now visible in "Reference" ![image](https://user-images.githubusercontent.com/743976/90544698-82bb3c80-e155-11ea-8b30-bba588564705.png)
+- Types and Fields that appeaer in Changelog now link to their place in Reference
+
+
 ## 2020-08-05
 
 New in general:
