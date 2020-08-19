@@ -1,6 +1,6 @@
-# Preview: Explorer
+> **👋 Update:** The Explorer is now available for unlimited, free use in [Apollo Studio](https://studio.apollographql.com). Take a look at our [announcement post](https://www.apollographql.com/blog/introducing-the-apollo-explorer/) for more details on the specifics.
 
-> **Update:** The Explorer is now available for unlimited, free use in [Apollo Studio](https://studio.apollographql.com). Take a look at our [announcement post](https://www.apollographql.com/blog/introducing-the-apollo-explorer/) for more details on the specifics.
+# Preview: Explorer
 
 Welcome to the pre-release docs for the Explorer, a browser-based tool for exploring GraphQL schemas, composing queries, and testing responses.
 
