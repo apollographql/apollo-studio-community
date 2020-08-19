@@ -6,6 +6,8 @@ We are looking for feedback on whether our plans will fit the needs of your orga
 
 If you have a need that is not encapsulated below, or if you see things we might be missing, please engage with us and ask questions through issues on this repository.
 
+Also, if you're reading this, **please fill out our feedback form**! We cherish this feedback and read every response that comes in: https://forms.gle/xc2q2Jv2vcXrww1S6 📬.
+
 ### Proposed Phases
 
 **Phase 1: Organization-wide, pre-defined user roles**
