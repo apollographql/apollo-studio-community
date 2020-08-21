@@ -1,3 +1,5 @@
+👋 **Update:•** Phase 1 of this plan is completely and the five user roles outlined below (Billing Manager, Consumer, Observer, Contributor, Admin) are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation for the feature](https://www.apollographql.com/docs/studio/org/members/) for a detailed breakdown on what permissions each role has.
+
 # RFC: User Roles in Apollo Studio
 
 At the request of many, we are doing some work to make user roles configurable at the organization and graph level in [Apollo Studio](https://studio.apollographql.com).
@@ -24,7 +26,7 @@ Automated permissions based on mapping SAML attributes and/or other mechanisms t
 
 ### Proposed Roles
 
-We anticipate exposing 4 primary roles ot start. Unless you're on our private roles beta (you would know), everyone in your organization right now is an **Admin**.
+We anticipate exposing 5 primary roles ot start. Unless you're on our private roles beta (you would know), everyone in your organization right now is an **Admin**.
 
 - **Billing Manager** — full admin access to configuration on your organization, its billing, and its members, but no access to graphs.
 - **Consumer** — full access to the Documentation and Explorer pages in Studio, but limited access to everything else. This role can be considered "read-only".
