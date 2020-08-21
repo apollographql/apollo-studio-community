@@ -1,3 +1,6 @@
+## 2020-08-20
+- 🐛 Bug fix: schema checks no longer skip anonymous operations
+
 ## 2020-08-18
 
 - "Type Browser" has been renamed to "Reference"
