@@ -5,7 +5,7 @@
 
 - "Type Browser" has been renamed to "Reference"
 - Directives are now visible in "Reference" ![image](https://user-images.githubusercontent.com/743976/90544698-82bb3c80-e155-11ea-8b30-bba588564705.png)
-- Types and Fields that appeaer in Changelog now link to their place in Reference
+- Types and Fields that appear in Changelog now link to their place in Reference
 - Reference is now searchable via `⌘ + K` (`Ctrl + K` for PC) ![image](https://user-images.githubusercontent.com/743976/90545321-78e60900-e156-11ea-819d-df7374e6c494.png)
 
 
