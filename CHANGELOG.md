@@ -1,3 +1,6 @@
+## 2020-08-21
+- 🐛 Bug fix: SSO users should see their name and avatar in Studio now (provided they've set up the attribute mapping via PingOne)
+
 ## 2020-08-20
 - 🐛 Bug fix: schema checks no longer skip anonymous operations
 
