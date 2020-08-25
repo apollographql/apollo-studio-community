@@ -1,4 +1,4 @@
-👋 **Update:** Phase 1 of this plan is completely and the five user roles outlined below (Billing Manager, Consumer, Observer, Contributor, Admin) are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation for the feature](https://www.apollographql.com/docs/studio/org/members/) for a detailed breakdown on what permissions each role has.
+> 👋 **Update:** Phase 1 of this plan is completely and the five user roles outlined below (Billing Manager, Consumer, Observer, Contributor, Admin) are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation for the feature](https://www.apollographql.com/docs/studio/org/members/) for a detailed breakdown on what permissions each role has.
 
 # RFC: User Roles in Apollo Studio
 
