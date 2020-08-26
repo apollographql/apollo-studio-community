@@ -26,6 +26,8 @@ A new key-value store would be made available, which can be referenced in Explor
 
 This partially solves those inconveniences in that now there is only one place to update when tokens expire, and the contents of the "headers" section no longer needs to contain raw secrets and can thus be freely shared.
 
+This also makes it possible for us to create server-persisted shared operations for orgs without needing to solve secret-storage, since the sensitive bits can be stored as `"Authorization": "Bearer {{ token }}"`, and the operation will work as long as the user has the `token` environment variable populated
+
 ### Proposed addition part 2: pre-request scripts
 
 A [javascript execution sandbox]((https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)) will be made available for running user-supplied scripts ahead of each request. Its purpose is mainly to automate authentication steps so org members can explore the graph with less friction. 
