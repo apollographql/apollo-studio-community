@@ -1,3 +1,6 @@
+## 2020-08-26
+- User roles and permissions are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation](https://www.apollographql.com/docs/studio/org/members) for the feature for a detailed breakdown on what permissions each role has.
+
 ## 2020-08-21
 - 🐛 Bug fix: SSO users should see their name and avatar in Studio now (provided they've set up the attribute mapping via PingOne)
 
