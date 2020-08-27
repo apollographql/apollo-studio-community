@@ -28,6 +28,11 @@ This partially solves those inconveniences in that now there is only one place t
 
 This also makes it possible for us to create server-persisted shared operations for orgs without needing to solve secret-storage, since the sensitive bits can be stored as `"Authorization": "Bearer {{ token }}"`, and the operation will work as long as the user has the `token` environment variable populated
 
+**Persistence**
+- Environment varilables can be persisted in localStorage
+- We can make persisting to localStorage opt-in with messaging
+- We can make it easy to export and import these values to and/from files (which can be shared using a company's internal sharing infrastructure)
+
 ### Proposed addition part 2: pre-request scripts
 
 A [javascript execution sandbox]((https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)) will be made available for running user-supplied scripts ahead of each request. Its purpose is mainly to automate authentication steps so org members can explore the graph with less friction. 
