@@ -1,3 +1,6 @@
+## 2020-08-28
+- You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
+
 ## 2020-08-26
 - User roles and permissions are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation](https://www.apollographql.com/docs/studio/org/members) for the feature for a detailed breakdown on what permissions each role has.
 
@@ -51,7 +54,7 @@ We have released the new Checks page for our schema [checks feature](https://www
 
 ## 2020-07-14
 
-| New in Integrations::                                                                                                                                   |                                                                                                                                                    |
+| New in Integrations:                                                                                                                                    |                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | By popular request, you can now use the Datadog-forwarder with Datadog instances in the EU. Head to your graph's Integrations page to configure this 🌍 | ![Screen Recording 2020-08-03 at 01 17 38 PM](https://user-images.githubusercontent.com/5922187/89223506-c1fd6100-d58b-11ea-8e51-0f047d3757ea.gif) |
 
