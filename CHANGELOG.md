@@ -1,5 +1,6 @@
 ## 2020-08-28
 - You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
+- "Cancel" button now added to Upload Schema modal in Schema tab.
 
 ## 2020-08-26
 - User roles and permissions are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation](https://www.apollographql.com/docs/studio/org/members) for the feature for a detailed breakdown on what permissions each role has.
