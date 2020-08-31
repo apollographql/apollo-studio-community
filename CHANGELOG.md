@@ -1,3 +1,7 @@
+## 2020-08-31
+- We'll make a best guess at reconstructing any unrecognized directives, so schemas that don't include definitions for directives should no longer crash the Schema or Explorer pages.
+- Improved experience for path selection in Explorer page's search  
+
 ## 2020-08-28
 - You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
 - "Cancel" button now added to Upload Schema modal in Schema tab.
