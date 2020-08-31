@@ -1,3 +1,9 @@
+## 2020-08-31
+- You can now favorite graph variants, which will pin the variant to the top of the graphs list page.  
+- Favorited variants are saved to your individual account, so you'll be able to see them when logging in on a new device.
+- To favorite a graph, hover over your desired variant on the graph list page, and click the star icon on the left side:
+![favorite-graphs](https://user-images.githubusercontent.com/8431868/91739780-64573700-eb80-11ea-8073-4d66d0f0c443.gif)
+
 ## 2020-08-28
 - You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
 - "Cancel" button now added to Upload Schema modal in Schema tab.
