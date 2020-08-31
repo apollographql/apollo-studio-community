@@ -1,6 +1,10 @@
 ## 2020-08-31
 - We'll make a best guess at reconstructing any unrecognized directives, so schemas that don't include definitions for directives should no longer crash the Schema or Explorer pages.
 - Improved experience for path selection in Explorer page's search  
+- You can now favorite graph variants, which will pin the variant to the top of the graphs list page.  
+  Favorited variants are saved to your individual account, so you'll be able to see them when logging in on a new device.
+  To favorite a graph, hover over your desired variant on the graph list page, and click the star icon on the left side:
+  ![favorite-graphs](https://user-images.githubusercontent.com/8431868/91739780-64573700-eb80-11ea-8073-4d66d0f0c443.gif)
 
 ## 2020-08-28
 - You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
