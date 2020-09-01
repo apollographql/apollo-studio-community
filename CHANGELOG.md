@@ -1,3 +1,6 @@
+## 2020-09-01
+- When setting the endpoint url to be used in explorer, you now have the option of configuring it to include cookies for all users.  
+
 ## 2020-08-31
 - We'll make a best guess at reconstructing any unrecognized directives, so schemas that don't include definitions for directives should no longer crash the Schema or Explorer pages.
 - Improved experience for path selection in Explorer page's search  
