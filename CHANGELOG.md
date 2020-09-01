@@ -1,5 +1,6 @@
 ## 2020-09-01
-- When setting the endpoint url to be used in explorer, you now have the option of configuring it to include cookies for all users.  
+- When setting the endpoint url to be used in explorer, you now have the option of configuring it to include cookies for all users.
+- The history and checks pages in Studio now link to the commit you were on when you ran `service:push`/`service:check` for GitHub and Bitbucket users.
 
 ## 2020-08-31
 - We'll make a best guess at reconstructing any unrecognized directives, so schemas that don't include definitions for directives should no longer crash the Schema or Explorer pages.
