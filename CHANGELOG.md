@@ -1,5 +1,5 @@
 ## 2020-09-24
-- Federation: you can now see composition errors on implementing services published to your variant. You can see these composition errors, if present, by clicking on the "services" tab of the variant in question.
+- Federation: you can now see composition errors on implementing services published to your variant. You can see these composition errors, if present, by clicking on the "services" tab of the variant in question.  
 
 ## 2020-09-23
 - Creating new graphs with the Apollo Server integration is now simpler. Running your server with the `APOLLO_KEY` and
