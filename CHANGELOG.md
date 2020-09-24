@@ -1,3 +1,11 @@
+## 2020-09-16
+- Studio welcomes a new and improved check details page, featuring...
+  - Request usage graphs of affected operations
+  - Differentiation between operations that are broken vs. changing behavior
+  - One-click views of operation bodies, change details, and check configuration
+  - A brand new visual feel
+  - ... and more! We hope you enjoy
+
 ## 2020-09-08
 - Explorer now supports subscriptions, you can set a separate subscription URL in the variant settings  
 
