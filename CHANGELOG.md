@@ -2,8 +2,6 @@
 - Creating new graphs with the Apollo Server integration is now simpler. Running your server with the `APOLLO_KEY` and
 `APOLLO_SCHEMA_REPORTING` environment variables will now automatically report metrics and schema to Studio, with no configuration in `ApolloServer` itself necessary.
 
-Instead of adding configuration to your `ApolloServer` constructor, you 
-
 ## 2020-09-16
 - Studio welcomes a new and improved check details page, featuring...
   - Request usage graphs of affected operations
