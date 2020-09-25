@@ -41,7 +41,7 @@ You follow the link to https://studio.apollographql.com/dev to query your localh
 
 We aim to make dev graphs especially easy to use with Apollo Server, and will probably be considering a closer integration with Apollo Server over time.
 
-We also aim to make more of Studio's tools for regular graphs available in dev graphs as we figure out how those tools should work in a local development workflow.
+We also aim to make more of the production tools in Apollo Studio available for dev graphs as we figure out in the future and invite feedback on how you'd want to use them in your development flow.
 
 ### Share Your Thoughs Please Please Please
 
