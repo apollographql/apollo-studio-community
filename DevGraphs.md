@@ -2,7 +2,7 @@
 
 We have wanted to make Apollo Studio helpful to folks during local development for a long time. Up until now, Apollo Studio has largely been tailored to work with graphs already running in production.
 
-Dev Graphs are **a new type of graph** that users can create in Studio. They have special properties that have been optimized for development-time concerns.
+Dev graphs are **a new type of graph** that users can create in Studio. They have special properties that have been optimized for development-time concerns.
 
 ### Dev Graph Properties
 
