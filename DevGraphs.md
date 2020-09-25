@@ -13,7 +13,7 @@ Dev Graphs are **a new type of graph** that users can create in Studio. They hav
 - Dev graphs are sandboxes that are safe to experiment with, and completely separate from your other graphs in Studio.
 - Every tool in dev graphs is completely free to use, and always will be.
 
-Dev graphs contain a subset of Studio's full feature set right now:
+Dev graphs offer a subset of the features of Apollo Studio:
 
 - Explorer
 - Schema Reference
