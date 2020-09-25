@@ -33,7 +33,7 @@ Imagine your server printing on startup:
 🔉  Listening at http://localhost:4000/
 ```
 
-You follow the link to https://studio.apollographql.com/dev to query your localhost with [Apollo's Explorer](https://www.apollographql.com/blog/introducing-the-apollo-explorer/):
+You follow the link to https://studio.apollographql.com/dev to query your localhost with [Apollo Explorer](https://www.apollographql.com/blog/introducing-the-apollo-explorer/):
 
 ![image](https://user-images.githubusercontent.com/5922187/94214674-0243d600-fe8f-11ea-9e3b-b08fe7facc90.png)
 
