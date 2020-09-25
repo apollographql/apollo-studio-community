@@ -6,20 +6,16 @@ Dev graphs are **a new type of graph** that users can create in Studio. They hav
 
 ### Dev Graph Properties
 
-- Dev graphs are set up and kept up-to-date with schema introspection.
-- Dev graphs are unique to you –– only you can see and use the dev graphs you create.
-- Dev graphs watch for changes to your server so they can update themselves near-instantaneously when your schema changes.
+- Dev graphs are set up and kept up-to-date with schema introspection. They watch for changes to your server so they can update themselves near-instantaneously when your schema changes.
+- Dev graphs are unique to you –– only you can see and use the dev graphs you create. They are sandboxes that are safe to experiment with, and completely separate from your other graphs in Studio.
 - Dev graphs are transient and can be considered "disposable" in your workflow (e.g. you could make a dev graph per branch).
-- Dev graphs are sandboxes that are safe to experiment with, and completely separate from your other graphs in Studio.
-- Every tool in dev graphs is completely free to use, and always will be.
+- Every tool in dev graphs is completely free to use.
 
 Dev graphs offer a subset of the features of Apollo Studio:
 
 - Explorer
 - Schema Reference
 - Schema Changelog
-
-We will be introducing more of Studio's tools for regular graphs to dev graphs over time as we add support for local development to those features.
 
 ### Intended Use
 
