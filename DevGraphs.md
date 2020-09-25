@@ -43,6 +43,6 @@ We aim to make dev graphs especially easy to use with Apollo Server, and will pr
 
 We also aim to make more of the production tools in Apollo Studio available for dev graphs as we figure out in the future and invite feedback on how you'd want to use them in your development flow.
 
-### Share Your Thoughs Please Please Please
+### We want to hear from you! Share your thoughts
 
 Want to give the experience a try? Visit https://studio.apollographql.com/dev yourself to try things out. You can also clone https://github.com/daniman/graphql-server for a quick server starter if you don't have one handy.
