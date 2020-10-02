@@ -1,3 +1,7 @@
+## 2020-10-02
+
+- The [Datadog integration](https://www.apollographql.com/docs/studio/datadog-integration/) now sends metrics that start with `apollo.operations` instead of `apollo.engine.operations` and tags them with `graph:` rather than `service:`, to match our current naming scheme. This change affects newly configured Datadog integrations only. Graphs currently sending metrics to Datadog continue to use the old names; you can change to use the new names by clicking "Transition to modern mode" on your graph's Integrations page.
+
 ## 2020-09-24
 - Federation: you can now see composition errors on implementing services published to your variant. You can see these composition errors, if present, by clicking on the "services" tab of the variant in question.  
 
