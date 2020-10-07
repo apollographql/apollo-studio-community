@@ -1,3 +1,7 @@
+## 2020-10-06
+- Schema References will now detect comments containing text matching the pattern of "TypeName.fieldName" and turn those into navigable links
+  ![Screen Recording 2020-10-06 at 09 56 11 PM](https://user-images.githubusercontent.com/743976/95278712-cdd10200-081e-11eb-8afd-e55d1f7afe86.gif)
+
 ## 2020-10-02
 
 - The [Datadog integration](https://www.apollographql.com/docs/studio/datadog-integration/) now sends metrics that start with `apollo.operations` instead of `apollo.engine.operations` and tags them with `graph:` rather than `service:`, to match our current naming scheme. This change affects newly configured Datadog integrations only. Graphs currently sending metrics to Datadog continue to use the old names; you can change to use the new names by clicking "Transition to modern mode" on your graph's Integrations page.
