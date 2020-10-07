@@ -1,5 +1,5 @@
 ## 2020-10-06
-- Schema References will now detect comments containing text matching the pattern of "TypeName.fieldName" and turn those into navigable links
+- Schema Reference will now detect comments containing text matching the pattern of "TypeName.fieldName" and turn those into navigable links
   ![Screen Recording 2020-10-06 at 09 56 11 PM](https://user-images.githubusercontent.com/743976/95278712-cdd10200-081e-11eb-8afd-e55d1f7afe86.gif)
 
 ## 2020-10-02
