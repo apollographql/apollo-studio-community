@@ -13,3 +13,9 @@ Here's what we plan to do for the next phase of work in Studio on access control
 3. Introduce a way to mark variants as **protected**. A protected variant is effectively _read-only_ to everyone who can see the graph except the graph admins and org admins, who have permission to push schemas, see keys, change configuration, etc.
 4. Introduce a way to assign roles to graph API keys. We would make the **Consumer**, **Observer**, **Contributor**, and **Graph Admin** roles available for assignment on API key creation.
 5. Introduce a setting on graphs that flags them as "visible" or "hidden" to the members of that graph's org by default. Right now, all graphs in the org are visible to all members of the org. If you mark a graph as "hidden" to your org, only you will see it. You can grant permission for other users in your org to see your graph as well.
+
+### Other considerations
+
+This plan does not yet tackle variant-specific tokens, but we think there's value to that and will likely end up adding that as well sooner rather than later.
+
+Having variant-specific tokens will allow us to create contributor tokens for protected variants, which would save us from needing an added Deployer role in between Contributor and Graph Admin at some point.
