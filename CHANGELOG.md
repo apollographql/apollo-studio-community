@@ -1,3 +1,7 @@
+## 2020-10-19
+- Timestamps: additional timezone information is now included in many places where it was not before.  In addition, hovering over a timestamp in the app will reveal both local time and UTC / [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) time with "copy to clipboard" capability for sharing or syncing with other tools.
+![Timestamps](https://user-images.githubusercontent.com/1831709/96394656-4916b880-120e-11eb-8054-dcb94dda8249.gif)
+
 ## 2020-10-06
 - Schema Reference will now detect comments containing text matching the pattern of "TypeName.fieldName" and turn those into navigable links
   ![Screen Recording 2020-10-06 at 09 56 11 PM](https://user-images.githubusercontent.com/743976/95278712-cdd10200-081e-11eb-8afd-e55d1f7afe86.gif)
