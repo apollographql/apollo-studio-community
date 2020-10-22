@@ -1,35 +1,31 @@
-# Preview: Dev Graphs
+# Preview: Graphs for Local Development
 
-We have wanted to make Apollo Studio helpful to folks during local development for a long time. Up until now, Apollo Studio has largely been tailored to work with graphs already running in production.
+For a long time, we have wanted to make Studio's tools for writing queries and iterating on schema change accessible to folks during local development. Up until now, Studio's tools have mostly been designed to connect to graphs that are deployed and have lacked the responsivity to schema changes that's necessary for a nice local development experience.
 
-Dev graphs are **a new type of graph** that users can create in Studio. They have special properties that have been optimized for development-time concerns.
+We have recently added a new type of graph to Studio called a "Development Graph" with special properties:
 
-### Dev Graph Properties
-
-- Dev graphs are set up and kept up-to-date with schema introspection. They watch for changes to your server so they can update themselves near-instantaneously when your schema changes.
-- Dev graphs are unique to you –– only you can see and use the dev graphs you create. They are sandboxes that are safe to experiment with, and completely separate from your other graphs in Studio.
-- Dev graphs are transient and can be considered "disposable" in your workflow (e.g. you could make a dev graph per branch).
-- Every tool in dev graphs is completely free to use.
-
-Dev graphs offer a subset of the features of Apollo Studio:
-
-- Explorer
-- Schema Reference
-- Schema Changelog
+- Dev graphs give you full access to Studio's Explorer and Schema tools for free, unlimited use.
+- Dev graphs will poll your localhost and pick up changes to your schema as soon as you make them. Dev graphs will reload themselves automatically, so you can start querying those schema changes with no effort on your end.
+- Dev graphs don't require any set up in your code. They provide tools entirely based on introspection and will work with every spec-compliant GraphQL server.
+- Dev graphs are private to you. If your team already has some shared graphs in Studio, your teammates will not see your dev graphs in their list.
 
 ### Intended Use
 
 We intend for folks to use dev graphs when running their servers locally to spike out changes to their schema and test their endpoints.
 
+We have seen people use dev graphs in a variety of ways, from creating one per project to creating one per branch. Each dev graph is its own sandbox and isolated workspace, so you can have context in multiple workspaces at once even if you're switching branches locally or running different graphs on the same port.
+
+#### Development Graph Workflow
+
 Imagine your server printing on startup:
 
 ```
 🚀  Server is running!
+🔉  Listening on port 4000
 📭  Query at https://studio.apollographql.com/dev
-🔉  Listening at http://localhost:4000/
 ```
 
-You follow the link to https://studio.apollographql.com/dev to query your localhost with [Apollo Explorer](https://www.apollographql.com/blog/introducing-the-apollo-explorer/):
+You follow the link to https://studio.apollographql.com/dev to query your localhost with Studio's [Explorer](https://www.apollographql.com/blog/introducing-the-apollo-explorer/):
 
 ![image](https://user-images.githubusercontent.com/5922187/94214674-0243d600-fe8f-11ea-9e3b-b08fe7facc90.png)
 
