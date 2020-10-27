@@ -1,6 +1,9 @@
 ## 2020-10-26
 - We've introduced a new experience in Studio that's optimized for bringing Studio's tools to you during local development. We have [written some preview docs](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/DevGraphs.md) and the experience are accessible at studio.apollographql.com/dev. We willl be launching this experience more formally in November.
 
+## 2020-10-22
+- You can now see field latency performance stats inline in the Explorer as you write queries by turning this on in the Explorer's settings pane.
+
 ## 2020-10-19
 - Timestamps: additional timezone information is now included in many places where it was not before.  In addition, hovering over a timestamp in the app will reveal both local time and UTC / [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) time with "copy to clipboard" capability for sharing or syncing with other tools.
 ![Timestamps](https://user-images.githubusercontent.com/1831709/96394656-4916b880-120e-11eb-8054-dcb94dda8249.gif)
