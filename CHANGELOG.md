@@ -1,14 +1,23 @@
 ## 2020-10-26
+
 - We've introduced a new experience in Studio that's optimized for bringing Studio's tools to you during local development. We have [written some preview docs](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/DevGraphs.md) and the experience are accessible at studio.apollographql.com/dev. We willl be launching this experience more formally in November.
 
+## 2020-10-23
+
+- Building off of recent updates to schema checks, you can now rerun checks from inside Studio. When you rerun a check, the latest check configuration is applied. The new check uses an updated time window for operations — in addition, any changes made to excluded / included clients, checked variants, and any operations already marked safe / ignored are incorporated when rerunning. If you are using the Github Action to trigger checks, a rerun of the check also updates the status of the check in Github.
+  ![Rerun Checks Screenshot](https://user-images.githubusercontent.com/1831709/97130183-c30deb00-1794-11eb-8b03-a79818ac78db.png)
+
 ## 2020-10-22
+
 - You can now see field latency performance stats inline in the Explorer as you write queries by turning this on in the Explorer's settings pane.
 
 ## 2020-10-19
-- Timestamps: additional timezone information is now included in many places where it was not before.  In addition, hovering over a timestamp in the app will reveal both local time and UTC / [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) time with "copy to clipboard" capability for sharing or syncing with other tools.
-![Timestamps](https://user-images.githubusercontent.com/1831709/96394656-4916b880-120e-11eb-8054-dcb94dda8249.gif)
+
+- Timestamps: additional timezone information is now included in many places where it was not before. In addition, hovering over a timestamp in the app will reveal both local time and UTC / [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) time with "copy to clipboard" capability for sharing or syncing with other tools.
+  ![Timestamps](https://user-images.githubusercontent.com/1831709/96394656-4916b880-120e-11eb-8054-dcb94dda8249.gif)
 
 ## 2020-10-06
+
 - Schema Reference will now detect comments containing text matching the pattern of "TypeName.fieldName" and turn those into navigable links
   ![Screen Recording 2020-10-06 at 09 56 11 PM](https://user-images.githubusercontent.com/743976/95278712-cdd10200-081e-11eb-8afd-e55d1f7afe86.gif)
 
@@ -17,13 +26,16 @@
 - The [Datadog integration](https://www.apollographql.com/docs/studio/datadog-integration/) now sends metrics that start with `apollo.operations` instead of `apollo.engine.operations` and tags them with `graph:` rather than `service:`, to match our current naming scheme. This change affects newly configured Datadog integrations only. Graphs currently sending metrics to Datadog continue to use the old names; you can change to use the new names by clicking "Transition to modern mode" on your graph's Integrations page.
 
 ## 2020-09-24
-- Federation: you can now see composition errors on implementing services published to your variant. You can see these composition errors, if present, by clicking on the "services" tab of the variant in question.  
+
+- Federation: you can now see composition errors on implementing services published to your variant. You can see these composition errors, if present, by clicking on the "services" tab of the variant in question.
 
 ## 2020-09-23
+
 - Creating new graphs with the Apollo Server integration is now simpler. Running your server with the `APOLLO_KEY` and
-`APOLLO_SCHEMA_REPORTING` environment variables will now automatically report metrics and schema to Studio, with no configuration in `ApolloServer` itself necessary.
+  `APOLLO_SCHEMA_REPORTING` environment variables will now automatically report metrics and schema to Studio, with no configuration in `ApolloServer` itself necessary.
 
 ## 2020-09-16
+
 - Studio welcomes a new and improved check details page, featuring...
   - Request usage graphs of affected operations
   - Differentiation between operations that are broken vs. changing behavior
@@ -32,31 +44,38 @@
   - ... and more! We hope you enjoy
 
 ## 2020-09-08
-- Explorer now supports subscriptions, you can set a separate subscription URL in the variant settings  
+
+- Explorer now supports subscriptions, you can set a separate subscription URL in the variant settings
 
 ## 2020-09-01
+
 - When setting the endpoint url to be used in explorer, you now have the option of configuring it to include cookies for all users.
 - The history and checks pages in Studio now link to the commit you were on when you ran `service:push`/`service:check` for GitHub and Bitbucket users.
 
 ## 2020-08-31
+
 - We'll make a best guess at reconstructing any unrecognized directives, so schemas that don't include definitions for directives should no longer crash the Schema or Explorer pages.
-- Improved experience for path selection in Explorer page's search  
-- You can now favorite graph variants, which will pin the variant to the top of the graphs list page.  
+- Improved experience for path selection in Explorer page's search
+- You can now favorite graph variants, which will pin the variant to the top of the graphs list page.
   Favorited variants are saved to your individual account, so you'll be able to see them when logging in on a new device.
   To favorite a graph, hover over your desired variant on the graph list page, and click the star icon on the left side:
   ![favorite-graphs](https://user-images.githubusercontent.com/8431868/91739780-64573700-eb80-11ea-8073-4d66d0f0c443.gif)
 
 ## 2020-08-28
+
 - You can now use [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) directives in studio to apply transformations to your results.
 - "Cancel" button now added to Upload Schema modal in Schema tab.
 
 ## 2020-08-26
+
 - User roles and permissions are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation](https://www.apollographql.com/docs/studio/org/members) for the feature for a detailed breakdown on what permissions each role has.
 
 ## 2020-08-21
+
 - 🐛 Bug fix: SSO users should see their name and avatar in Studio now (provided they've set up the attribute mapping via PingOne)
 
 ## 2020-08-20
+
 - 🐛 Bug fix: schema checks no longer skip anonymous operations
 
 ## 2020-08-18
@@ -65,7 +84,6 @@
 - Directives are now visible in "Reference" ![image](https://user-images.githubusercontent.com/743976/90544698-82bb3c80-e155-11ea-8b30-bba588564705.png)
 - Types and Fields that appear in Changelog now link to their place in Reference
 - Reference is now searchable via `⌘ + K` (`Ctrl + K` for PC) ![image](https://user-images.githubusercontent.com/743976/90545321-78e60900-e156-11ea-819d-df7374e6c494.png)
-
 
 ## 2020-08-05
 
