@@ -1,3 +1,9 @@
+## 2020-10-28
+
+- You can now display query response data in both JSON and in a table view using toggles at the top of the response pane:
+![table-view-gif](https://user-images.githubusercontent.com/8431868/97485038-f5078480-192f-11eb-8dcd-adc5cac4ad9d.gif)
+
+
 ## 2020-10-26
 
 - We've introduced a new experience in Studio that's optimized for bringing Studio's tools to you during local development. We have [written some preview docs](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/DevGraphs.md) and the experience are accessible at studio.apollographql.com/dev. We willl be launching this experience more formally in November.
