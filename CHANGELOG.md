@@ -1,3 +1,9 @@
+## 2020-10-29
+
+- You can now inline and extract variables from your operations in the Explorer by right-clicking in the Explorer's editor and selecting the "Inline" and "Extract" options from the context menu there:
+![Screen Recording 2020-10-29 at 03 32 29 PM](https://user-images.githubusercontent.com/5922187/97639919-cc998c00-19fc-11eb-8c17-754e3494c566.gif)
+
+
 ## 2020-10-28
 
 - You can now display query response data in both JSON and in a table view using toggles at the top of the response pane:
