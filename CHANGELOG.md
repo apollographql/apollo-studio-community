@@ -22,6 +22,7 @@
 ## 2020-10-22
 
 - You can now see field latency performance stats inline in the Explorer as you write queries by turning this on in the Explorer's settings pane.
+![ElTA31CUwAAvPuK](https://user-images.githubusercontent.com/5922187/97661451-9b877e80-1a31-11eb-9323-b2a31f33630e.jpeg)
 
 ## 2020-10-19
 
