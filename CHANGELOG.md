@@ -1,7 +1,11 @@
+## 2020-10-31
+- Happy Halloween! Here's our present to you (no trick, just treat). In graphs using managed federation, you can now see query plans inlined next to your operations in the Explorer as you write them. The Explorer calculates query plans on the fly with your implementing services as input.
+![Screen Recording 2020-10-30 at 04 43 32 PM](https://user-images.githubusercontent.com/5922187/97766759-1bb2f000-1ad5-11eb-9c9b-44322217fcdd.gif)
+
+
 ## 2020-10-30
 
 - You can now mock data from your operations in the Explorer with the "Mock responses" option in the Explorer's settings. This will return naively mocked data rather than sending requests to your endpoint. This is useful if you need to generate test data or if you want to try out queries without having and endpoint to send to.
-
 ![image](https://user-images.githubusercontent.com/5922187/97745141-a11eac00-1aa5-11eb-9a47-c9f8a2037ce2.png)
 
 
