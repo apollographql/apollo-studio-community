@@ -1,4 +1,4 @@
-> 👋 We have a POC of this that is available on-request for your account. If you're interested in getting early access to the feature and working with us to mature it and bring it to general availability, please get in touch with support@apollographql.com.
+> 👋  **Update:** We have a POC of this that is available on-request for your account. If you're interested in getting early access to the feature and working with us to mature it and bring it to general availability, please get in touch with support@apollographql.com.
 
 # RFC: Pre-request scripts and environment variables for [Apollo Studio's Explorer](https://www.apollographql.com/blog/introducing-the-apollo-explorer/).
 
