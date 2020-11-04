@@ -1,3 +1,5 @@
+> 👋 Update: "Development Graphs" are now available for free, unlimited use in Studio. You can create a new dev graph at any time by selecting the "Development" type in the New Graph modal. You can also use this shortcut at any time: https://studio.apollographql.com/dev.
+
 # Preview: Graphs for Local Development
 
 For a long time, we have wanted to make Studio's tools for writing queries and iterating on schema change accessible to folks during local development. Up until now, Studio's tools have mostly been designed to connect to graphs that are deployed and have lacked the responsivity to schema changes that's necessary for a nice local development experience.
