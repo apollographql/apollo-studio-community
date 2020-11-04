@@ -44,20 +44,24 @@ The pre-request script will be able to read from and write to environment variab
 Here's an example of what such a script might look like:
 
 ```js
-if (new Date().getTime() > context.environment.get('token_expires_at') {
-  context.sendRequest(
+if (new Date().getTime() > pm.environment.get('token_expires_at')) {
+  pm.sendRequest(
     {
       url: "https://example.com/token",
-      header: { ... },
-      body: '...',
+      method: "POST",
+      header: {
+        "Content-Type": "application/json",
+        //...
+      },
+      body: JSON.stringify({ refreshToken: pm.environment.get('refresh_token') }),
     },
     function cb(err, res) {
       if (err) {
         throw err;
       } else {
         const json = JSON.parse(res.body);
-        context.environment.set('token', json.access_token);
-        context.environment.set('token_expires_at', json.expires_at);
+        pm.environment.set('token', json.access_token);
+        pm.environment.set('token_expires_at', json.expires_at);
       }
     },
   );
