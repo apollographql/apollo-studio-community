@@ -1,4 +1,4 @@
-> 👋 Update: "Development Graphs" are now available for free, unlimited use in Studio. You can create a new dev graph at any time by selecting the "Development" type in the New Graph modal. You can also use this shortcut at any time: https://studio.apollographql.com/dev.
+> 👋 **Update:** "Development Graphs" are now available for free, unlimited use in Studio. You can create a new dev graph at any time by selecting the "Development" type in the New Graph modal. You can also use this shortcut at any time: https://studio.apollographql.com/dev.
 
 # Preview: Graphs for Local Development
 
