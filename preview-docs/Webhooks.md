@@ -40,10 +40,22 @@ You will be asked to specify a name and a destination URL for your webhook chann
 Once you've done that you will have the option send a test notification to confirm that your destination service is receiving notifications from us.
 
 When we see a schema change to your Graph we will make an HTTP POST request to the URL specified.
-The body of that request will contain a JSON representation of the changes we identified - fields added, fields removed, fields changed, etc.
+The body of that request will contain a JSON representation of the changes we identified - fields added, fields removed, fields changed, etc as well as a link to retrieve the update schema.
 
 ```json
-{"sample_body":{"format":"tbd"}}
+{
+  "eventType": "SCHEMA__PUBLISHED",
+  "eventID": "dbf6fb65-a418-4e4a-be50-cbc579845913",
+  "changes": [
+    { "description": "type ServiceMutation: field deleteChannel added" },
+    { "description": "type ServiceMutation: field upsertSlackChannel added" },
+    { "description": "type AccountMutation: field upsertSlackChannel deprecated" },
+  ],
+  "schemaURL": "https://graph.api.apollographql.com/<SECRET>",
+  "schemaQuery": "query SchemaLookup(secret: <SECRET>) { document }",
+  "apiURL": "https://graph.api.apollographql.com/graphql",
+  "schemaURLExpiresAt": "2020-12-01:12:00:00.0000Z"
+}
 ```
 
 ### Troubleshooting
