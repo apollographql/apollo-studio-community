@@ -12,16 +12,17 @@ Webhooks are available only to customers on our Enterprise plan.
 
 ## How this works
 
-We will create a new integration channel: Webhooks.
-From our Integrations page you can create new Webhooks channels and select which types of events you want sent to your integration endpoint. Today we're launching with support for Schema Change Events.
+From our Integrations page you can create new Webhooks channels and select which types of events you want sent to your integration endpoint. Today we're launching with support for **Schema Change Events**. 
 
 ### Terms
 **Event:** Something that happens in Apollo Studio.
 
-**Event Type:** Events have specific types that denote what happened, including 'schema.change'.
+**Event Type:** Events have specific types that denote what happened.
+
+At launch we will include two distinct event types: `SCHEMA__PUBLISHED` and `SCHEMA__CHECKED`.
 
 **Event Subscription:** An event subscription is configured to do something when it sees a particular type of event. It is the thing that connects an event to a notification.
-*For example: when a `schema.change` event happens, send a webhook notification to a specified destination.*
+*For example: when a `SCHEMA__PUBLISHED` event happens, send a webhook notification to a specified destination.*
 
 **Notification:** The message we send to an external service.
 
