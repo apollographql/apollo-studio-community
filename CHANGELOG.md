@@ -1,4 +1,10 @@
+## 2020-11-05
+
+- Small enhancement to Operations / Errors UX: links from errors to traces are now able to be opened in a new tab using CMD+click / CTRL+click. ![image](https://user-images.githubusercontent.com/1831709/98312158-37fae380-2025-11eb-8d0c-4768c47cd1ae.png)
+
+
 ## 2020-10-31
+
 - Happy Halloween! Here's our present to you (no trick, just treat). In graphs using managed federation, you can now see query plans inlined next to your operations in the Explorer as you write them. The Explorer calculates query plans on the fly with your implementing services as input.
 ![Screen Recording 2020-10-30 at 04 43 32 PM](https://user-images.githubusercontent.com/5922187/97766759-1bb2f000-1ad5-11eb-9c9b-44322217fcdd.gif)
 
