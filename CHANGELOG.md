@@ -1,3 +1,9 @@
+## 2020-11-06
+
+- You can now see and browse traces from your responses in the Explorer if you're using Apollo Server 2.18+ and add the `ApolloServerPluginInlineTrace` plugin:
+![Screen Recording 2020-11-06 at 02 43 57 PM](https://user-images.githubusercontent.com/5922187/98421915-5241bb00-203f-11eb-8dd2-37132fc70c24.gif)
+
+
 ## 2020-11-05
 
 - Small enhancement to Operations / Errors UX: links from errors to traces are now able to be opened in a new tab using CMD+click / CTRL+click. ![image](https://user-images.githubusercontent.com/1831709/98312158-37fae380-2025-11eb-8d0c-4768c47cd1ae.png)
