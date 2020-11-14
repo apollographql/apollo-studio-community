@@ -1,3 +1,7 @@
+## 2020-11-13
+- You can now inline and extract fragments from your operations in the Explorer by using the right-click context menu:
+![Screen Recording 2020-11-11 at 02 49 40 PM](https://user-images.githubusercontent.com/5922187/99136885-673cc200-25dc-11eb-9237-4de29f6af31f.gif)
+
 ## 2020-11-06
 
 - You can now see and browse traces from your responses in the Explorer if you're using Apollo Server 2.18+ and add the `ApolloServerPluginInlineTrace` plugin:
