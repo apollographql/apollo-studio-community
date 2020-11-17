@@ -1,3 +1,13 @@
+## 2020-11-16
+
+| New in the Explorer | |
+| :-- | :-- |
+| Don’t send unused variables over the wire | ![Screen Recording 2020-11-16 at 04 00 42 PM](https://user-images.githubusercontent.com/5922187/99323038-246e2a80-2826-11eb-9e86-01e8c6cd9b47.gif) |
+| Visual Query Plans (rendered using mermaid) | ![image](https://user-images.githubusercontent.com/5922187/99334771-b893be00-2835-11eb-89ef-593a061060ee.png) |
+| Table Mode column sorting | ![Screen Recording 2020-11-16 at 06 03 23 PM](https://user-images.githubusercontent.com/5922187/99336192-20e29f80-2836-11eb-8e2a-7c650834bc64.gif) |
+| Download arrays from Table Mode to CSVs | ![image](https://user-images.githubusercontent.com/5922187/99335997-12948380-2836-11eb-8a34-8ae4c8ab2442.png) |
+| Choose the percentile (p50, p90, p99, etc) that you want your field latency hints displayed from | ![image](https://user-images.githubusercontent.com/5922187/99337060-6ef7a300-2836-11eb-81eb-32f0ecfdf7e3.png) |
+
 ## 2020-11-13
 - You can now inline and extract fragments from your operations in the Explorer by using the right-click context menu:
 ![Screen Recording 2020-11-11 at 02 49 40 PM](https://user-images.githubusercontent.com/5922187/99136885-673cc200-25dc-11eb-9237-4de29f6af31f.gif)
@@ -7,38 +17,32 @@
 - You can now see and browse traces from your responses in the Explorer if you're using Apollo Server 2.18+ and add the `ApolloServerPluginInlineTrace` plugin:
 ![Screen Recording 2020-11-06 at 02 43 57 PM](https://user-images.githubusercontent.com/5922187/98421915-5241bb00-203f-11eb-8dd2-37132fc70c24.gif)
 
-
 - Better handle un-executable operation. Shows information tooltips and italicizes the constant identifiers for un-executable operations that we're added in [Apollo Server 2.19.0](https://github.com/apollographql/apollo-server/blob/main/CHANGELOG.md#v2190) 
-
 ![Screen Shot 2020-11-06 at 5 35 09 PM](https://user-images.githubusercontent.com/14363000/98426684-0a2e9280-2057-11eb-985f-73299c5ebed8.png)
+
 ## 2020-11-05
 
 - Small enhancement to Operations / Errors UX: links from errors to traces are now able to be opened in a new tab using CMD+click / CTRL+click. ![image](https://user-images.githubusercontent.com/1831709/98312158-37fae380-2025-11eb-8d0c-4768c47cd1ae.png)
-
 
 ## 2020-10-31
 
 - Happy Halloween! Here's our present to you (no trick, just treat). In graphs using managed federation, you can now see query plans inlined next to your operations in the Explorer as you write them. The Explorer calculates query plans on the fly with your implementing services as input.
 ![Screen Recording 2020-10-30 at 04 43 32 PM](https://user-images.githubusercontent.com/5922187/97766759-1bb2f000-1ad5-11eb-9c9b-44322217fcdd.gif)
 
-
 ## 2020-10-30
 
 - You can now mock data from your operations in the Explorer with the "Mock responses" option in the Explorer's settings. This will return naively mocked data rather than sending requests to your endpoint. This is useful if you need to generate test data or if you want to try out queries without having and endpoint to send to.
 ![image](https://user-images.githubusercontent.com/5922187/97745141-a11eac00-1aa5-11eb-9a47-c9f8a2037ce2.png)
-
 
 ## 2020-10-29
 
 - You can now inline and extract variables from your operations in the Explorer by right-clicking in the Explorer's editor and selecting the "Inline" and "Extract" options from the context menu there:
 ![Screen Recording 2020-10-29 at 03 32 29 PM](https://user-images.githubusercontent.com/5922187/97639919-cc998c00-19fc-11eb-8c17-754e3494c566.gif)
 
-
 ## 2020-10-28
 
 - You can now display query response data in both JSON and in a table view using toggles at the top of the response pane:
 ![table-view-gif](https://user-images.githubusercontent.com/8431868/97485038-f5078480-192f-11eb-8dcd-adc5cac4ad9d.gif)
-
 
 ## 2020-10-26
 
