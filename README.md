@@ -6,11 +6,11 @@ We use this repository to engage with our Studio users and **track bugs**, **fea
 
 If you ever need urgent, SLA-backed support for Studio, please reach out to us through support@apollographql.com. We can't make any guarantees about the speed of our responses on this repository specifically.
 
-### What is Studio
+## What is Studio
 
 Studio has tools for several types of people in your organization, including administrators to your graph, contributors to your graph, and consumers of your graph.
 
-#### Developer Portal
+### Developer Portal
 
 By synchronizing your schema with Studio, you can create a developer portal for your team to access your graph that includes:
 
@@ -20,7 +20,7 @@ By synchronizing your schema with Studio, you can create a developer portal for 
 - An IDE for querying your graph with significantly more usability features than other query IDEs in the ecosystem ([Explorer](https://www.apollographql.com/docs/studio/explorer))
 - A mode to use the Explorer during local development and have it poll to keep itself up-to-date
 
-#### Usage Insights
+### Usage Insights
 
 Studio can also give you deep insights about your graph's usage if you synchronize usage data to it:
 
@@ -29,7 +29,7 @@ Studio can also give you deep insights about your graph's usage if you synchroni
 - Usage tracking on a per-client basis
 - Operation tracing and error reporting
 
-#### Federation
+### Federation
 
 If you're building a federated graph, Studio offers **Managed Federation** (a mode you can run your federation gateway in) that provides:
 
@@ -39,7 +39,7 @@ If you're building a federated graph, Studio offers **Managed Federation** (a mo
 - An added step of schema change validation that checks for a valid composition of your federated services
 - Live query plans in the Explorer as you build operations
 
-#### Access Control
+### Access Control
 
 For teams that need fine-grained access control to Studio, you can contact our Sales team to get access to:
 - User roles that can be applied to your organization or to specific graphs
