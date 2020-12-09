@@ -1,6 +1,6 @@
 ## 2020-12-10
 
-- New layout for metrics filtering tools! Instead of an overlapping sidebar that you can show / hide, we've embedded the controls for filtering by time range, clients, and operations directly into the page header. Now you can simply adjust the knobs without having to context-switch out of your current view.
+- New layout for metrics filtering tools! Instead of an overlapping sidebar, we've embedded the controls for filtering by time range, clients, and operations directly into the page header. Now you can simply adjust the knobs without having to context-switch out of your current view.
   ![Updated Filter UX](https://user-images.githubusercontent.com/1831709/101563762-f7282d00-3a1d-11eb-9a89-012280710c52.gif)
 
 ## 2020-11-16
