@@ -1,3 +1,9 @@
+## 2021-01-05
+- We have updated the visual presentation of our Graphs list. Each graph is now represented as a card, we've added a settings link directly from the graph list, and we now represent links with blue to make them look more clickable:
+<img width="960" alt="Screen Shot 2021-01-05 at 9 32 14 AM" src="https://user-images.githubusercontent.com/5922187/103678896-fdd09400-4f38-11eb-92f3-6da406b14ee4.png">
+
+
+
 ## 2020-12-10
 
 - New layout for metrics filtering tools! Instead of an overlapping sidebar, we've embedded the controls for filtering by time range, clients, and operations directly into the page header. Now you can simply adjust the knobs without having to context-switch out of your current view.
