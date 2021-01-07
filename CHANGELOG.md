@@ -1,3 +1,9 @@
+## 2021-01-07
+- We have transitioned our underlying support system at Apollo from Intercom to Zendesk. If you need to get in touch with us, please file a ticket with our new Contact Support form (available in the top right corner of the Studio UI):
+<img width="625" alt="Screen Shot 2021-01-07 at 10 01 45 AM" src="https://user-images.githubusercontent.com/5922187/103927585-70737800-50cf-11eb-9cae-8ba0003be642.png">
+
+
+
 ## 2021-01-05
 - We have updated the visual presentation of our Graphs list. Each graph is now represented as a card, we've added a settings link directly from the graph list, and we now represent links with blue to make them look more clickable:
 <img width="960" alt="Screen Shot 2021-01-05 at 9 32 14 AM" src="https://user-images.githubusercontent.com/5922187/103678896-fdd09400-4f38-11eb-92f3-6da406b14ee4.png">
