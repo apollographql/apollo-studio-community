@@ -1,5 +1,14 @@
+## 2021-01-12
+- You can now hard delete organizations on your organization's **Settings** page. Previously, you needed to contact Apollo support to do this. When you hard delete an organization, the following things will happen:
+  - If your organization is on a Team plan or Team trial, your subscription willl be immediately canceled. We can't issue refunds for this unfortunately.
+  - All users memberships in your organization will be removed. Users of your organization will maintain their user accounts, but they will no longer be members of your org.
+  - All graphs in your organization will be hard deleted. To keep your data secure, their graph IDs will be tombstoned and you will not be able to create new graphs with the same ID in the future.
+![image](https://user-images.githubusercontent.com/5922187/104364461-76040000-54cb-11eb-929f-7bf935128f39.png)
+
+
+
 ## 2021-01-07
-- We have transitioned our underlying support system at Apollo from Intercom to Zendesk. If you need to get in touch with us, please file a ticket with our new Contact Support form (available in the top right corner of the Studio UI):
+- We have transitioned our underlying support system at Apollo from **Intercom** to **Zendesk**. If you need to get in touch with us, please file a ticket with our new **Contact Support** form (available in the top right corner of the Studio UI):
 <img width="625" alt="Screen Shot 2021-01-07 at 10 01 45 AM" src="https://user-images.githubusercontent.com/5922187/103927585-70737800-50cf-11eb-9cae-8ba0003be642.png">
 
 
