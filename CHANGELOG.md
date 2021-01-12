@@ -66,6 +66,7 @@
 
 ## 2020-10-26
 | What's new |
+| :--------- |
 | We've introduced a new experience in Studio that's optimized for bringing Studio's tools to you during local development. We have [written some preview docs](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/DevGraphs.md) and the experience are accessible at studio.apollographql.com/dev. We willl be launching this experience more formally in November. |
 
 ## 2020-10-23
@@ -161,9 +162,10 @@
 
 ## 2020-08-05
 | New in general |    |
-| : ------------ | -- |
-| You can now do a _one-time_ schema upload to Studio by introspecting a URL or pasting a schema to get started **much** more quickly. |   |
+| :------------- | -- |
+| You can now do a _one-time_ schema upload to Studio by introspecting a URL or pasting a schema to get started **much** more quickly. | |
 | You can now do a one-time upload of your schema at any point by clicking the "Upload Schema" button on the Schema page. | ![Screen Recording 2020-08-05 at 10 32 09 AM](https://user-images.githubusercontent.com/5922187/89444869-3c9ebb80-d707-11ea-9afe-2ad911843933.gif) |
+
 
 | New in the Explorer: |     |
 | -------------------- | --- |
