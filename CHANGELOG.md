@@ -1,33 +1,27 @@
 ## 2021-01-12
-- You can now hard delete organizations on your organization's **Settings** page. Previously, you needed to contact Apollo support to do this. When you hard delete an organization, the following things will happen:
-  - If your organization is on a Team plan or Team trial, your subscription willl be immediately canceled. We can't issue refunds for this unfortunately.
-  - All users memberships in your organization will be removed. Users of your organization will maintain their user accounts, but they will no longer be members of your org.
-  - All graphs in your organization will be hard deleted. To keep your data secure, their graph IDs will be tombstoned and you will not be able to create new graphs with the same ID in the future.
-![image](https://user-images.githubusercontent.com/5922187/104364461-76040000-54cb-11eb-929f-7bf935128f39.png)
-
-
+| What's new |    |
+| :--------- | -- |
+| You can now hard delete organizations on your organization's **Settings** page. Previously, you needed to contact Apollo support to do this. When you hard delete an organization, the following things will happen:<ul><li>If your organization is on a Team plan or Team trial, your subscription willl be immediately canceled. We can't issue refunds for this unfortunately.</li><li>All users memberships in your organization will be removed. Users of your organization will maintain their user accounts, but they will no longer be members of your org.</li><li>All graphs in your organization will be hard deleted. To keep your data secure, their graph IDs will be tombstoned and you will not be able to create new graphs with the same ID in the future.</li></ul>| <img width="600" src="https://user-images.githubusercontent.com/5922187/104364461-76040000-54cb-11eb-929f-7bf935128f39.png"> |
 
 ## 2021-01-07
-- We have transitioned our underlying support system at Apollo from **Intercom** to **Zendesk**. If you need to get in touch with us, please file a ticket with our new **Contact Support** form (available in the top right corner of the Studio UI):
-<img width="625" alt="Screen Shot 2021-01-07 at 10 01 45 AM" src="https://user-images.githubusercontent.com/5922187/103927585-70737800-50cf-11eb-9cae-8ba0003be642.png">
-
-
+| What's new |    |
+| :--------- | -- |
+| We have transitioned our underlying support system at Apollo from **Intercom** to **Zendesk**. If you need to get in touch with us, please file a ticket with our new **Contact Support** form (available in the top right corner of the Studio UI). | <img width="400" alt="Screen Shot 2021-01-07 at 10 01 45 AM" src="https://user-images.githubusercontent.com/5922187/103927585-70737800-50cf-11eb-9cae-8ba0003be642.png"> |
 
 ## 2021-01-05
-- We have updated the visual presentation of our Graphs list. Each graph is now represented as a card, we've added a settings link directly from the graph list, and we now represent links with blue to make them look more clickable:
-<img width="960" alt="Screen Shot 2021-01-05 at 9 32 14 AM" src="https://user-images.githubusercontent.com/5922187/103678896-fdd09400-4f38-11eb-92f3-6da406b14ee4.png">
-
-
+| What's new |    |
+| :--------- | -- |
+| We have updated the visual presentation of our Graphs list. Each graph is now represented as a card, we've added a settings link directly from the graph list, and we now represent links with blue to make them look more clickable. | <img width="960" alt="Screen Shot 2021-01-05 at 9 32 14 AM" src="https://user-images.githubusercontent.com/5922187/103678896-fdd09400-4f38-11eb-92f3-6da406b14ee4.png"> |
 
 ## 2020-12-10
-
-- New layout for metrics filtering tools! Instead of an overlapping sidebar, we've embedded the controls for filtering by time range, clients, and operations directly into the page header. Now you can simply adjust the knobs without having to context-switch out of your current view.
-  ![Updated Filter UX](https://user-images.githubusercontent.com/1831709/101563762-f7282d00-3a1d-11eb-9a89-012280710c52.gif)
+| What's new |    |
+| :--------- | -- |
+| New layout for metrics filtering tools! Instead of an overlapping sidebar, we've embedded the controls for filtering by time range, clients, and operations directly into the page header. Now you can simply adjust the knobs without having to context-switch out of your current view. | ![Updated Filter UX](https://user-images.githubusercontent.com/1831709/101563762-f7282d00-3a1d-11eb-9a89-012280710c52.gif) |
 
 ## 2020-11-16
 
-| New in the Explorer                                                                              |                                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What's new in the Explorer |    |
+| :------------------------- | -- |
 | Don’t send unused variables over the wire                                                        | ![Screen Recording 2020-11-16 at 04 00 42 PM](https://user-images.githubusercontent.com/5922187/99323038-246e2a80-2826-11eb-9e86-01e8c6cd9b47.gif) |
 | Visual Query Plans (rendered using mermaid)                                                      | ![image](https://user-images.githubusercontent.com/5922187/99334771-b893be00-2835-11eb-89ef-593a061060ee.png)                                      |
 | Table Mode column sorting                                                                        | ![Screen Recording 2020-11-16 at 06 03 23 PM](https://user-images.githubusercontent.com/5922187/99336192-20e29f80-2836-11eb-8e2a-7c650834bc64.gif) |
@@ -145,12 +139,14 @@
 - User roles and permissions are now available in Studio by request –– email support@apollographql.com if you're interested. Take a look at our [official documentation](https://www.apollographql.com/docs/studio/org/members) for the feature for a detailed breakdown on what permissions each role has.
 
 ## 2020-08-21
-
-- 🐛 Bug fix: SSO users should see their name and avatar in Studio now (provided they've set up the attribute mapping via PingOne)
+| 🐛 Bug fix |
+| :--------- |
+| SSO users should see their name and avatar in Studio now (provided they've set up the attribute mapping via PingOne) |
 
 ## 2020-08-20
-
-- 🐛 Bug fix: schema checks no longer skip anonymous operations
+| 🐛 Bug fix |
+| :--------- |
+| Schema Checks no longer skip anonymous operations |
 
 ## 2020-08-18
 
@@ -189,24 +185,24 @@ We have released the new Checks page for our schema [checks feature](https://www
 
 ## 2020-07-21
 
-| New in the Explorer:                                                                                                                                               |                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New in the Explorer:   |            |
+| ---------------------- | ---------- |
 | You can now see inlined response hints in the Explorer. As you add fields to your query or change variables, the Explorer will make partial requests for new data. | ![Screen Recording 2020-07-27 at 06 15 22 PM](https://user-images.githubusercontent.com/5922187/88607871-2de44480-d035-11ea-81d6-2e7094ae23fb.gif) |
 
 ## 2020-07-14
 
-| New in Integrations:                                                                                                                                    |                                                                                                                                                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New in Integrations:      |      |
+| :------------------------ | ---- |
 | By popular request, you can now use the Datadog-forwarder with Datadog instances in the EU. Head to your graph's Integrations page to configure this 🌍 | ![Screen Recording 2020-08-03 at 01 17 38 PM](https://user-images.githubusercontent.com/5922187/89223506-c1fd6100-d58b-11ea-8e51-0f047d3757ea.gif) |
 
-| New in the Explorer:                                                                                              |                                                                                                                                                    |
-| :---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New in the Explorer: |     |
+| :------------------- | --- |
 | You can now configure requests to authenticate with your domain through cookies in the Explorer's settings tab 🍪 | ![Screen Recording 2020-08-03 at 01 21 30 PM](https://user-images.githubusercontent.com/5922187/89223825-536cd300-d58c-11ea-82d5-052c62c66044.gif) |
 
 ## 2020-07-07
 
-| New in the Explorer:                                                                                                  |                                                                                                                                                    |
-| :-------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New in the Explorer: |     |
+| :------------------- | --- |
 | You can now manage operations individually using a "meatball" context menu, even when other operations are invalid 🍝 | ![Screen Recording 2020-08-03 at 01 23 27 PM](https://user-images.githubusercontent.com/5922187/89223976-9038ca00-d58c-11ea-8058-a225faf6a2b6.gif) |
 | You can now generate variables for your query using autocomplete in the editor.                                       | ![Screen Recording 2020-08-03 at 01 24 22 PM](https://user-images.githubusercontent.com/5922187/89224079-b9f1f100-d58c-11ea-8666-412be8f8bf83.gif) |
 
