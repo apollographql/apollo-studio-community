@@ -1,6 +1,6 @@
 # RFC: Graph Roles in Apollo Studio
 
-> This is an Enterprise feature.
+> NOTE: this feature applies only to organizations using Apollo Studio Enterprise.
 
 Last year we [introduced org-wide user roles to Studio](https://www.apollographql.com/docs/studio/org/members/#member-roles). We are now close to launching Phase 2 of the [roles and permissions plan](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/UserRoles.md), which involves introducing access control to graphs.
 
