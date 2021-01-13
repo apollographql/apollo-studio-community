@@ -1,6 +1,12 @@
-# RFC: Graph Roles in Apollo Studio
+# Notice: Coming changes to user roles in Apollo Studio
 
 > NOTE: this feature applies only to organizations using Apollo Studio Enterprise.
+
+Please read below for important changes coming to the user roles system in Apollo Studio Enterprise. 
+
+Most notably, please be aware that the **Contributor** role is becoming less powerful, and existing **Contributor** users will be upgraded automatically to be the new **Graph Admin** role. In addition to what they could do before, these users that are being automatically changed from **Contributor** to **Graph Admin** will now be able to delete graphs and manage graph-specific permissions. If these new permissions are more than these users should be able to do, you will be able to change them to the new **Contributor** role instead. If for some reason this automatic change will be problematic, please contact your account team immediately.
+
+---
 
 Last year we [introduced org-wide user roles to Studio](https://www.apollographql.com/docs/studio/org/members/#member-roles). We are now close to launching Phase 2 of the [roles and permissions plan](https://github.com/apollographql/apollo-studio-community/blob/main/preview-docs/UserRoles.md), which involves introducing access control to graphs.
 
