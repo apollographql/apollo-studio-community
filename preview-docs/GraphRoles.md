@@ -2,7 +2,7 @@
 
 > NOTE: this feature applies only to organizations using Apollo Studio Enterprise.
 
-Please read below for important changes coming to the user roles system in Apollo Studio Enterprise. 
+Please read below for important changes coming to the user roles system in Apollo Studio Enterprise.  **We intend to release these new features on Tuesday, January 19th.** 
 
 Most notably, please be aware that the **Contributor** role is becoming less powerful, and existing **Contributor** users will be upgraded automatically to be the new **Graph Admin** role. In addition to what they could do before, these users that are being automatically changed from **Contributor** to **Graph Admin** will now be able to delete graphs and manage graph-specific permissions. If these new permissions are more than these users should be able to do, you will be able to change them to the new **Contributor** role instead. If for some reason this automatic change will be problematic, please contact your account team immediately.
 
@@ -19,8 +19,6 @@ We've identified new requirements for access control at the graph level since th
 5. Introduce a way to assign roles to graph API keys. We will make the **Consumer**, **Observer**, **Contributor**, and **Graph Admin** roles available for assignment on API key creation. (Existing graph API keys continue to support the same operations they currently support.) **Graph Admins** can create and view graph keys with any role.
 6. Introduce a setting on graphs that flags them as "visible" or "hidden" to the members of that graph's org by default. Right now, all graphs in the org are visible to all members of the org. If you mark a graph as "hidden" to your org, only users with explicit overridden roles on the graph (as described in "2") or who are **Org Admin**s can see it. **Graph Admin**s and **Org Admin**s can control whether graphs are hidden.
 
-
-**We intend to release these new features on Tuesday, January 19th.** For full details on precisely what each role will be able to do after this feature is release, you can view a [preview of the docs](https://deploy-preview-1080--studio-docs.netlify.app/bdocs/studio/org/members/).
 
 The following visible changes will occur when the features are released:
 
