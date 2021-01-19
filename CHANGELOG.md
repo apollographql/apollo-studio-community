@@ -1,3 +1,8 @@
+## 2021-01-19
+| What's new |    |
+| :--------- | -- |
+| We've enhanced the [user roles system](https://apollographql.com/docs/studio/org/members/) available to Enterprise customers! <ul><li>Users can be granted a **role on a specific graph** with more permissions than their organization-level role.</li><li>A graph can be **hidden** from non-Organization Admin users that have not been explicitly granted a role on that graph.</li><li>Each [**graph API key**](https://apollographql.com/docs/studio/api-keys/#setting-permissions) now has a role (Graph Admin, Contributor, Observer, or Consumer) which limits their permissions. (Existing graph API keys retain their existing permissions.)</li><li>A new **Graph Admin** role has complete control over graphs (including managing graph-specific roles) but no organization-level administrative permissions. Existing Contributors have been changed to this role.</li><li>The Contributor role now is very similar to the Observer role, plus the ability to push new versions of the graph's schema. You can now mark individual variants as **protected**; you need to be a **Graph Admin** to push schemas to these variants.</li><ul> | tbd |
+
 ## 2021-01-12
 | What's new |    |
 | :--------- | -- |
