@@ -1,3 +1,9 @@
+## 2021-01-26
+| What's new |    |
+| :--------- | -- |
+| In federated graphs, you can now see which subgraph(s) each field in your operations comes from in the Explorer. | <img width="1359" alt="Screen Shot 2021-01-25 at 2 49 16 PM" src="https://user-images.githubusercontent.com/5922187/105948444-ccbb1f00-601f-11eb-9147-8cc840972db6.png"> |
+| Headers in the Explorer are now managed using input fields, instead of JSON :) | <img width="492" alt="Screen Shot 2021-01-25 at 6 13 11 PM" src="https://user-images.githubusercontent.com/5922187/105948442-cb89f200-601f-11eb-867e-e740ecc83470.png"> |
+
 ## 2021-01-19
 | What's new |    |
 | :--------- | -- |
