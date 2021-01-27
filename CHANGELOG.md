@@ -1,3 +1,8 @@
+## 2021-01-27
+| What's new |    |
+| :--------- | -- |
+| The graph gelector dropdown in the top nav now extracts your **favorites** and **current graph** to the top of the options list. | ![image](https://user-images.githubusercontent.com/5922187/106041335-8520ab80-6090-11eb-9756-0cdc421e11a5.png) |
+
 ## 2021-01-26
 | What's new |    |
 | :--------- | -- |
