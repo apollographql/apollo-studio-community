@@ -1,3 +1,7 @@
+## 2021-01-29
+| What's new |
+| :--------- |
+| We've added **Schema Change Webhooks** ![webhooks icon](https://studio-staging.apollographql.com/icons/webhook.svg) for our Enterprise customers! We also updated Studio to remove the *Integrations* section and integrate it into *Settings*.<ul><li>You can now find Datadog settings under *Settings > General*.</li><li>Notification integrations including PagerDuty, Slack, and now Webhooks for Enterprise customers can be found under *Settings > Notifications*.</li><li>To setup a webhook for schema changes click *Add Notification*, select *Schema Change*, select the Variant you're interested in, *Create new channel*, *Webhook*.</li><li>Schema Change Webhooks will contain a string description of the schema change as well as a temporary URL which you can use to fetch the full updated schema. This link remains active for 24 hours.</li><li>See our updated [documentation](https://www.apollographql.com/docs/studio/notification-setup/#custom-webhooks-enterprise-only) for more information, and let us know if you have any feedback or interesting integrations to share!</li>|
 ## 2021-01-28
 | 🐛 Bug fix |
 | :--------- |
