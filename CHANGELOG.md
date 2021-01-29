@@ -1,3 +1,8 @@
+## 2021-01-28
+| 🐛 Bug fix |
+| :--------- |
+| We have fixed a **(very)** long standing-bug with our GitHub logins. Previously, if you changed your GitHub username and tried to log in to Studio again, you’d end up with a brand new unrelated account. (Also if your username was somebody else’s “old username” who had logged in to Studio from GH with that username, you were locked out of using Studio entirely.) We’ve fixed this: you can change your GitHub username as much as you want and you can still log in.|
+
 ## 2021-01-27
 | What's new |    |
 | :--------- | -- |
