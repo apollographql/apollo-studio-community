@@ -1,3 +1,8 @@
+## 2021-01-28
+| What's new |    |
+| :--------- | -- |
+| The Recent Checks page has a new treatment of implementing services, along with clearer indications of the case when the "branch" or "author" is left un-set. Check it out! |  |
+
 ## 2021-01-27
 | What's new |    |
 | :--------- | -- |
