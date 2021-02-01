@@ -1,3 +1,5 @@
+> **👋 Update:** Schema Change Webhooks are now available for use by Apollo Studio Enterprise customers. Take a look at our [announcement post](https://www.apollographql.com/blog/webhooks/) for more details on the specifics.
+
 # RFC: Webhooks for schema change notifications
 
 To help you better integrate Apollo Studio into your unique workflow, we are starting some work to offer standard webhooks for certain events. The first of those events will be schema changes - any time we detect a change to the schema for your graph.
