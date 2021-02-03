@@ -1,3 +1,8 @@
+## 2021-01-29
+| What's new |
+| :--------- |
+| We have moved all of our integrations configurations to the Graph Settings area. Please visit your graph's settings page if you are you looking to set up Slack notifications, Datadog forwarding, etc. |
+
 ## 2021-02-01
 | What's new |
 | :--------- |
