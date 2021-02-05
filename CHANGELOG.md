@@ -1,3 +1,9 @@
+
+## 2021-02-08
+| Security Upgrade |
+| :--------- |
+| We are upgrading our minimum TLS version to 1.2 for communications with our APIs. This is being done as 1.1 has largely been deprecated industry wide for some time now, and our client's security is a top concern for us. For more information, please see our [StatusPage maintenance notice here](https://status.apollographql.com/) |
+
 ## 2021-02-03
 | What's new |
 | :--------- |
