@@ -7,6 +7,7 @@
 | What's new | |
 | :--------- | :--: |
 | Protected variants and hidden graphs are now labeled as such in the Graph List page. | ![image](https://user-images.githubusercontent.com/5922187/107260189-baaf8800-69f2-11eb-9f0a-da2b1aef37a5.png) |
+| You can now turn on a setting in the Explorer to inline the timings from your traces next to your operation's fields when you run your operation. | <img width="1254" alt="Screen Shot 2021-01-28 at 6 34 12 PM" src="https://user-images.githubusercontent.com/6856868/106212069-c9e33a00-6197-11eb-844f-a663c64881b8.png"> |
 
 
 
