@@ -4,6 +4,12 @@
 | :--------- |
 | We are upgrading our minimum TLS version to 1.2 for communications with our APIs. This is being done as 1.1 has largely been deprecated industry wide for some time now, and our client's security is a top concern for us. For more information, please see our [StatusPage maintenance notice here](https://status.apollographql.com/incidents/chgzx4ppw5z9) |
 
+| What's new | |
+| :--------- | :--: |
+| Protected variants and hidden graphs are now labeled as such in the Graph List page. | ![image](https://user-images.githubusercontent.com/5922187/107260189-baaf8800-69f2-11eb-9f0a-da2b1aef37a5.png) |
+
+
+
 ## 2021-02-03
 | What's new |
 | :--------- |
