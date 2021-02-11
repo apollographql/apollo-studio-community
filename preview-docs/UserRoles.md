@@ -1,4 +1,4 @@
-> 👋 **Update:** Phases 1 and 2 of this planareis live and available in Apollo Studio Enterprise. Take a look at our [official documentation for the feature](https://www.apollographql.com/docs/studio/org/members/) for a detailed breakdown on what permissions each role has.
+> 👋 **Update:** Phases 1 and 2 of this plan are live and available in Apollo Studio Enterprise. Take a look at our [official documentation for the feature](https://www.apollographql.com/docs/studio/org/members/) for a detailed breakdown on what permissions each role has.
 
 # RFC: User Roles in Apollo Studio
 
