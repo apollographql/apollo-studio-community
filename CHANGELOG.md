@@ -7,7 +7,7 @@
 ## 2021-02-10
 | What's new | |
 | :--------- | :--: |
-| Defer loading of some data to making initial render of graph list faster | ![image](https://user-images.githubusercontent.com/3953093/107583473-f1d79200-6bc8-11eb-9372-c7e5e4f03045.gif) |  
+| Defer loading of some data to making initial render of graph list faster | ![Screen Recording 2021-02-15 at 06 55 15 PM](https://user-images.githubusercontent.com/5922187/108012921-680c3800-6fbf-11eb-9707-c9ec5adeb5d0.gif) |  
 
 
 ## 2021-02-08
