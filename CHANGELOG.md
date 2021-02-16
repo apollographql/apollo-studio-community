@@ -1,3 +1,9 @@
+## 2021-02-15
+| What's new |
+| :--------- |
+| 🚥 We shipped a small change to how Development Graphs poll their status so that they’re no longer polling for connectivity status on the Graph List page. When you're using a Dev Graph, you can also turn off its polling with the controls in the global nav. |  
+
+
 ## 2021-02-10
 | What's new | |
 | :--------- | :--: |
