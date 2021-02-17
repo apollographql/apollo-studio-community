@@ -1,3 +1,8 @@
+## 2021-02-17
+| What's new |
+| :--------- |
+| We make a performance improvement to the Operations page; it should no longer slow down dramatically and/or become unresponsive when your graph has a very large number of clients. |
+
 ## 2021-02-15
 | What's new |
 | :--------- |
