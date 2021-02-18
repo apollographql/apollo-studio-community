@@ -1,8 +1,7 @@
 ## 2021-02-18
 | What's new |
 | :--------- |
-| We added a feature to introduce Dev Graphs. If you have opened a Dev Graph recently you may see an informative popup! ![image](https://user-images.githubusercontent.com/14367451/108418344-f6620300-71e5-11eb-804c-229cf2793651.png)
-|
+| We added a feature to introduce Dev Graphs. If you have opened a Dev Graph recently you may see an informative popup! ![image](https://user-images.githubusercontent.com/14367451/108418344-f6620300-71e5-11eb-804c-229cf2793651.png) |
 
 ## 2021-02-17
 | What's new |
