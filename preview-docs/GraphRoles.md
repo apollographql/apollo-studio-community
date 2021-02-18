@@ -1,6 +1,6 @@
 # Notice: Coming changes to user roles in Apollo Studio
 
-> 👋 Update: this feature is now released and available to Apollo Studio Enterprise organizations.
+> 👋 **Update:** this feature is now released and available to Apollo Studio Enterprise organizations.
 
 Please read below for important changes coming to the user roles system in Apollo Studio Enterprise.  **We intend to release these new features on Tuesday, January 19th.** 
 
