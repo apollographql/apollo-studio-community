@@ -1,3 +1,8 @@
+## 2021-02-25
+| What's new |
+| :--------- |
+| Community and Team plans can now self serve the Billing Manager role, get started by updating roles on the membership page |
+
 ## 2021-02-18
 | What's new | |
 | :--------- | :-: |
