@@ -6,7 +6,7 @@
 ## 2021-02-26
 | What's new |
 | :--------- |
-| Community and Team plans can now self serve the Billing Manager role, get started by updating roles on the membership page |
+| Community and Team plans can now assign users [the Billing Manager role](https://www.apollographql.com/docs/studio/org/members/#organization-wide-member-roles), in addition to the default Org Admin role. You can change this on your organization's membership page. |
 
 ## 2021-02-18
 | What's new | |
