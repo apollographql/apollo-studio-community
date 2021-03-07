@@ -1,7 +1,7 @@
 ## 2021-03-04
 |Security Upgrade|
 |:---------------|
-|We’re making a change to the way you use API keys with Studio. After this release, API keys will no longer be visible in plain text in your Graph and User Settings. You will only be able to see your API key secret in the moment that you first create it in Studio. This is security change we’re making to reduce the probability of keys being accidentally leaked from our system. Once we launch this, retrieving existing keys in the UI won’t be possible. The work-around for users requesting to recover to token, is to generate a new key. In extreme cases we could manually retrieve keys for people, though we’d like to avoid that. All existing keys will continue to work as-is, and no action is necessary as part of this change.|
+|We have made a change to the way you use API keys with Studio: API keys are no longer be visible in plain text in your Graph and User Settings pages. You will only be able to see your API key secret in the moment that you first create it in Studio. This is security change we have made to reduce the probability of keys being accidentally leaked from our system. If you need to recover a token you have previously created, you can request help from us at support@apollographql.com. We recommend you just make a new token though. All existing keys will continue to work as-is, and no action is necessary as part of this change.|
 
 ## 2021-02-26
 | What's new |
