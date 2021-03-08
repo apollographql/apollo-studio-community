@@ -1,7 +1,13 @@
+## 2021-03-08
+| What's new | |
+| :--------- | :--: |
+| The `creator` and `createdAt` time for your Graph API keys are now visible in your Graph Settings.  | ![image](https://user-images.githubusercontent.com/5922187/110336558-98f1f280-7fea-11eb-9503-d5bef3cba8f0.png) |
+| You can now write and save descriptions on your Graphs, which lets you differentiate them and describe them to your users more easily. | ![image](https://user-images.githubusercontent.com/5922187/110337838-f8043700-7feb-11eb-8cb9-74c7b5e0a755.png) |
+
 ## 2021-03-04
-|Security Upgrade|
-|:---------------|
-|We have made a change to the way you use API keys with Studio: API keys are no longer be visible in plain text in your Graph and User Settings pages. You will only be able to see your API key secret in the moment that you first create it in Studio. This is security change we have made to reduce the probability of keys being accidentally leaked from our system. If you need to recover a token you have previously created, you can request help from us at support@apollographql.com. We recommend you just make a new token though. All existing keys will continue to work as-is, and no action is necessary as part of this change.|
+| Security Upgrade |
+| :--------------- |
+| We have made a change to the way you use API keys with Studio: API keys are no longer be visible in plain text in your Graph and User Settings pages. You will only be able to see your API key secret in the moment that you first create it in Studio. This is security change we have made to reduce the probability of keys being accidentally leaked from our system. If you need to recover a token you have previously created, you can request help from us at support@apollographql.com. We recommend you just make a new token though. All existing keys will continue to work as-is, and no action is necessary as part of this change. |
 
 ## 2021-02-26
 | What's new |
