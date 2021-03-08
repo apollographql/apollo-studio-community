@@ -3,6 +3,7 @@
 | :--------- | :--: |
 | The `creator` and `createdAt` time for your Graph API keys are now visible in your Graph Settings.  | ![image](https://user-images.githubusercontent.com/5922187/110336558-98f1f280-7fea-11eb-9503-d5bef3cba8f0.png) |
 | You can now write and save descriptions on your Graphs, which lets you differentiate them and describe them to your users more easily. | ![image](https://user-images.githubusercontent.com/5922187/110337838-f8043700-7feb-11eb-8cb9-74c7b5e0a755.png) |
+| You can now send headers along with your Introspection Queries when using Dev Graphs. | ![image](https://user-images.githubusercontent.com/5922187/110374431-4b8b7a80-8016-11eb-8df2-f704121a04b2.png) |
 
 ## 2021-03-04
 | Security Upgrade |
