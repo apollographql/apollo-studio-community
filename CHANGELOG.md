@@ -1,6 +1,6 @@
 ## 2021-03-09
-| What's new | |
-| :--------- | :--: |
+| What's new |
+| :--------- |
 | ⚡️ Significantly improved Schema Page's performance for very large schemas |
 
 
