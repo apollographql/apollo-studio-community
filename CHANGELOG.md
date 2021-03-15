@@ -1,3 +1,9 @@
+## 2021-03-15
+| What's new | |
+| :-- | -- |
+| You can now see your **Graph Reference** on the Schema Reference page, which is useful when running commands with the Apollo CLI. | <img width="924" alt="Screen Shot 2021-03-15 at 1 14 21 PM" src="https://user-images.githubusercontent.com/5922187/111215598-4e9be300-85a1-11eb-9790-f86d79eb2440.png"> |
+| You can now see your **Graph ID** on your graph's settinsg page. | <img width="1125" alt="Screen Shot 2021-03-15 at 1 15 05 PM" src="https://user-images.githubusercontent.com/5922187/111215602-4fcd1000-85a1-11eb-8ccb-8c8b3ff2f34d.png"> |
+
 ## 2021-03-09
 | What's new |
 | :--------- |
