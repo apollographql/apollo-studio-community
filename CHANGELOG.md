@@ -1,3 +1,8 @@
+## 2021-03-19
+| What's new | |
+| :-- | -- |
+| When creating a graph you can now see and change the id of your graph | ![Screen Recording 2021-03-19 at 02 58 PM](https://user-images.githubusercontent.com/3953093/111830001-c92b7200-88c3-11eb-9a19-c911e5c6b051.gif) |
+
 ## 2021-03-15
 | What's new | |
 | :-- | -- |
