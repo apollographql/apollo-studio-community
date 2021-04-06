@@ -1,3 +1,8 @@
+## 2021-04-06
+| What's new |
+| :--------- |
+| Consumer seats are now free on paid plans! |
+
 ## 2021-03-19
 | What's new | |
 | :-- | -- |
