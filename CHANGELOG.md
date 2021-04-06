@@ -2,11 +2,11 @@
 | What's new |
 | :--------- |
 | We launched several new features to improve Apollo Federation support in Studio. 
-- The services page has been replaced by a new SDL page (**Schema -> SDL**), which includes support for linking to specific types, field, argument and directives, as well as the ability to filter out comments & deprecated fields in a given Subgraph, Supergraph or API SDL. You can also now jump to the lines in your SDL or Reference page from the search function respectively in those pages.
-- If you have preview features enabled in your personal settings, the next time a push is made you will be able to see your [Supergraph SDL](https://www.apollographql.com/docs/studio/federated-graphs/) in the SDL page as well. 
-- [We added support for a `@contact` directive in Subgraph SDLs](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph) to allow your teams to find contact information for the owners of each Subgraph.
-- If your graph has composition errors, [it is now easier to jump to see where those errors are](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-composition-errors), either from the `federated` badge in your top nav, or the banner above each subgraph.
-- Details and documentation on our new Federation feature in Studio can be found [here](https://www.apollographql.com/docs/studio/federated-graphs/).
+| - The services page has been replaced by a new SDL page (**Schema -> SDL**), which includes support for linking to specific types, field, argument and directives, as well as the ability to filter out comments & deprecated fields in a given Subgraph, Supergraph or API SDL. You can also now jump to the lines in your SDL or Reference page from the search function respectively in those pages.
+| - If you have preview features enabled in your personal settings, the next time a push is made you will be able to see your [Supergraph SDL](https://www.apollographql.com/docs/studio/federated-graphs/) in the SDL page as well. 
+| - [We added support for a `@contact` directive in Subgraph SDLs](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph) to allow your teams to find contact information for the owners of each Subgraph.
+| - If your graph has composition errors, [it is now easier to jump to see where those errors are](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-composition-errors), either from the `federated` badge in your top nav, or the banner above each subgraph.
+| - Details and documentation on our new Federation feature in Studio can be found [here](https://www.apollographql.com/docs/studio/federated-graphs/). |
 
 ## 2021-03-19
 | What's new | |
