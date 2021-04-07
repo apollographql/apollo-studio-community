@@ -1,7 +1,7 @@
 ## 2021-04-06
 | What's new |
 | :--------- |
-| Consumer seats are now free on paid plans! |
+| All plans on Apollo Studio now include unlimited read-only "Consumer" seats! You can now invite everyone in your organization to view your graphs in the registry, with access to Explorer, the schema reference, and the schema changelog. |
 
 ## 2021-03-19
 | What's new | |
