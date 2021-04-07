@@ -1,7 +1,7 @@
 ## 2021-04-06
 | What's new |
 | :--------- |
-| All plans on Apollo Studio now include unlimited read-only "Consumer" seats! You can now invite everyone in your organization to view your graphs in the registry, with access to Explorer, the schema reference, and the schema changelog. |
+| All plans on Apollo Studio now include unlimited read-only "Consumer" seats! You can now invite everyone in your organization to view your graphs in the registry, with access to Explorer, the schema reference, and the schema changelog. [Read more in our announcement post](https://www.apollographql.com/blog/sharing-your-graph-just-got-a-whole-lot-easier-announcing-unlimited-consumer-seats/). |
 
 ## 2021-03-19
 | What's new | |
