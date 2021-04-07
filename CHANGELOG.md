@@ -1,3 +1,8 @@
+## 2021-04-06
+| What's new | |
+| :-- | -- |
+| All plans now include unlimited read-only seats <img alt="" width="400x"/> | ![image](https://user-images.githubusercontent.com/3953093/113786973-3171b480-9708-11eb-8092-c02cec840b8e.png)|
+
 ## 2021-04-01
 | What's new | |
 | :-- | --|
