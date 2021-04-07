@@ -1,12 +1,21 @@
 ## 2021-04-01
-| What's new |
-| :--------- |
-| We launched several new features to improve Apollo Federation support in Studio. 
-| - The services page has been replaced by a new SDL page (**Schema -> SDL**), which includes support for [linking to specific types, field, argument and directives](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph), as well as the ability to filter out comments & deprecated fields in a given Subgraph, Supergraph or API SDL. You can also now jump to the lines in your SDL or Reference page from the search function respectively in those pages.
-| - If you have preview features enabled in your personal settings, the next time a push is made you will be able to see your [Supergraph SDL](https://www.apollographql.com/docs/studio/federated-graphs/) in the SDL page as well. 
-| - [We added support for a `@contact` directive in Subgraph SDLs](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph) to allow your teams to find contact information for the owners of each Subgraph.
-| - If your graph has composition errors, [it is now easier to jump to see where those errors are](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-composition-errors), either from the `federated` badge in your top nav, or the banner above each subgraph.
-| - Details and documentation on our new Federation features in Studio can be found [here](https://www.apollographql.com/docs/studio/federated-graphs/). |
+| What's new | |
+| :-- | --|
+| Studio now includes several new features to improve the experience of working with Federated graphs. | ![image](https://user-images.githubusercontent.com/1319791/113793030-36c90200-96fc-11eb-918e-1822897ad179.png) |
+| The Schema > Reference tab in Studio displays a table of your federated schema’s types and fields. This table now includes a Subgraph column | ![image](https://user-images.githubusercontent.com/1319791/113791127-d20ba880-96f7-11eb-9818-4d196152912e.png) |
+| Federated graphs will now also display their Subgraphs on the **Schema > SDL tab** (the older experience at the Services tab has moved here). This includes support for... | ![image](https://user-images.githubusercontent.com/1319791/113793069-4b0cff00-96fc-11eb-9d48-84fa03ca52f8.png) |
+| ...[linking directly to types, fields, arguments and directives](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph) | ![image](https://user-images.githubusercontent.com/1319791/113791542-be147680-96f8-11eb-93d9-4692bde0a0d1.png) |
+| ...filtering out comments & deprecated fields from view for a cleaner browsing experience | ![image](https://user-images.githubusercontent.com/1319791/113791570-d2f10a00-96f8-11eb-805e-2304c5b6951f.png) |
+| ...and using Studio search to jump directly to objects in your SDL | ![image](https://user-images.githubusercontent.com/1319791/113791654-f9af4080-96f8-11eb-95c9-235dad476684.png) |
+| Users with preview features enabled in personal settings will also be able to see the [Supergraph SDL](https://www.apollographql.com/docs/studio/federated-graphs/) on the SDL page after your next schema push. | ![image](https://user-images.githubusercontent.com/1319791/113791825-57438d00-96f9-11eb-845b-b3a73a458422.png) |
+| You can now designate a contact person or team for each subgraph by [using the `@contact` directive](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-a-fields-originating-subgraph) in your Subgraph SDL. | ![image](https://user-images.githubusercontent.com/1319791/113792192-29ab1380-96fa-11eb-8db9-748f68cc4863.png) |
+| ...when you do, you'll see the Subgraph owner info displayed in the Subgraph SDL meta info on the **Schema > SDL** tab... | ![image](https://user-images.githubusercontent.com/1319791/113792259-595a1b80-96fa-11eb-9658-8d9816da99fa.png) |
+| ...and when you hover over the Subgraph column for Schema objects in the **Schema > Reference** tab. | ![image](https://user-images.githubusercontent.com/1319791/113792350-97573f80-96fa-11eb-8171-bf75cc40f8bb.png) |
+| If your graph has composition errors, the label on your Federated graph will display in an error state. |![image](https://user-images.githubusercontent.com/1319791/113792563-1ba9c280-96fb-11eb-8758-ded1f7c0ef56.png)|
+| Clicking the label will open the composition errors modal so you can [see the errors from anywhere within Studio](https://www.apollographql.com/docs/studio/federated-graphs/#viewing-composition-errors). | ![image](https://user-images.githubusercontent.com/1319791/113792942-fd909200-96fb-11eb-81f6-2813737aecca.png) |
+| The **Schema > SDL** page also displays a warning banner on the API schema and the Supergraph schema when composition has failed... | ![image](https://user-images.githubusercontent.com/1319791/113792756-865afe00-96fb-11eb-8b37-254a76fcb549.png) |
+| ...and error banners on the Subgraphs. | ![image](https://user-images.githubusercontent.com/1319791/113792783-95da4700-96fb-11eb-9f4b-c0911ef3c749.png) |
+| Learn more about the new features for Federated graphs at the [Federated Graphs in Studio](https://www.apollographql.com/docs/studio/federated-graphs/) Apollo Docs article. ||
 
 ## 2021-03-19
 | What's new | |
