@@ -1,3 +1,8 @@
+## 2021-04-19
+| What's new | |
+| :-- | -- |
+| The Checks page now includes schema composition details for federated graphs! Additionally, the Checks page now displays checks for all variants in the same area, and new filters allow you to find relevant checks by author, branch and subgraph.  [Read more in our announcement post](https://www.apollographql.com/blog/???).  | ![image](https://user-images.githubusercontent.com/???.png)|
+
 ## 2021-04-06
 | What's new | |
 | :-- | -- |
