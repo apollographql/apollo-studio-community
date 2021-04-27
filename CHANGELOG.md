@@ -3,6 +3,11 @@
 | :-- | -- |
 | Role-specific invitation links are now available. You can create or manage invite links from you org's settings page. | ![image](https://user-images.githubusercontent.com/743976/116169961-d530fd80-a6d3-11eb-8e55-35dd0582f7a9.png) |
 
+## 2021-04-20
+| What's new |
+| :-- |
+| Studio's onboarding has been significantly simplified. It now takes only one step to create an account and log in, as opposed to our previous multi-step onboarding wizard. |
+
 ## 2021-04-06
 | What's new | |
 | :-- | -- |
