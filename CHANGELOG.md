@@ -1,3 +1,8 @@
+## 2021-05-07
+| What's new | |
+| :-- | -- |
+| The Schema > SDL page now features a type outline that you can use to quickly get to the type you are looking for without having to scroll through the entire SDL contents. | ![image]() |
+
 ## 2021-04-26
 | What's new | |
 | :-- | -- |
