@@ -1,7 +1,7 @@
 ## 2021-05-07
 | What's new | |
 | :-- | -- |
-| The Schema > SDL page now features a type outline that you can use to quickly get to the type you are looking for without having to scroll through the entire SDL contents. | ![image](https://user-images.githubusercontent.com/6412529/117550886-a3833500-aff7-11eb-9efe-512be09d928f.png) |
+| The Schema > SDL page now features a type outline that you can use to quickly get to the type you are looking for without having to scroll through the entire SDL contents. | ![image](https://user-images.githubusercontent.com/6412529/117553733-05e43180-b008-11eb-9f8f-85478c743f0e.png) |
 
 ## 2021-04-26
 | What's new | |
