@@ -2,7 +2,7 @@
 
 For organizations that use or maintain a GraphQL API, [Apollo Studio](http://studio.apollographql.com/) is an end-to-end data graph management platform to explore, deliver, and collaborate on their unified data graph.
 
-This is our community repository where we track bugs, discuss feature requests, and share preview docs. We read _everything_ that comes in here and are grateful to you for any time you spend sharing your thoughts with us.
+**This is our community repository** where we track bugs, discuss feature requests, and share preview docs. We read _everything_ that comes in here and are grateful to you for any time you spend sharing your thoughts with us.
 
 If you ever need urgent, SLA-backed support for Studio, please email support@apollographql.com – we can't make any guarantees about the speed of our responses on this repo. Also if you'd like to join our community forum to discuss Apollo in general, please visit community.apollographql.com.
 ## What is Studio
