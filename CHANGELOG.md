@@ -1,3 +1,8 @@
+## 2021-05-24
+| 🐛 Bug fix |
+| :--------- |
+| We had a bug where there were some circumstances where users couldn't rename their organizations. This is now fixed! |
+
 ## 2021-05-07
 | What's new | |
 | :-- | -- |
