@@ -1,3 +1,8 @@
+## 2021-05-27
+| What's new | |
+| :-- | -- |
+| Headers in the Explorer page can now be disabled so you can swap back and forth between headers you are testing without having to delete them. | ![image](https://user-images.githubusercontent.com/24704789/119899914-c6777980-bf11-11eb-8e1b-2a298992ecde.png) |
+
 ## 2021-05-24
 | 🐛 Bug fix |
 | :--------- |
