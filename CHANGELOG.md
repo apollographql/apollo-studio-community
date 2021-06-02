@@ -1,7 +1,8 @@
-## 2021-05-27
+## 2021-06-02
 | What's new | |
 | :-- | -- |
-| Headers in the Explorer page can now be disabled so you can swap back and forth between headers you are testing without having to delete them. | ![image](https://user-images.githubusercontent.com/24704789/119899914-c6777980-bf11-11eb-8e1b-2a298992ecde.png) |
+| Headers in the Explorer page can now be disabled so you can swap back and forth between them while you are testing without having to delete any. Additionally, any default headers added by your graph administrator will now show up as unmodifiable. | ![image](https://user-images.githubusercontent.com/24704789/120515158-0cae5c00-c39c-11eb-9c10-f317a8ecd03e.png) |
+
 
 ## 2021-05-24
 | 🐛 Bug fix |
