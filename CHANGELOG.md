@@ -1,4 +1,4 @@
-## 2021-06-02
+## 2021-06-14
 | What's new | |
 | :-- | -- |
 | You can now cancel your Studio Team subscription, re-activate a canceled subscription, and switch between Monthly and Annual billing on your Organizaiton's Settings page. No need to write into customer support for this anymore :) | ![image (117)](https://user-images.githubusercontent.com/5922187/121956576-26459100-cd16-11eb-8856-14d582e6bec4.png) |
