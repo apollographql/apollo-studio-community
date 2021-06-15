@@ -1,3 +1,13 @@
+## 2021-06-15 –– ✨ New Page: Sandbox ✨
+
+We have released [Sandbox](https://studio.apollographql.com/sandbox), making the Apollo Explorer openly available to any developer, with no login required.
+
+Full details on the release in our announcement post: [Apollo Sandbox: an open GraphQL IDE for local development
+](https://www.apollographql.com/blog/announcement/platform/apollo-sandbox-an-open-graphql-ide-for-local-development/).
+
+[![image](https://user-images.githubusercontent.com/743976/122124968-fe315d00-cdfd-11eb-91df-910408dc8d9c.png)](https://www.apollographql.com/blog/announcement/platform/apollo-sandbox-an-open-graphql-ide-for-local-development/)
+
+
 ## 2021-06-14
 | What's new | |
 | :-- | -- |
