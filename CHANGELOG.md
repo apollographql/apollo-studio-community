@@ -1,7 +1,7 @@
 ## 2021-07-20 –– Organization Reorganization
 | What's new | |
 | :-- | -- |
-|  It's now simpler than ever to navigate your organization (or multiple orgs) in Studio thanks to the new org picker. | ![image (6)](https://user-images.githubusercontent.com/14367451/126534875-3088fd01-e2fe-4e42-be27-153874429677.png) |
+|  It's now simpler than ever to navigate your organization (or multiple orgs) in Studio thanks to the new org picker. From the menu, you can switch organization context (if you are signed in to multiple orgs), create a new organization, or return to your organization index by selecting the organization item. | ![image](https://user-images.githubusercontent.com/1319791/126541995-36f0233f-290e-4edb-b590-28f487223bd5.png) |
 
 ## 2021-06-15 –– ✨ New Page: Sandbox ✨
 
