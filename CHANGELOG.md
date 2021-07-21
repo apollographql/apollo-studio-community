@@ -1,3 +1,8 @@
+## 2021-07-20 –– Organization Reorganization
+| What's new | |
+| :-- | -- |
+|  It's now simpler than ever to navigate your organization (or multiple orgs) in Studio thanks to the new org picker. | ![image (6)](https://user-images.githubusercontent.com/14367451/126534875-3088fd01-e2fe-4e42-be27-153874429677.png) |
+
 ## 2021-06-15 –– ✨ New Page: Sandbox ✨
 
 We have released [Sandbox](https://studio.apollographql.com/sandbox), making the Apollo Explorer openly available to any developer, with no login required.
