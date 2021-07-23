@@ -29,6 +29,11 @@ Full details on the release in our announcement post: [Apollo Sandbox: an open G
 | :--------- |
 | We had a bug where there were some circumstances where users couldn't rename their organizations. This is now fixed! |
 
+## 2021-05-20
+| What's new | |
+| :-- | -- |
+| The Checks page now includes a "status" filter to show only checks that match a specific status, making it easy to surface failed checks from your graph's check history. | ![image](https://user-images.githubusercontent.com/1831709/118909465-652a3600-b966-11eb-86a6-f67db623f74f.png) |
+
 ## 2021-05-07
 | What's new | |
 | :-- | -- |
