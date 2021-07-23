@@ -1,50 +1,40 @@
 # Apollo Studio
 
-Welcome to the community feedback repo for [Apollo Studio](http://studio.apollographql.com/), a web-based suite of tools that help you build and evolve your GraphQL API.
+For organizations that use or maintain a GraphQL API, [Apollo Studio](http://studio.apollographql.com/) is an end-to-end data graph management platform to explore, deliver, and collaborate on their unified data graph.
 
-We use this repository to engage with our Studio users and **track bugs**, **feature requests**, **ideas**, etc. We read _everything_ that comes in here and are grateful to you for any time you spend sharing your thoughts with us. We also like to share early documentation here for things we're working on.
+**This is our community repository** where we track bugs, discuss feature requests, and share preview docs. We read _everything_ that comes in here and are grateful to you for any time you spend sharing your thoughts with us.
 
-If you ever need urgent, SLA-backed support for Studio, please reach out to us through support@apollographql.com. We can't make any guarantees about the speed of our responses on this repository specifically.
-
+If you ever need urgent, SLA-backed support for Studio, please email support@apollographql.com – we can't make any guarantees about the speed of our responses on this repo. Also if you'd like to join our community forum to discuss Apollo in general, please visit community.apollographql.com.
 ## What is Studio
 
-Studio has tools for several types of people in your organization, including administrators to your graph, contributors to your graph, and consumers of your graph.
+Studio is your interface to browse the state of your graph, query your data, and manage the evolution of your graph over time. It is a pillar of the Apollo Platform, alongside [Apollo Client](https://www.apollographql.com/docs/react/), [Apollo Server](https://www.apollographql.com/docs/apollo-server/), and [Apollo Federation](https://www.apollographql.com/docs/federation/).
+#### Single source of truth for your GraphQL schema
+- Registering your graph with Apollo Studio creates a cloud-hosted source of truth for your schema, giving you access to best-in-class tools for managing your data graph. 
+- Studio automatically tracks and logs changes to your schema, so you can easily review and share how your graph has evolved.
+- Keep graph collaborators and consumers up to date with notifications and an automatic changelog whenever your schema changes.
+#### Explore your schema and build queries more easily and intelligently than ever before
+- Studio’s Explorer offers the most advanced GraphQL IDE in the world. 
+- Search your schema intelligently and build queries with one click.
+- Use Explorer in Studio’s public sandbox to explore any graph with introspection enabled 
+- Use Explorer with your registered graphs to create queries, browse your run history, and save variables in a context-aware environment without requiring introspection.
 
-### Developer Portal
+#### Deliver changes to your graph with speed and confidence
+- Realize the full potential of an agile data graph with version control, change validation, and release observability purpose-built for GraphQL schemas.
+- Prevent breaking changes to your schema by integrating Schema Checks into your existing CI/CD pipelines.
+- Make changes to your schema on variants to work on new features, test performance, and run checks without changing your graph in production.
+- Track federated schema launches in progress with real-time information on request traffic, gateways reporting, and error rate.
 
-By synchronizing your schema with Studio, you can create a developer portal for your team to access your graph that includes:
+#### Secure your schema while maintaining flexibility and agility
+- Apollo Studio offers granular controls to keep sensitive information in your graph secure.
+- With a registered graph, you can turn introspection off for security purposes while still giving users in your organization get all of the benefits of Explorer.
+- Set user roles at the organization and graph level to manage how different users can interact with your schemas.
+- Mark variant schemas as protected to limit mutations to only certain users or keys with admin-level access.
 
-- Auto-documentation for your schema across all your environments
-- Auto-generated schema changelog across all your environments
-- Schema change notifications
-- An IDE for querying your graph with significantly more usability features than other query IDEs in the ecosystem ([Explorer](https://www.apollographql.com/docs/studio/explorer))
-- A mode to use the Explorer during local development and have it poll to keep itself up-to-date
 
-### Usage Insights
+## Pricing
 
-Studio can also give you deep insights about your graph's usage if you synchronize usage data to it:
+Studio's developer tools and schema registry are free to use and always will be. You can use the Schema Reference and Apollo Explorer without worrying about cost, and can invite unlimited members of your organization to use these tools for free as well.
 
-- High-level usage metrics analytics
-- Schema change validation (using live usage data) for your CI checks
-- Usage tracking on a per-client basis
-- Operation tracing and error reporting
+Most of Studio's observability tools, including Schema Checks, are available on the [Studio Team](https://www.apollographql.com/pricing/) plan.
 
-### Federation
-
-If you're building a federated graph, Studio offers **Managed Federation** (a mode you can run your federation gateway in) that provides:
-
-- Managed deploys for federated services (publish changes to implementing services without having to restart your gateway)
-- An iterface to see the state of your partial schemas and their composition
-- A composed schema view, with annotations to show the source of each part of your schema
-- An added step of schema change validation that checks for a valid composition of your federated services
-- Live query plans in the Explorer as you build operations
-
-### Access Control
-
-For teams that need fine-grained access control to Studio, you can contact our Sales team to get access to:
-- User roles that can be applied to your organization or to specific graphs
-- Extra visbility properties on graphs (e.g. hide graph for most people in org, invite just a few to collaborate with you)
-- Protected variants
-- SSO login integrations
-
-For more info on Studio features and specifics, you can also [visit our docs](https://www.apollographql.com/docs/studio/).
+Single Sign-On, advanced user roles, advanced federation tools, and more are available on our [Studio Enterprise](https://www.apollographql.com/pricing/) plan. Please [get in touch with us](https://www.apollographql.com/contact-sales) if you are interested in that.

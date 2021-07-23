@@ -1,7 +1,58 @@
-## 2021-04-19
+## 2021-07-20 –– Organization Reorganization
 | What's new | |
 | :-- | -- |
-| The Checks page now includes schema composition details for federated graphs! Additionally, the Checks page now displays checks for all variants in the same area, and new filters allow you to find relevant checks by author, branch and subgraph.  [Read more in our announcement post](https://www.apollographql.com/blog/???).  | ![image](https://user-images.githubusercontent.com/???.png)|
+|  It's now simpler than ever to navigate your organization (or multiple orgs) in Studio thanks to the new org picker. From the menu, you can switch organization context (if you are signed in to multiple orgs), create a new organization, or return to your organization index by selecting the organization item. | ![image](https://user-images.githubusercontent.com/1319791/126541995-36f0233f-290e-4edb-b590-28f487223bd5.png) |
+
+## 2021-06-15 –– ✨ New Page: Sandbox ✨
+
+We have released [Sandbox](https://studio.apollographql.com/sandbox), making the Apollo Explorer openly available to any developer, with no login required.
+
+Full details on the release in our announcement post: [Apollo Sandbox: an open GraphQL IDE for local development
+](https://www.apollographql.com/blog/announcement/platform/apollo-sandbox-an-open-graphql-ide-for-local-development/).
+
+[![image](https://user-images.githubusercontent.com/743976/122124968-fe315d00-cdfd-11eb-91df-910408dc8d9c.png)](https://www.apollographql.com/blog/announcement/platform/apollo-sandbox-an-open-graphql-ide-for-local-development/)
+
+
+## 2021-06-14
+| What's new | |
+| :-- | -- |
+| You can now cancel your Studio Team subscription, re-activate a canceled subscription, and switch between Monthly and Annual billing on your Organization's Settings page. No need to write into customer support for this anymore :) | ![image (117)](https://user-images.githubusercontent.com/5922187/121956576-26459100-cd16-11eb-8856-14d582e6bec4.png) |
+
+## 2021-06-02
+| What's new | |
+| :-- | -- |
+| Headers in the Explorer can now be disabled so you can swap back and forth between them while you are testing without having to delete any. Additionally, any default headers added by your Graph Administrator will now show up as unmodifiable. | ![image](https://user-images.githubusercontent.com/24704789/120672777-9a537f80-c460-11eb-8001-9fb14397dc54.png) |
+
+
+## 2021-05-24
+| 🐛 Bug fix |
+| :--------- |
+| We had a bug where there were some circumstances where users couldn't rename their organizations. This is now fixed! |
+
+## 2021-05-20
+| What's new | |
+| :-- | -- |
+| The Checks page now includes a "status" filter to show only checks that match a specific status, making it easy to surface failed checks from your graph's check history. | ![image](https://user-images.githubusercontent.com/1831709/118909465-652a3600-b966-11eb-86a6-f67db623f74f.png) |
+
+## 2021-05-07
+| What's new | |
+| :-- | -- |
+| The Schema > SDL page now features a type outline that you can use to quickly get to the type you are looking for without having to scroll through the entire SDL contents. | ![image](https://user-images.githubusercontent.com/6412529/117553733-05e43180-b008-11eb-9f8f-85478c743f0e.png) |
+
+## 2021-04-26
+| What's new | |
+| :-- | -- |
+| Role-specific invitation links are now available. You can create or manage invite links from you org's settings page. | ![image](https://user-images.githubusercontent.com/743976/116169961-d530fd80-a6d3-11eb-8e55-35dd0582f7a9.png) |
+
+## 2021-04-20
+| What's new |
+| :-- |
+| Studio's onboarding has been significantly simplified. It now takes only one step to create an account and log in, as opposed to our previous multi-step onboarding wizard. |
+
+## 2021-04-19
+| What's new |
+| :-- |
+| The Checks page now includes schema composition details for federated graphs! Additionally, the Checks page now displays checks for all variants in the same area, and new filters allow you to find relevant checks by author, branch and subgraph.  [Read more in our announcement post](https://www.apollographql.com/blog/announcement/build-checks-webhooks-apollo-studio/). |
 
 ## 2021-04-06
 | What's new | |
