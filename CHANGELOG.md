@@ -49,6 +49,11 @@ Full details on the release in our announcement post: [Apollo Sandbox: an open G
 | :-- |
 | Studio's onboarding has been significantly simplified. It now takes only one step to create an account and log in, as opposed to our previous multi-step onboarding wizard. |
 
+## 2021-04-19
+| What's new |
+| :-- |
+| The Checks page now includes schema composition details for federated graphs! Additionally, the Checks page now displays checks for all variants in the same area, and new filters allow you to find relevant checks by author, branch and subgraph.  [Read more in our announcement post](https://www.apollographql.com/blog/announcement/build-checks-webhooks-apollo-studio/). |
+
 ## 2021-04-06
 | What's new | |
 | :-- | -- |
