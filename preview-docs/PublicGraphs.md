@@ -6,7 +6,7 @@
 
 Per feedback, we are doing work towards public graphs and thinking about how that might potentially lead to a graph developer portal in the future. We are looking for feedback on whether our thinking will fit the needs of your organization.
 
-If you're reading this, please fill out our feedback form! We are grateful for your feedback and read every response that comes in: [Feedback Survey](https://www.surveymonkey.com/r/apollo-pggdp-feedback). 
+If you're reading this, please fill out our feedback form - _takes less than 10 minutes_! We are grateful for your feedback and read every response that comes in: [Feedback Survey](https://www.surveymonkey.com/r/apollo-pggdp-feedback). 
 
 ## Why a graph developer portal?
 
