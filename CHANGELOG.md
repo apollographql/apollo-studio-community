@@ -1,8 +1,8 @@
 ## 2021-07-26
 | What's new | |
 | :-- |  :-: |
-| Default Headers are no longer opt-in. In the Explorer Settings tab, your Graph Administrators can specify headers that will be applied to every Explorer request executed by every user in your organization. | ![image](https://user-images.githubusercontent.com/24704789/127037888-2c0c5de2-3ffb-44f1-95c1-ca4888907c73.png) |
-| Also, you can now provide sensitive tokens and information to header values or preflight scripts in Explorer's Environment Variables tab. | ![image](https://user-images.githubusercontent.com/24704789/127039872-c3aebc49-387a-4ac0-b6d5-8eab92cff71c.png) |
+| Default Headers are now generally available! In the Explorer Settings tab, Graph Administrators can specify headers that will be applied to every Explorer request executed by every user in your organization. | ![image](https://user-images.githubusercontent.com/24704789/127037888-2c0c5de2-3ffb-44f1-95c1-ca4888907c73.png) |
+| You can now also provide sensitive tokens and information to header values in Explorer's Environment Variables tab. | ![image](https://user-images.githubusercontent.com/24704789/127039872-c3aebc49-387a-4ac0-b6d5-8eab92cff71c.png) |
 
 ## 2021-07-20 –– Organization Reorganization
 | What's new | |
