@@ -1,3 +1,8 @@
+## 2021-08-04
+| What's new | |
+| :-- |  :-: |
+| It's now possible to delete variants that do not have active publishes or have invalid characters in their names | ![image](https://user-images.githubusercontent.com/6365997/128200389-c1b2c409-7b5f-4e1b-b775-2c9e079a518c.png) |
+
 ## 2021-07-26
 | What's new | |
 | :-- |  :-: |
