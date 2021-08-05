@@ -1,3 +1,9 @@
+## 2021-08-05 –– ✨ New Feature: Audit Logs ✨
+| What's new | |
+| :-- |  :-: |
+| For Studio Enterprise teams, it is now possible to export a data file with key actions taken within your organization. You can find the Audit Log interface under the "Audit" tab of your organization's home page. You can [read more about the feature here](https://www.apollographql.com/blog/announcement/platform/audit-logs-now-available-in-apollo-studio-enterprise/). | ![image](https://user-images.githubusercontent.com/5922187/128379498-e65cb4c4-1d3c-4384-8d7e-ca15ab432033.png) |
+
+
 ## 2021-08-04
 | What's new | |
 | :-- |  :-: |
