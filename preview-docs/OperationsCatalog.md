@@ -10,7 +10,7 @@ Our long term mission has been to empower organizations with a developer toolkit
 
 As part of this developer toolkit, we provide Apollo Studio Explorer, where developers can create, run and manage operations executed against the graph. _A critical piece of this experience is the ability to save, organize and share operations, which enables cross team collaboration._
 
-Following are some of the use cases that we are considering for solutioning operations catalog in Apollo Studio. We would love to get your feedback on whether these will be useful for your organization and how they might fit in graph exploration, collaboration and consumption experience. If you're reading this, please fill out our feedback form! We are grateful for your feedback and read every response that comes in: [Feedback Survey](https://www.surveymonkey.com/r/ApolloOperationsCatalog). 
+Following are some of the use cases that we are considering for solutioning operations catalog in Apollo Studio. We would love to get your feedback on whether these will be useful for your organization and how they might fit in graph exploration, collaboration and consumption experience. If you're reading this, **please fill out our feedback form! We are grateful for your feedback and read every response that comes in: [Feedback Survey](https://www.surveymonkey.com/r/ApolloOperationsCatalog).** 
 
 # Proposed use cases
 
