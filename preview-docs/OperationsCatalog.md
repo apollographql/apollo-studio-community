@@ -23,3 +23,5 @@ Following are some of the use cases that we are considering for solutioning oper
 4. **Production data access:** Certain operations or collections can be marked as “secure”, meaning that they are good for pulling production data, allowing non-technical users who want to query graph data easy access to parameterize those operations. A specific list of users or a user with a secret token can query data using secure operations/collections.
 5. **Schema checks:** An operation or a collection of operations can be used as part of an integration test suite or to ensure that a given schema state is OK to deploy by automatically validating whether the given schema state can fulfill that collection of operations.
 6. **Secure gateway:** An operation or a collection of operations can be used to block the gateway so that only certain types and shapes of operations can make it through.
+
+> 🙏 **We would love to hear what you think. Please fill out our feedback form! We are grateful for your feedback and read every response that comes in: [Feedback Survey](https://www.surveymonkey.com/r/ApolloOperationsCatalog).** 
