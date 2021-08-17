@@ -1,3 +1,8 @@
+## 2021-08-17 –– ✨ New Feature: Launches ✨
+| What's new | |
+| :-- |  :-: |
+| For Studio Enterprise teams, there is a new tab within Studio that lets you observe the history and status of releases to your federated graph. Look for the rocket icon in your graph's home page to explore your federated launches in more detail! | ![image](https://user-images.githubusercontent.com/6365997/129747238-e7ebe13e-6ee8-4d90-bbc5-41df5ff4e70a.png) |
+
 ## 2021-08-05 –– ✨ New Feature: Audit Logs ✨
 | What's new | |
 | :-- |  :-: |
