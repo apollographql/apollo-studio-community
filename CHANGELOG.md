@@ -1,3 +1,8 @@
+## 2021-08-18
+| 🐛 Bug fix |
+| :--------- |
+| We fixed a recently introduced Schema Checks bug where users were unable to mark changes as safe for "broken" operations. |
+
 ## 2021-08-17 –– ✨ New Feature: Launches ✨
 | What's new | |
 | :-- |  :-: |
