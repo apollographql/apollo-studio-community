@@ -1,7 +1,7 @@
 ## 2021-08-19
 | What's new 🌔 🌕 🌚  | |
 | :--------- | -- |
-| This one's just a visual change for you, but we've udpated Studio's top nav to be dark instead of light. We hope you enjoy this in particular when using the Explorer in dark mode :) | ![image](https://user-images.githubusercontent.com/5922187/130103185-f4e74045-75f3-46e3-997b-126f73ae02c6.png) |
+| We've udpated Studio's top nav to be dark instead of light. We hope you enjoy this in particular when using the Explorer in dark mode :) | ![image](https://user-images.githubusercontent.com/5922187/130103185-f4e74045-75f3-46e3-997b-126f73ae02c6.png) |
 
 ## 2021-08-18
 | 🐛 Bug fix |
