@@ -1,13 +1,8 @@
 ## 2021-08-19
 | What's new 🌔 🌕 🌚  | |
 | :--------- | -- |
-| We've udpated Studio's new Launches feature to include a diff view of the supergraph schema! You can now see all schema-level changes in this view, and we'd love any [feedback](https://forms.gle/woXCdtyz1PFqcP7q7) you have on how to enrich your experience further in the new Launches page. | ![image](https://user-images.githubusercontent.com/6365997/130291167-361340bb-8550-4a1e-8215-c8506cec9e6d.png) |
-
-
-## 2021-08-19
-| What's new 🌔 🌕 🌚  | |
-| :--------- | -- |
 | We've udpated Studio's top nav to be dark instead of light. We hope you enjoy this in particular when using the Explorer in dark mode :) | ![image](https://user-images.githubusercontent.com/5922187/130103185-f4e74045-75f3-46e3-997b-126f73ae02c6.png) |
+| We've udpated Studio's new Launches feature to include a diff view of the supergraph schema! You can now see all schema-level changes in this view, and we'd love any [feedback](https://forms.gle/woXCdtyz1PFqcP7q7) you have on how to enrich your experience further in the new Launches page. | ![image](https://user-images.githubusercontent.com/6365997/130291167-361340bb-8550-4a1e-8215-c8506cec9e6d.png) |
 
 ## 2021-08-18
 | 🐛 Bug fix |
