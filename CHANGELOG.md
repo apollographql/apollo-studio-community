@@ -1,4 +1,4 @@
-## 2021-08-17
+## 2021-08-25
 | What's new | |
 | :-- |  :-: |
 | On the Launches page, you can now see which subgraphs changed as part of your launch, as well as whether they were modified, added, or removed! | ![image](https://user-images.githubusercontent.com/6365997/130810679-b073b485-84c2-4a06-bc03-549f0586063b.png) |
