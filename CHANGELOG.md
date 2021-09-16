@@ -1,3 +1,8 @@
+## 2021-09-15 –– ✨ Offline support for local development on Apollo Sandbox ✨
+| What's new | 
+| :--------- |
+| [Offline support](https://www.apollographql.com/docs/studio/explorer/#offline-sandbox) for local development on Apollo Sandbox is now available! :tada: If you are developing _locally_ using Sandbox, you can continue to work without any internet connection. _In order to see this change, please close all Studio/Sandbox tabs and reload Sandbox while still connected to the internet at least one time (to update to the latest bundle) and after that it will work without any internet connection._
+
 ## 2021-08-25
 | What's new | |
 | :-- |  :-: |
