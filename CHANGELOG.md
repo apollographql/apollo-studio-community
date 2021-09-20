@@ -1,7 +1,7 @@
 ## 2021-09-15 –– ✨ Be offline and develop locally on Apollo Sandbox ✨
-| What's new | 
+| What's new |
 | :--------- |
-| [Offline support](https://www.apollographql.com/docs/studio/explorer/#offline-sandbox) for local development on Apollo Sandbox is now available! :tada: If you are developing locally using Sandbox, you can continue to work without any internet connection. In order to see this change, please reload at least one Sandbox tab while still connected to the internet one time (to update to the latest bundle) and after that continue to work without any internet connection.
+| [Offline support](https://www.apollographql.com/docs/studio/explorer/#offline-sandbox) for local development with Apollo Sandbox is now available! 🎉 If you are developing locally using Sandbox, you can continue to work without any internet connection. In order to see this change, please reload at least one Sandbox tab while still connected to the internet one time (to update to the latest bundle) and after that continue to work without any internet connection.
 
 ## 2021-08-25
 | What's new | |
@@ -11,8 +11,8 @@
 ## 2021-08-19
 | What's new 🌔 🌕 🌚  | |
 | :--------- | -- |
-| We've udpated Studio's top nav to be dark instead of light. We hope you enjoy this in particular when using the Explorer in dark mode :) | ![image](https://user-images.githubusercontent.com/5922187/130103185-f4e74045-75f3-46e3-997b-126f73ae02c6.png) |
-| We've udpated Studio's new Launches feature to include a diff view of the supergraph schema! You can now see all schema-level changes in this view, and we'd love any [feedback](https://forms.gle/woXCdtyz1PFqcP7q7) you have on how to enrich your experience further in the new Launches page. | ![image](https://user-images.githubusercontent.com/6365997/130291167-361340bb-8550-4a1e-8215-c8506cec9e6d.png) |
+| We've updated Studio's top nav to be dark instead of light. We hope you enjoy this in particular when using the Explorer in dark mode :) | ![image](https://user-images.githubusercontent.com/5922187/130103185-f4e74045-75f3-46e3-997b-126f73ae02c6.png) |
+| We've updated Studio's new Launches feature to include a diff view of the supergraph schema! You can now see all schema-level changes in this view, and we'd love any [feedback](https://forms.gle/woXCdtyz1PFqcP7q7) you have on how to enrich your experience further in the new Launches page. | ![image](https://user-images.githubusercontent.com/6365997/130291167-361340bb-8550-4a1e-8215-c8506cec9e6d.png) |
 
 ## 2021-08-18
 | 🐛 Bug fix |
@@ -169,13 +169,13 @@ Full details on the release in our announcement post: [Apollo Sandbox: an open G
 ## 2021-02-15
 | What's new |
 | :--------- |
-| 🚥 We shipped a small change to how Development Graphs poll their status so that they’re no longer polling for connectivity status on the Graph List page. When you're using a Dev Graph, you can also turn off its polling with the controls in the global nav. |  
+| 🚥 We shipped a small change to how Development Graphs poll their status so that they’re no longer polling for connectivity status on the Graph List page. When you're using a Dev Graph, you can also turn off its polling with the controls in the global nav. |
 
 
 ## 2021-02-10
 | What's new | |
 | :--------- | :--: |
-| Defer loading of some data to making initial render of graph list faster | ![Screen Recording 2021-02-15 at 06 55 15 PM](https://user-images.githubusercontent.com/5922187/108012921-680c3800-6fbf-11eb-9707-c9ec5adeb5d0.gif) |  
+| Defer loading of some data to making initial render of graph list faster | ![Screen Recording 2021-02-15 at 06 55 15 PM](https://user-images.githubusercontent.com/5922187/108012921-680c3800-6fbf-11eb-9707-c9ec5adeb5d0.gif) |
 
 
 ## 2021-02-08
@@ -285,7 +285,7 @@ Full details on the release in our announcement post: [Apollo Sandbox: an open G
 ## 2020-10-29
 | What's new |    |
 | :--------- | -- |
-| You can now inline and extract variables from your operations in the Explorer by right-clicking in the Explorer's editor and selecting the "Inline" and "Extract" options from the context menu there. | ![Screen Recording 2020-10-29 at 03 32 29 PM](https://user-images.githubusercontent.com/5922187/97639919-cc998c00-19fc-11eb-8c17-754e3494c566.gif) |  
+| You can now inline and extract variables from your operations in the Explorer by right-clicking in the Explorer's editor and selecting the "Inline" and "Extract" options from the context menu there. | ![Screen Recording 2020-10-29 at 03 32 29 PM](https://user-images.githubusercontent.com/5922187/97639919-cc998c00-19fc-11eb-8c17-754e3494c566.gif) |
 
 ## 2020-10-28
 | What's new |    |
