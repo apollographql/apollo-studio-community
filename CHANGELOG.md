@@ -1,3 +1,8 @@
+## 2021-09-20 –– ✨ The README - A new graph landing page ✨
+| What's new | |
+| :-- |  :-: |
+| Graph maintainers can now provide information about the graph and how to get started with the graph natively in Apollo Studio with the new README page. The README appears as a new icon in the left nav in Apollo Studio and will now be the default page shown when navigating to any graph variant in Apollo Studio. README is not just another markdown, it also has one-click access to graph shortcodes - graph variables such as name, ref, SDL, endpoint, etc. that can be easily referred to in the README content. We have provided some default README content to get you started, so check it out today in Apollo Studio and get editing!| ![image](https://user-images.githubusercontent.com/86634858/134107643-1afac63f-33ec-475d-8f8b-18cbb26c58c0.png) |
+
 ## 2021-09-15 –– ✨ Be offline and develop locally on Apollo Sandbox ✨
 | What's new |
 | :--------- |
