@@ -1,3 +1,8 @@
+## 2021-09-23
+| What's new | |
+| :-- |  :-: |
+| ✨ **Tabs in Apollo Studio Explorer** ✨ Test out multiple operations in different tabs when exploring your GraphQL API in Apollo Studio Explorer!!| ![image](https://user-images.githubusercontent.com/86634858/134574846-0572013c-4e4f-4615-a0f5-761eb99f24d0.png) |
+
 ## 2021-09-20 –– ✨ The README - A new graph landing page ✨
 | What's new | |
 | :-- |  :-: |
