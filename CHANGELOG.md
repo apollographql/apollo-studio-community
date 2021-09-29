@@ -1,19 +1,19 @@
-## 2021-09-29 –– ✨ The Champion Dashboard ✨
+## 2021-09-29 — ✨ The Champion Dashboard ✨
 | What's new | |
 | :-- | :-: |
-| **Org Admins** now have access to a new page on their account, the **Dashboard**, which gives an overview of your Studio account's usage.<br /><br />The **Dashboard Page** shows: <ul><li>your plan and its features</li><li>how many users you have and their roles</li><li>the support tickets submitted by members of your org</li><li>the request volumes sent by your graphs</li><li>the number of graphs and variants in your account</li><li>the schema publish volumes across your graphs</li><li>the number of checks being run by your graphs, and their success/failure rate</li></ul>| ![image](https://user-images.githubusercontent.com/5922187/135341580-088bab2e-63f3-4424-b920-a07cdf40a410.png) |
+| **Org Admins** now have access to a new page on their account, the **Dashboard**, which gives an overview of your Studio account's usage. The **Dashboard Page** shows your plan and its features, how many users you have and their roles, the support tickets submitted by members of your org, the request volumes sent by your graphs, the number of graphs and variants in your account, the schema publish volumes across your graphs, the number of checks being run by your graphs, and their success/failure rate. | ![image](https://user-images.githubusercontent.com/5922187/135341580-088bab2e-63f3-4424-b920-a07cdf40a410.png) |
 
 ## 2021-09-23
 | What's new | |
 | :-- |  :-: |
 | ✨ **Tabs in Apollo Studio Explorer** ✨ Test out multiple operations in different tabs when exploring your GraphQL API in Apollo Studio Explorer!!| ![image](https://user-images.githubusercontent.com/86634858/134574846-0572013c-4e4f-4615-a0f5-761eb99f24d0.png) |
 
-## 2021-09-20 –– ✨ The README - A new graph landing page ✨
+## 2021-09-20 — ✨ The README - A new graph landing page ✨
 | What's new | |
 | :-- |  :-: |
 | Graph maintainers can now provide information about the graph and how to get started with the graph natively in Apollo Studio with the new README page. The README appears as a new icon in the left nav in Apollo Studio and will now be the default page shown when navigating to any graph variant in Apollo Studio. README is not just another markdown, it also has one-click access to graph shortcodes - graph variables such as name, ref, SDL, endpoint, etc. that can be easily referred to in the README content. We have provided some default README content to get you started, so check it out today in Apollo Studio and get editing!| ![image](https://user-images.githubusercontent.com/86634858/134107643-1afac63f-33ec-475d-8f8b-18cbb26c58c0.png) |
 
-## 2021-09-15 –– ✨ Be offline and develop locally on Apollo Sandbox ✨
+## 2021-09-15 — ✨ Be offline and develop locally on Apollo Sandbox ✨
 | What's new |
 | :--------- |
 | [Offline support](https://www.apollographql.com/docs/studio/explorer/#offline-sandbox) for local development with Apollo Sandbox is now available! 🎉 If you are developing locally using Sandbox, you can continue to work without any internet connection. In order to see this change, please reload at least one Sandbox tab while still connected to the internet one time (to update to the latest bundle) and after that continue to work without any internet connection.
@@ -34,12 +34,12 @@
 | :--------- |
 | We fixed a recently introduced Schema Checks bug where users were unable to mark changes as safe for "broken" operations. |
 
-## 2021-08-17 –– ✨ New Feature: Launches ✨
+## 2021-08-17 — ✨ New Feature: Launches ✨
 | What's new | |
 | :-- |  :-: |
 | For Studio Enterprise teams, there is a new tab within Studio that lets you observe the history and status of releases to your federated graph. Look for the rocket icon in your graph's home page to explore your federated launches in more detail! | ![image](https://user-images.githubusercontent.com/6365997/129747238-e7ebe13e-6ee8-4d90-bbc5-41df5ff4e70a.png) |
 
-## 2021-08-05 –– ✨ New Feature: Audit Logs ✨
+## 2021-08-05 — ✨ New Feature: Audit Logs ✨
 | What's new | |
 | :-- |  :-: |
 | For Studio Enterprise teams, it is now possible to export a data file with key actions taken within your organization. You can find the Audit Log interface under the "Audit" tab of your organization's home page. You can [read more about the feature here](https://www.apollographql.com/blog/announcement/platform/audit-logs-now-available-in-apollo-studio-enterprise/). | ![image](https://user-images.githubusercontent.com/5922187/128379498-e65cb4c4-1d3c-4384-8d7e-ca15ab432033.png) |
@@ -56,12 +56,12 @@
 | Default Headers are now generally available! In the Explorer Settings tab, Graph Administrators can specify headers that will be applied to every Explorer request executed by every user in your organization. | ![image](https://user-images.githubusercontent.com/24704789/127037888-2c0c5de2-3ffb-44f1-95c1-ca4888907c73.png) |
 | You can now also provide sensitive tokens and information to header values in Explorer's Environment Variables tab. | ![image](https://user-images.githubusercontent.com/24704789/127039872-c3aebc49-387a-4ac0-b6d5-8eab92cff71c.png) |
 
-## 2021-07-20 –– Organization Reorganization
+## 2021-07-20 — Organization Reorganization
 | What's new | |
 | :-- | -- |
 |  It's now simpler than ever to navigate your organization (or multiple orgs) in Studio thanks to the new org picker. From the menu, you can switch organization context (if you are signed in to multiple orgs), create a new organization, or return to your organization index by selecting the organization item. | ![image](https://user-images.githubusercontent.com/1319791/126541995-36f0233f-290e-4edb-b590-28f487223bd5.png) |
 
-## 2021-06-15 –– ✨ New Page: Sandbox ✨
+## 2021-06-15 — ✨ New Page: Sandbox ✨
 
 We have released [Sandbox](https://studio.apollographql.com/sandbox), making the Apollo Explorer openly available to any developer, with no login required.
 
