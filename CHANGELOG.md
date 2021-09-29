@@ -1,3 +1,8 @@
+## 2021-09-29 –– ✨ The Champion Dashboard ✨
+| What's new | |
+| :-- | :-: |
+| **Org Admins** now have access to a new page on their account, the **Dashboard**, which gives an overview of your Studio account's usage.<br /><br />The **Dashboard Page** shows: <ul><li>your plan and its features</li><li>how many users you have and their roles</li><li>the support tickets submitted by members of your org</li><li>the request volumes sent by your graphs</li><li>the number of graphs and variants in your account</li><li>the schema publish volumes across your graphs</li><li>the number of checks being run by your graphs, and their success/failure rate</li></ul>| ![image](https://user-images.githubusercontent.com/5922187/135341580-088bab2e-63f3-4424-b920-a07cdf40a410.png) |
+
 ## 2021-09-23
 | What's new | |
 | :-- |  :-: |
