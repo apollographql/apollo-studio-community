@@ -1,4 +1,4 @@
-## 2021-09-30 🎊
+## 2021-09-30
 | What's new | |
 | :-- | :-: |
 | **Admins** can now share their graphs with users outside of their Studio organization. On the Graph Settings page, under the Access tab, toggle the switch for the specific graph variant you want to make public and share the public graph URL with consumers external to the Studio organization! Read more [here](https://www.apollographql.com/docs/studio/org/graphs/#public-variants). | ![image](https://user-images.githubusercontent.com/86634858/135554900-22c6e099-b879-47d3-b062-f602261cf9fa.png) |
@@ -9,7 +9,7 @@
 | :-- | :-: |
 | **Org Admins** now have access to a new page on their account, the **Dashboard**, which gives an overview of your Studio account's usage. The **Dashboard Page** shows your plan and its features, how many users you have and their roles, the support tickets submitted by members of your org, the request volumes sent by your graphs, the number of graphs and variants in your account, the schema publish volumes across your graphs, the number of checks being run by your graphs, and their success/failure rate. | ![image](https://user-images.githubusercontent.com/5922187/135341580-088bab2e-63f3-4424-b920-a07cdf40a410.png) |
 
-## 2021-09-23 — ✨ **Tabs in Apollo Studio Explorer** ✨ 
+## 2021-09-23 — ✨ Tabs in Apollo Studio Explorer ✨ 
 | What's new | |
 | :-- |  :-: |
 | Test out multiple operations in different tabs when exploring your GraphQL API in Apollo Studio Explorer!!| ![image](https://user-images.githubusercontent.com/86634858/134574846-0572013c-4e4f-4615-a0f5-761eb99f24d0.png) |
