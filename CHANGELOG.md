@@ -1,4 +1,4 @@
-## 2021-09-30 :tada:
+## 2021-09-30 🎊
 | What's new | |
 | :-- | :-: |
 | **Admins** can now share their graphs with users outside of their Studio organization. On the Graph Settings page, under the Access tab, toggle the switch for the specific graph variant you want to make public and share the public graph URL with consumers external to the Studio organization! Read more [here](https://www.apollographql.com/docs/studio/org/graphs/#public-variants). | ![image](https://user-images.githubusercontent.com/86634858/135554900-22c6e099-b879-47d3-b062-f602261cf9fa.png) |
