@@ -9,10 +9,10 @@
 | :-- | :-: |
 | **Org Admins** now have access to a new page on their account, the **Dashboard**, which gives an overview of your Studio account's usage. The **Dashboard Page** shows your plan and its features, how many users you have and their roles, the support tickets submitted by members of your org, the request volumes sent by your graphs, the number of graphs and variants in your account, the schema publish volumes across your graphs, the number of checks being run by your graphs, and their success/failure rate. | ![image](https://user-images.githubusercontent.com/5922187/135341580-088bab2e-63f3-4424-b920-a07cdf40a410.png) |
 
-## 2021-09-23
+## 2021-09-23 — ✨ **Tabs in Apollo Studio Explorer** ✨ 
 | What's new | |
 | :-- |  :-: |
-| ✨ **Tabs in Apollo Studio Explorer** ✨ Test out multiple operations in different tabs when exploring your GraphQL API in Apollo Studio Explorer!!| ![image](https://user-images.githubusercontent.com/86634858/134574846-0572013c-4e4f-4615-a0f5-761eb99f24d0.png) |
+| Test out multiple operations in different tabs when exploring your GraphQL API in Apollo Studio Explorer!!| ![image](https://user-images.githubusercontent.com/86634858/134574846-0572013c-4e4f-4615-a0f5-761eb99f24d0.png) |
 
 ## 2021-09-20 — ✨ The README - A new graph landing page ✨
 | What's new | |
