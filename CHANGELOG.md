@@ -1,3 +1,8 @@
+## 2021-10-07
+| 🐛 Bug fix |
+| :--------- |
+| We fixed a bug on the Operations tab where changing the selected operation would also cause the client filter to lose its state.  |
+
 ## 2021-09-30
 | What's new | |
 | :-- | :-: |
