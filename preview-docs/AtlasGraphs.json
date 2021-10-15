@@ -21,7 +21,7 @@
   {
     "graphId": "GitLab-bqoz6f",
     "graphVariant": "current",
-    "defaultQuery": "query Query {\n    users(usernames: ["user1", "user3", "user4"]) {\n      pageInfo {\n        endCursor\n        startCursor\n        hasNextPage\n      }\n      nodes {\n        id\n        username\n        publicEmail\n        location\n        webUrl\n        userPermissions {\n          createSnippet\n        }\n      }\n    }\n  }"
+    "defaultQuery": "query Query {\n    users(usernames: [\"user1\", \"user3\", \"user4\"]) {\n      pageInfo {\n        endCursor\n        startCursor\n        hasNextPage\n      }\n      nodes {\n        id\n        username\n        publicEmail\n        location\n        webUrl\n        userPermissions {\n          createSnippet\n        }\n      }\n    }\n  }"
   },
   {
     "graphId": "SpaceX-pxxbxen",
