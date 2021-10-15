@@ -1,3 +1,8 @@
+## 2021-10-14
+| What's new | |
+| :-- | :-: |
+| Graphs can now have avatar images, which you can set on your graph's settings page. | ![image](https://user-images.githubusercontent.com/5922187/137417468-3c7f52b1-873c-4a11-9c25-e3d519f1f16b.png) |
+
 ## 2021-10-07
 | 🐛 Bug fix |
 | :--------- |
