@@ -19,19 +19,24 @@
     }
   },
   {
-    "graphId": "GitLab-bqoz6f",
-    "graphVariant": "current",
-    "defaultQuery": "query Query {\n    users(usernames: [\"user1\", \"user3\", \"user4\"]) {\n      pageInfo {\n        endCursor\n        startCursor\n        hasNextPage\n      }\n      nodes {\n        id\n        username\n        publicEmail\n        location\n        webUrl\n        userPermissions {\n          createSnippet\n        }\n      }\n    }\n  }"
-  },
-  {
     "graphId": "SpaceX-pxxbxen",
     "graphVariant": "current",
     "defaultQuery": "query Query {\n    launchesPast(limit: 10) {\n      mission_name\n      launch_date_local\n      launch_site {\n        site_name_long\n      }\n      links {\n        article_link\n        video_link\n      }\n      rocket {\n        rocket_name\n      }\n    }\n  }"
   },
   {
+    "graphId": "GitLab-bqoz6f",
+    "graphVariant": "current",
+    "defaultQuery": "query Query {\n    users(usernames: [\"user1\", \"user3\", \"user4\"]) {\n      pageInfo {\n        endCursor\n        startCursor\n        hasNextPage\n      }\n      nodes {\n        id\n        username\n        publicEmail\n        location\n        webUrl\n        userPermissions {\n          createSnippet\n        }\n      }\n    }\n  }"
+  },
+  {
     "graphId": "rick-and-morty-a3b90u",
     "graphVariant": "current",
     "defaultQuery": "query Characters {\n  characters {\n    results {\n      name\n      location {\n        name\n      }\n      gender\n    }\n  }\n}"
+  },
+  {
+    "graphId": "star-wars-swapi",
+    "graphVariant": "current",
+    "defaultQuery": "query AllFilms {\n  allFilms {\n    edges {\n      node {\n        title\n        releaseDate\n      }\n    }\n  }\n}"
   },
   {
     "graphId": "covid-gql",
@@ -47,11 +52,6 @@
     "graphId": "countries",
     "graphVariant": "current",
     "defaultQuery": "query Countries {\n  countries {\n    name\n    capital\n  }\n}"
-  },
-  {
-    "graphId": "star-wars-swapi",
-    "graphVariant": "current",
-    "defaultQuery": "query AllFilms {\n  allFilms {\n    edges {\n      node {\n        title\n        releaseDate\n      }\n    }\n  }\n}"
   },
   {
     "graphId": "splendor",
