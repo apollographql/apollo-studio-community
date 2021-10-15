@@ -1,0 +1,41 @@
+[
+  {
+    "graphId": "github",
+    "graphVariant": "current",
+    "defaultQuery": "query User {\n  viewer {\n    login\n  }\n}\n",
+    "header": {
+      "headerName": "Authorization",
+      "headerDescription": "To authenticate requests, please generate a **new personal auth token** from https://github.com/settings/tokens with the following scopes:\n\n```\nrepo\n  repo:status\n  repo_deployment\n  public_repo\nadmin:org\n  read:org\nuser[all]\n```",
+      "headerTemplate": "Bearer TOKEN"
+    }
+  },
+  {
+    "graphId": "braintree",
+    "graphVariant": "current",
+    "header": {
+      "headerName": "Authorization",
+      "headerDescription": "To use the API, you MUST have a [registered Braintree account](https://www.braintreepayments.com/sandbox) and include your credentials in the **Authorization** header. Many projects use the option of authenticating with API keys. After you [generate an API Key](https://articles.braintreepayments.com/control-panel/important-gateway-credentials#api-keys), you MUST Base64-encode it for GraphQL requests.\n\nIf your public key is **v4ndq314c2s5c28r** and your private key is **93b78bc88be90d93ac282e50ae569fdd**, you can generate your Base64-encoded token like this:\n\n```\necho -n \"v4ndq314c2s5c28r:93b78bc88be90d93ac282e50ae569fdd\" | base64\n```\n\nPlease paste your Base64-encoded token in the box:",
+      "headerTemplate": "Basic TOKEN"
+    }
+  },
+  {
+    "graphId": "rick-and-morty-a3b90u",
+    "graphVariant": "current",
+    "defaultQuery": "query Characters {\n  characters {\n    results {\n      name\n      location {\n        name\n      }\n      gender\n    }\n  }\n}"
+  },
+  {
+    "graphId": "countries",
+    "graphVariant": "current",
+    "defaultQuery": "query Countries {\n  countries {\n    name\n    capital\n  }\n}"
+  },
+  {
+    "graphId": "star-wars-swapi",
+    "graphVariant": "current",
+    "defaultQuery": "query AllFilms {\n  allFilms {\n    edges {\n      node {\n        title\n        releaseDate\n      }\n    }\n  }\n}"
+  },
+  {
+    "graphId": "splendor",
+    "graphVariant": "production",
+    "defaultQuery": "query Games {\n  allGames {\n    name\n    players {\n      id\n    }\n  }\n}"
+  }
+]
