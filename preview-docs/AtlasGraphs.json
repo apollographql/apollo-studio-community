@@ -34,6 +34,11 @@
     "defaultQuery": "query Characters {\n  characters {\n    results {\n      name\n      location {\n        name\n      }\n      gender\n    }\n  }\n}"
   },
   {
+    "graphId": "covid-gql",
+    "graphVariant": "current",
+    "defaultQuery": "query ExampleQuery {\n  us_only {\n    combined_name\n    confirmed\n    country\n    population\n    state\n    deaths\n    county\n    date\n    fips\n  }\n}"
+  },
+  {
     "graphId": "countries",
     "graphVariant": "current",
     "defaultQuery": "query Countries {\n  countries {\n    name\n    capital\n  }\n}"
