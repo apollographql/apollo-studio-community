@@ -35,7 +35,8 @@
   },
   {
     "graphId": "poke-gql",
-    "graphVariant": "current"
+    "graphVariant": "current",
+    "defaultQuery": "query samplePokeAPIquery {\n  # Gets all the pokemon belonging to generation 3\n  gen3_species: pokemon_v2_pokemonspecies(where: {pokemon_v2_generation: {name: {_eq: "generation-iii"}}}, order_by: {id: asc}) {\n    name\n    id\n  }\n  \n  # You can run multiple queries at the same time\n  # Counts how many pokemon were released for each generation\n  generations: pokemon_v2_generation {\n    name\n    pokemon_species: pokemon_v2_pokemonspecies_aggregate {\n      aggregate {\n        count\n      }\n    }\n  }\n}"
   },
   {
     "graphId": "star-wars-swapi",
