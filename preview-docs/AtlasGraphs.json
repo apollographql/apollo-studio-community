@@ -34,6 +34,10 @@
     "defaultQuery": "query Characters {\n  characters {\n    results {\n      name\n      location {\n        name\n      }\n      gender\n    }\n  }\n}"
   },
   {
+    "graphId": "poke-gql",
+    "graphVariant": "current"
+  },
+  {
     "graphId": "star-wars-swapi",
     "graphVariant": "current",
     "defaultQuery": "query AllFilms {\n  allFilms {\n    edges {\n      node {\n        title\n        releaseDate\n      }\n    }\n  }\n}"
