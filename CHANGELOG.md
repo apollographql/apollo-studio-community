@@ -1,3 +1,8 @@
+## 2021-10-26
+| What's new | |
+| :-- | :-: |
+| We have made embedding Explorer MUCH easier! With our first release, you had to read and understand the full documentation and copy a volume of code in order to get started. But now you can just generate the code in a few clicks. Head over to Explorer for any public graph, and under Explorer Settings, find **Embed Explorer**. Toggle on/off options as you like, use the operation in your editor as the default and copy the code snippet to paste - that is it!! Embed Explorer to enable consumers to test out the graph from your own website, blog posts, documentation, etc. using the amazing Explorer experience. Read more [here](https://www.apollographql.com/docs/studio/embed-explorer/). |![image](https://user-images.githubusercontent.com/86634858/139114580-9edb0cff-a7ae-425c-964c-eeb33386fc26.png)
+
 ## 2021-10-20
 | 🐛 Bug fix |
 | :--------- |
