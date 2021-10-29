@@ -1,3 +1,9 @@
+## 2021-10-29
+| 🐛 Bug fix |
+| :--------- |
+| We fixed a bug in Explorer where field latency approximation editor hints were displaying latencies 1000 times larger than the actual latency.  |
+
+
 ## 2021-10-26
 | What's new | |
 | :-- | :-: |
