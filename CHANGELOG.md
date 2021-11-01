@@ -1,8 +1,13 @@
 ## 2021-10-29
+| What's new | |
+| :--------- | :-: |
+| We have upgraded the data visualization charts across Studio. This upgrade includes performance improvements, interaction upgrades, and numerous bug fixes. | ![image](https://user-images.githubusercontent.com/5922187/139733140-2b1fdb7f-2cf5-4b43-b563-416f077378e5.png) |
+
+
+## 2021-10-29
 | 🐛 Bug fix |
 | :--------- |
 | We fixed a bug in Explorer where field latency approximation editor hints were displaying latencies 1000 times larger than the actual latency.  |
-
 
 ## 2021-10-26
 | What's new | |
