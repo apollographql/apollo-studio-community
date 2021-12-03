@@ -1,3 +1,9 @@
+## 2021-12-02
+| What's new | |
+| :--------- | -- |
+| Now you can diff your local schema against any registered schema in Apollo Studio, right from Sandbox and understand the changes made. |![image](https://user-images.githubusercontent.com/86634858/144535994-5c31d241-8004-4716-aafa-c90400aabe65.png) |
+| You can also run operation checks right from Sandbox! While developing locally in Sandbox, make sure there are no breaking changes by running operation checks before pushing the updated schema to Studio. | ![image](https://user-images.githubusercontent.com/86634858/144536075-9cd9b2d0-4bb9-4b3e-8081-262a7e813a1e.png)|
+
 ## 2021-11-01
 | What's new | |
 | :--------- | :-: |
