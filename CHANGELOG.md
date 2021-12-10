@@ -1,3 +1,9 @@
+## 2021-12-10
+| What's new | |
+| :--------- | :-: |
+| You can now sort fields in Explorer docs. Simply click on the arrow next to `Fields`. |![image](https://user-images.githubusercontent.com/86634858/145644410-246e5223-bdd0-42e9-a93f-71eb05e112f4.png)|
+
+
 ## 2021-12-02
 | What's new | |
 | :--------- | -- |
