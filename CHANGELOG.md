@@ -1,3 +1,9 @@
+## 2021-12-14
+
+| What's new | |
+| :--------- | :-: |
+| You can now opt in to using several different Datadog regions to forward metrics! | ![image](https://user-images.githubusercontent.com/6365997/146055693-5300f628-a602-4332-9ea8-7be2cdc0f096.png) |
+
 ## 2021-12-10
 | What's new | |
 | :--------- | :-: |
