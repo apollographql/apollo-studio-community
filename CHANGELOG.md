@@ -1,3 +1,9 @@
+## 2021-12-15
+
+| What's new | |
+| :--------- | :-: |
+| Now you can publish your local schema to Apollo registry directly from Sandbox! No need to go anywhere, just click `Publish` in Sandbox.| ![image](https://user-images.githubusercontent.com/86634858/146322113-5a9333a3-dd7c-4fff-a34a-46d16324c0fb.png)|
+
 ## 2021-12-14
 
 | What's new | |
