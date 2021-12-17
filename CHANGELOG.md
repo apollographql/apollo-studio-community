@@ -1,3 +1,9 @@
+## 2021-12-16
+
+| What's new | |
+| :--------- | :-: |
+| You can now click the `only` link to quickly filter the clients to the only one you need.| ![image](https://user-images.githubusercontent.com/639025/146469684-d3c0a9f3-bf25-4913-89ef-bff95fc2a184.png) |
+
 ## 2021-12-15
 
 | What's new | |
