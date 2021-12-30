@@ -2,7 +2,7 @@
 
 | What's new | |
 | :--------- | :-: |
-| The Fields page can now display how many operations textually reference fields in addition to how many times the fields are executed. This can reveal connections hidden by field executions alone, and lets you use the page with federated graphs even if your subgraphs do not all support federated tracing. This new feature requires Apollo Server 3.6. See [the Fields page docs](https://www.apollographql.com/docs/studio/metrics/field-usage/) for more details.| ![image](https://user-images.githubusercontent.com/16724/147708671-6b6d15e3-80ce-411f-996f-b8f3d09b1046.jpeg) |
+| The Fields page can now display how many operations textually reference fields in addition to how many times the fields are executed. This can reveal connections hidden by field executions alone, and it enables you to use the page with federated graphs even if your subgraphs do not all support federated tracing. This new feature requires Apollo Server 3.6 or later. For details, see [the Fields page docs](https://www.apollographql.com/docs/studio/metrics/field-usage/).| ![image](https://user-images.githubusercontent.com/16724/147708671-6b6d15e3-80ce-411f-996f-b8f3d09b1046.jpeg) |
 
 ## 2021-12-16
 
