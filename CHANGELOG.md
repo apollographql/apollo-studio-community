@@ -1,3 +1,9 @@
+## 2022-01-03 Happy new year! 🥳
+
+| What's new | |
+| :--------- | :-: |
+| Preflight scripts are now available in Explorer! Preflight scripts are really useful for managing authentication before operations are run. As graph producers, you can automate authentication against your graph endpoints to reduce friction for your graph consumers as much as possible, increasing graph usage and adoption. Simply click to add the code snippets and get started with your preflight scripts today! For details, see [docs](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#preflight-scripts-beta).| ![image](https://user-images.githubusercontent.com/86634858/147967983-7573674b-cdb8-4d37-8879-375cf771c54a.png) |
+
 ## 2021-12-30
 
 | What's new | |
