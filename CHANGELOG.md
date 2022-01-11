@@ -1,3 +1,9 @@
+## 2022-01-11
+
+| What's new | |
+| :--------- | :-: |
+| We've updated the Graph Settings to be spread out across 5 tabs. We previously had just **General** and **Access**, and now we have **General**, **Permissions**, **API Keys**, **Reporting**, and **Variants**. | ![image](https://user-images.githubusercontent.com/5922187/149028499-df4239ab-163e-4d6b-bc25-17a46e8dd66b.png) |
+
 ## 2022-01-03 Happy new year! 🥳
 
 | What's new | |
