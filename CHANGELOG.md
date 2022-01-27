@@ -1,7 +1,7 @@
 ## 2022-01-25
 | What's new | |
 | :-- | --- |
-| Operation names can now be excluded from schema checks. Sometimes an operation ID is not enough to prevent failures while checking schemas, and to ignore expected failures on certain operations, we've introduced this exclusion by operation name. | ![Excluded Operation Names](https://user-images.githubusercontent.com/639025/151235036-cc195e6a-480f-4cf0-a05f-ca44df4cec4d.gif) | 
+| Operation names can now be excluded from schema checks. Sometimes an operation ID is not enough to prevent failures while checking schemas, and to ignore expected failures on certain operations, we've introduced the ability to exclude operations by name from the Checks Config page. | ![Excluded Operation Names](https://user-images.githubusercontent.com/639025/151235036-cc195e6a-480f-4cf0-a05f-ca44df4cec4d.gif) | 
 
 ## 2022-01-11
 
