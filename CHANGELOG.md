@@ -1,3 +1,8 @@
+## 2022-02-01
+| What's new | |
+| :-- | --- |
+| Preflight scripts now expose the graphql POST request body as `explorer.request.body` | ![image](https://user-images.githubusercontent.com/3953093/151969064-93c1cd0b-1ed3-425d-a463-14146fe581e0.png) | 
+
 ## 2022-01-25
 | What's new | |
 | :-- | --- |
