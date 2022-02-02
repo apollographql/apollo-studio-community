@@ -1,7 +1,7 @@
 ## 2022-02-01
 | What's new | |
 | :-- | --- |
-| Preflight scripts now expose the graphql POST request body as `explorer.request.body` | ![image](https://user-images.githubusercontent.com/3953093/151969064-93c1cd0b-1ed3-425d-a463-14146fe581e0.png) | 
+| Preflight scripts now expose the graphql POST request body and the crypto-js project. You can use the request body by referencing `explorer.request.body`, and crypto-js can be accessed with `explorer.CryptoJS` | ![image](https://user-images.githubusercontent.com/3953093/152077068-7d2c9dc8-4c13-464f-960d-1e8bc38c5991.png) | 
 
 ## 2022-01-25
 | What's new | |
