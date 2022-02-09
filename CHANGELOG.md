@@ -1,6 +1,11 @@
 ## 2022-02-01
 | What's new | |
 | :-- | --- |
+| The **Protected Variant**, **Public Variant**, and **Delete Variant** settings have been moved to a new "This Variant" tab of the Graph Settings page. | <img width="954" alt="Screen Shot 2022-02-08 at 7 51 05 PM" src="https://user-images.githubusercontent.com/5922187/153106696-1d15b528-9e23-4998-984e-502f0c5151e6.png"> | 
+
+## 2022-02-01
+| What's new | |
+| :-- | --- |
 | Preflight scripts now expose the graphql POST request body and the crypto-js project. You can use the request body by referencing `explorer.request.body`, and crypto-js can be accessed with `explorer.CryptoJS` | ![image](https://user-images.githubusercontent.com/3953093/152077068-7d2c9dc8-4c13-464f-960d-1e8bc38c5991.png) | 
 
 ## 2022-01-25
