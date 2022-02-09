@@ -1,7 +1,7 @@
 ## 2022-02-01
 | What's new | |
 | :-- | --- |
-| The **Protected Variant**, **Public Variant**, and **Delete Variant** settings have been moved to a new "This Variant" tab of the Graph Settings page. | <img width="954" alt="Screen Shot 2022-02-08 at 7 51 05 PM" src="https://user-images.githubusercontent.com/5922187/153106696-1d15b528-9e23-4998-984e-502f0c5151e6.png"> | 
+| The **Protected Variant**, **Public Variant**, and **Delete Variant** settings have been moved to a new "This Variant" tab of the Graph Settings page. | ![image](https://user-images.githubusercontent.com/5922187/153106696-1d15b528-9e23-4998-984e-502f0c5151e6.png) | 
 
 ## 2022-02-01
 | What's new | |
