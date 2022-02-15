@@ -1,7 +1,7 @@
 ## 2022-02-15
 | What's new | |
 | :--- | ---- |
-| Today we introduced the ability to work with your subgraphs locally in Sandbox! If the endpoint that you add to Sandbox points to a subgraph, a SUBGRAPH badge will appear. |![image](https://user-images.githubusercontent.com/14367451/154155677-b83f2f30-7291-41d0-b1d7-f083f5b8866d.png) |
+| We have added support for using subgraphs in Sandbox! If the endpoint that you add to Sandbox points to a subgraph, a SUBGRAPH badge will appear. |![image](https://user-images.githubusercontent.com/14367451/154155677-b83f2f30-7291-41d0-b1d7-f083f5b8866d.png) |
 | You can then run operations against your local subgraph schema, diff your changes against a registered subgraph schema and run checks to ensure that your changes do not affect composition or any running operations to the corresponding federated graph. Learn more [here](https://www.apollographql.com/docs/studio/explorer/sandbox/#subgraph-checks). | ![subgraph-sandbox-one-check-failed](https://user-images.githubusercontent.com/14367451/154148356-2fabcd82-1124-4a3b-bd70-5820e33f7895.jpg)|
 
 ## 2022-02-10
