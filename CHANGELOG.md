@@ -1,7 +1,7 @@
 ## 2022-02-15
 | What's new | |
 | :-- | --- |
-| You can now run diffs & checks against **subgraphs in Sandbox**. Check out how [here](https://www.apollographql.com/docs/studio/explorer/sandbox/#subgraph-checks).| ![subgraph-sandbox-one-check-failed](https://user-images.githubusercontent.com/14367451/154148356-2fabcd82-1124-4a3b-bd70-5820e33f7895.jpg) | ![subgraph-sandbox-check-comp-failed](https://user-images.githubusercontent.com/14367451/154148365-8fe4c17a-d2af-4bab-b046-418e30f78155.jpg) 
+| You can diff against and run subgraph checks on your registered graphs with **subgraphs in Sandbox**. Check out how [here](https://www.apollographql.com/docs/studio/explorer/sandbox/#subgraph-checks).| ![subgraph-sandbox-one-check-failed](https://user-images.githubusercontent.com/14367451/154148356-2fabcd82-1124-4a3b-bd70-5820e33f7895.jpg)
 
 
 ## 2022-02-10
