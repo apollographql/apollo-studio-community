@@ -1,5 +1,5 @@
 ## 2022-02-16
-We've shipped some recent upgrades to Operation Insights in Apollo Studio. This update features three significant enhancements which make it easier to understand the usage and data flow of operations in your graph.
+We've shipped some recent upgrades to Operation Insights in Apollo Studio. This update features three significant enhancements which make it easier to understand the usage and data flow of operations in your graph. [See the complete blogpost here.](https://www.apollographql.com/blog/announcement/platform/new-operation-insights-with-client-usage-and-federation-query-plans/)
 | What's new | |
 | :--------- | :-: |
 |First, we brought the operation signature front and center so that you can quickly understand the shape of fields being requested by the operation. The signature now appears as a side-panel that you can resize instead of hidden behind another tab.| ![image](https://wp.apollographql.com/wp-content/uploads/2022/03/operation-blog-1-1024x621.png) |
@@ -14,7 +14,7 @@ We've shipped some recent upgrades to Operation Insights in Apollo Studio. This 
 
 ## 2022-02-10
 | What's new | |
-| --- | --- |
+| :-- | --- |
 | You can now view **Query Plan Previews** for registered [Federation 2](https://www.apollographql.com/docs/federation/v2/) graphs in Apollo Studio Explorer. | ![image](https://user-images.githubusercontent.com/86634858/153515255-cc7276a8-3114-499d-9bae-740c6ed2ca7a.png) | 
 
 ## 2022-02-01
