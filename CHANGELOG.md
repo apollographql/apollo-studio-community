@@ -1,7 +1,7 @@
 ## 2022-02-16
 We've shipped some recent upgrades to Operation Insights in Apollo Studio. This update features three significant enhancements which make it easier to understand the usage and data flow of operations in your graph.
 | What's new | |
-| :-- | ---- |
+| :-- | ------ |
 |First, we brought the operation signature front and center so that you can quickly understand the shape of fields being requested by the operation. The signature now appears as a side-panel that you can resize instead of hidden behind another tab.| ![image](https://wp.apollographql.com/wp-content/uploads/2022/03/operation-blog-1-1024x621.png) |
 | In the same panel, we added the ability to view the federation query plan for an operation. The query plan lets you see how Apollo Gateway or Router is working under the hood, describing how data from your subgraphs is woven together to build a full query response. | ![image](https://www.apollographql.com/blog/static/0ad0380c2fe95a1267a5e0f752f60701/operation-blog-2.png) |
 | Last but not least, we introduced a way to understand which clients are using an operation in a new Client Usage display. The most active clients are sorted to the top of the list based on the number of requests reported to Apollo Studio via usage reporting. | ![image](https://wp.apollographql.com/wp-content/uploads/2022/03/operation-blog-3-1024x621.png) |
