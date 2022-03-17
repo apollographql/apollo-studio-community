@@ -14,7 +14,7 @@ We've shipped some recent upgrades to Operation Insights in Apollo Studio. This 
 
 ## 2022-02-10
 | What's new | |
-| :-- | --- |
+| --- | --- |
 | You can now view **Query Plan Previews** for registered [Federation 2](https://www.apollographql.com/docs/federation/v2/) graphs in Apollo Studio Explorer. | ![image](https://user-images.githubusercontent.com/86634858/153515255-cc7276a8-3114-499d-9bae-740c6ed2ca7a.png) | 
 
 ## 2022-02-01
