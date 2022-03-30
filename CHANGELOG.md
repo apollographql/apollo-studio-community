@@ -1,3 +1,8 @@
+## 2022-03-30
+| What's new | |
+| :--------- | :-: |
+| Explorer now has an option to “select all” fields for a given type. Recursively select all fields, or just add the scalar fields for a given type to your query. Find it next to `Fields` under the docs tab in Explorer. We hope this will saves y'all time next time you visit. | ![image](https://user-images.githubusercontent.com/86634858/160898153-d5cf13d2-70dd-4be5-9090-5adc1c743da2.png)| 
+
 ## 2022-03-24
 [![Save and share Explorer operations with Operation Collections](https://user-images.githubusercontent.com/743976/159976790-a1e7f7f3-e9d4-4393-92bc-9856ad94da86.png)](https://www.apollographql.com/blog/announcement/platform/save-and-share-your-graphql-operations-in-apollo-explorer/?utm_campaign=2022-03-22_save-and-share-graphql-operations-blog&utm_medium=studio&utm_source=changelog)
 
