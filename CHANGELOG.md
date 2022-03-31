@@ -1,6 +1,11 @@
 ## 2022-03-30
 | What's new | |
 | :--------- | :-: |
+| [README](https://www.apollographql.com/blog/announcement/platform/create-a-readme-to-onboard-developers-to-the-graph/) for your graph/variants on Apollo Studio now has a table of contents that is generated based on headings in the README. | <img width="575" alt="image" src="https://user-images.githubusercontent.com/86634858/161134583-76928fb1-3c3d-443a-82ce-c9ca177a0518.png">| 
+
+## 2022-03-30
+| What's new | |
+| :--------- | :-: |
 | Explorer now has an option to “select all” fields for a given type. Recursively select all fields, or just add the scalar fields for a given type to your query. Find it next to `Fields` under the docs tab in Explorer. We hope this will saves y'all time next time you visit. | ![image](https://user-images.githubusercontent.com/86634858/160898153-d5cf13d2-70dd-4be5-9090-5adc1c743da2.png)| 
 
 ## 2022-03-24
