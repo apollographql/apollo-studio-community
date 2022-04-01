@@ -7,7 +7,7 @@
 ## 2022-03-31
 | What's new | |
 | :--------- | :-: |
-| [README](https://www.apollographql.com/blog/announcement/platform/create-a-readme-to-onboard-developers-to-the-graph/) for your graph/variants on Apollo Studio now has a table of contents that is generated based on headings in the README and makes the README easier to navigate. | <img width="575" alt="image" src="https://user-images.githubusercontent.com/86634858/161134583-76928fb1-3c3d-443a-82ce-c9ca177a0518.png">| 
+| [README](https://www.apollographql.com/blog/announcement/platform/create-a-readme-to-onboard-developers-to-the-graph/) for your graph/variants on Apollo Studio now has a table of contents that is generated based on headings in the README and makes the README easier to navigate. | ![image](https://user-images.githubusercontent.com/86634858/161134583-76928fb1-3c3d-443a-82ce-c9ca177a0518.png)| 
 
 ## 2022-03-30
 | What's new | |
