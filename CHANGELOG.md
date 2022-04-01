@@ -1,3 +1,9 @@
+## 2022-04-01
+| What's new | |
+| :--------- | :-: |
+| Explorer's [Preflight Scripts](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#preflight-scripts) can now open dialogs with markdown content using [`explorer.prompt`](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#explorerprompt)! |![image](https://user-images.githubusercontent.com/743976/159772224-66b57c8e-4675-4a35-8b3d-c586a7626081.png)
+
+
 ## 2022-03-31
 | What's new | |
 | :--------- | :-: |
