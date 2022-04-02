@@ -2,21 +2,7 @@
   {
     "graphId": "github",
     "graphVariant": "current",
-    "defaultQuery": "query User {\n  viewer {\n    login\n  }\n}\n",
-    "header": {
-      "headerName": "Authorization",
-      "headerDescription": "To authenticate requests, please generate a **new personal auth token** from https://github.com/settings/tokens with the following scopes:\n\n```\nrepo\n  repo:status\n  repo_deployment\n  public_repo\nadmin:org\n  read:org\nuser[all]\n```",
-      "headerTemplate": "Bearer TOKEN"
-    }
-  },
-  {
-    "graphId": "braintree",
-    "graphVariant": "current",
-    "header": {
-      "headerName": "Authorization",
-      "headerDescription": "To use the API, you MUST have a [registered Braintree account](https://www.braintreepayments.com/sandbox) and include your credentials in the **Authorization** header. Many projects use the option of authenticating with API keys. After you [generate an API Key](https://articles.braintreepayments.com/control-panel/important-gateway-credentials#api-keys), you MUST Base64-encode it for GraphQL requests.\n\nIf your public key is **v4ndq314c2s5c28r** and your private key is **93b78bc88be90d93ac282e50ae569fdd**, you can generate your Base64-encoded token like this:\n\n```\necho -n \"v4ndq314c2s5c28r:93b78bc88be90d93ac282e50ae569fdd\" | base64\n```\n\nPlease paste your Base64-encoded token in the box:",
-      "headerTemplate": "Basic TOKEN"
-    }
+    "defaultQuery": "query User {\n  viewer {\n    login\n  }\n}\n"
   },
   {
     "graphId": "SpaceX-pxxbxen",
@@ -46,12 +32,7 @@
   {
     "graphId": "covid-gql",
     "graphVariant": "current",
-    "defaultQuery": "query ExampleQuery {\n  us_only {\n    combined_name\n    confirmed\n    country\n    population\n    state\n    deaths\n    county\n    date\n    fips\n  }\n}",
-    "header": {
-      "headerName": "Authorization",
-      "headerDescription": "You can retrieve an access token to use this API by running the following command:\n\n```\ncurl -X POST 'https://realm.mongodb.com/api/client/v2.0/app/covid-19-qppza/auth/providers/anon-user/login'\n```\n\nPlease paste the `access_token` portion of that output into the box.",
-      "headerTemplate": "Bearer TOKEN"
-    }
+    "defaultQuery": "query ExampleQuery {\n  us_only {\n    combined_name\n    confirmed\n    country\n    population\n    state\n    deaths\n    county\n    date\n    fips\n  }\n}"
   },
   {
     "graphId": "countries",
