@@ -1,3 +1,7 @@
+---
+### 🎉 Update! [First phase](https://www.apollographql.com/docs/studio/org/graphs/#public-variants) of this proposal is available now!
+---
+
 ## ⚠️ BEFORE YOU START: IMPORTANT DISCLAIMER
 
 >The documentation here is all speculative, future looking and subject to change. It should not be taken as any sort of product commitment and only being shared to gather early feedback on what is on our minds. 
