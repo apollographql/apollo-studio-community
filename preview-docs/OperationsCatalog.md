@@ -1,3 +1,7 @@
+---
+### 🎉 Update! We recently released [Operation Collections](https://www.apollographql.com/blog/announcement/platform/save-and-share-your-graphql-operations-in-apollo-explorer/) in Apollo Explorer that solve the first two use cases mentioned below.
+---
+
 # Operations Catalog
 
 ## ⚠️ BEFORE YOU START: IMPORTANT DISCLAIMER
@@ -18,7 +22,7 @@ Following are some of the use cases that we are considering for solutioning oper
 2. **Share with other members of the team:** Developers can share the collection/s of operations with other members of the team that have at least read access to the graph. For public graphs, sharing can be possible outside of the members of the Studio Org. Sharing of collections is made possible by:
     1. Share the collection directly with other members of the org that have access to Studio: The shared collection will be visible in the operations catalog of each member that it is shared with. Any graph or org admin can edit the collection to make changes to the collection or any of the operation. 
     2. Share the collection with a link: A unique link for that collection will be generated that can be distributed for sharing. Anyone who has access to the link will be able to view the collections. For public graphs, link sharing can be used for sharing a collection outside of the Studio org. Link sharing only gives view-only access to the collections and opens in Apollo Sandbox. The link is always up to date with the changes made to the collection.
-    3. Share the collection with a run in Explorer button: Using an explorer button, operations collections can be embedded for use in documentation. Using this button, a developer can either import the collection and use it in their own IDE or they can open the collection in Apollo Sandbox to execute. The run button for collection is always up to date with the changes made to the collection.
+    3. Share the collection in variant README: Using graph shortcodes, operation collections or saved operations can be embedded for use in variant README. The collections and saved operations are always kept up to date with any changes made.  
 3. **Reference and download:** A GraphQL document that represents the collection can also be easily exported for distribution. A particular operation or collection of operations can also be used in markdown for inline rendering. 
 4. **Production data access:** Certain operations or collections can be marked as “secure”, meaning that they are good for pulling production data, allowing non-technical users who want to query graph data easy access to parameterize those operations. A specific list of users or a user with a secret token can query data using secure operations/collections.
 5. **Schema checks:** An operation or a collection of operations can be used as part of an integration test suite or to ensure that a given schema state is OK to deploy by automatically validating whether the given schema state can fulfill that collection of operations.
