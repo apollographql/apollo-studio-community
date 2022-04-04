@@ -1,5 +1,5 @@
 ---
-### 🎉 Update! We recently released [Operation Collections](https://www.apollographql.com/blog/announcement/platform/save-and-share-your-graphql-operations-in-apollo-explorer/) in Apollo Explorer that solve the first two use cases mentioned below.
+### 🎉 Update! We have released [Operation Collections](https://www.apollographql.com/blog/announcement/platform/save-and-share-your-graphql-operations-in-apollo-explorer/) in Apollo Explorer that solve the first two use cases mentioned below.
 ---
 
 # Operations Catalog
