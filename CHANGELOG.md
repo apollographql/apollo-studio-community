@@ -1,7 +1,7 @@
 ## 2022-04-07
 | What's new | |
 | :--------- | :-: |
-| Directly save a copy of an operation to a collection from Operations View in Studio. | ![image](https://user-images.githubusercontent.com/86634858/162352393-0147e9cd-4a49-491e-9bb7-43f001cd6446.png)
+| Directly save a copy of an operation to a collection from Operations View in Studio. | ![image](https://user-images.githubusercontent.com/86634858/162484861-810824de-41a8-488c-b09a-b5508939dbec.png)
 
 
 ## 2022-04-01
