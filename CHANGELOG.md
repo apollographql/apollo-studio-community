@@ -1,3 +1,9 @@
+## 2022-04-08
+| What's new | |
+| :--------- | :-: |
+| Access collections from other variants on your current graph using the select at the top of the collections panel. | ![image](https://user-images.githubusercontent.com/6856868/162516154-82834b65-1447-4109-900b-0def573d1f7b.png)
+
+
 ## 2022-04-07
 | What's new | |
 | :--------- | :-: |
