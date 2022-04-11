@@ -1,7 +1,7 @@
 ## 2022-04-11
 | What's new | |
 | :--------- | :-: |
-| Federation 2 in now in General Availability! | ![image](https://user-images.githubusercontent.com/6365997/162807130-d9f561e7-1df4-4b11-971a-97d329d085e9.png) |
+| Federation 2 is now in General Availability! | ![image](https://user-images.githubusercontent.com/6365997/162807130-d9f561e7-1df4-4b11-971a-97d329d085e9.png) |
 | We've updated the new graph on-boarding experience to have a fresh new look, and now federation 2 is the default on-boarding experience. There is no impact to existing graphs with this update. | ![image](https://user-images.githubusercontent.com/6365997/162784055-ec577ae6-18ff-4719-b1e1-3602362198e2.png) |
 | You are now prompted to select a default build pipeline track for your graph during on-boarding. All new variants will use this track by default. Individual variants can still override the graph-level default in the variant settings page. | ![image](https://user-images.githubusercontent.com/6365997/162784409-f42b48b9-a521-4f9f-a2e8-07e3380a723d.png) |
 
