@@ -1,3 +1,12 @@
+## 2022-05-09
+![image](https://user-images.githubusercontent.com/10705986/167469204-6f17e9d0-dec5-4690-90c8-46fe19a4a357.png)
+
+| What's new | |
+| :--------- | :-: |
+| Since the release of public preview we have been working hard to improve the overall quality of life for Contracts. With GA you’ll find some fresh and nifty tools like the filter preview that allows you to view the “before” and “after” contract schema when you apply your filter configurations, support for tagging **additional schema elements** with Federation 2, the ability to view downstream contract launches via the Launches page, and many bug fixes! | ![image](https://user-images.githubusercontent.com/10705986/167470093-bdcc56e9-1fdb-4a5c-9c5f-012f483e015a.png) |
+| Generate a filter preview so you can easily visualize the result of your filter configuration and tags to product your contract schema! | ![image](https://user-images.githubusercontent.com/10705986/167469691-4e1aa0e8-cb77-401c-95b5-6e77a44d482b.png) |
+| Reason about contract launches triggered from your base variant via the Launches page! | ![image](https://user-images.githubusercontent.com/10705986/167470344-69181d26-7e5a-4114-a9d7-becee2dec4f6.png) 
+
 ## 2022-04-11
 | What's new | |
 | :--------- | :-: |
