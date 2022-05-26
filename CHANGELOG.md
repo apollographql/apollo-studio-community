@@ -1,3 +1,9 @@
+
+## 2022-05-26
+| What's new | 
+| :--------- | 
+| Contract build status webhooks now supported. For details, see [docs](https://www.apollographql.com/docs/studio/build-status-notification/).
+
 ## 2022-05-09
 ![image](https://user-images.githubusercontent.com/10705986/167469204-6f17e9d0-dec5-4690-90c8-46fe19a4a357.png)
 
