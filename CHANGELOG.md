@@ -1,3 +1,7 @@
+## 2022-06-08
+| What's new | |
+| :--------- | :-: | 
+| Schema checks now provides warning messages when the operation cardinality has exceeded the tier limits rather than just silently ignore them. For details, see [docs](https://www.apollographql.com/docs/studio/schema-checks). | ![list of checks](https://user-images.githubusercontent.com/639025/171964823-fb2762b3-b793-40df-bce3-369367bd4626.png) |
 
 ## 2022-05-26
 | What's new | 
