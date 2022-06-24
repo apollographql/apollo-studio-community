@@ -2,6 +2,7 @@
 | What's new | |
 | :--------- | :-: |
 | The Organization Memberships table now shows badges for members who have achieved Associate or Professional certifications through Apollo Odyssey! To learn how to get your team certified, visit [Apollo Odyssey](https://www.apollographql.com/tutorials/#certifications). | ![image](https://user-images.githubusercontent.com/24704789/175658830-f3adca0a-87de-4ea5-a70c-65888ea91bca.png) |
+| You can now edit the default build configuration for your graph in the Settings page under the "This Graph" tab. New variants will use this track by default. On the other hand, existing variants will not be affected by updates to the default configuration. | ![image](https://user-images.githubusercontent.com/9286598/175666032-6fa67014-4372-4a8c-823e-70fddde46f08.png) 
 
 ## 2022-05-26
 | What's new | 
