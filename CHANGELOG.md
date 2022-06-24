@@ -1,3 +1,7 @@
+## 2022-06-24
+| What's new | |
+| :--------- | :-: |
+| The Organization Memberships table now shows badges for members who have achieved Associate or Professional certifications through Apollo Odyssey! To learn how to get your team certified, visit [Apollo Odyssey](https://www.apollographql.com/tutorials/#certifications). | ![image](https://user-images.githubusercontent.com/24704789/175658830-f3adca0a-87de-4ea5-a70c-65888ea91bca.png) |
 
 ## 2022-05-26
 | What's new | 
