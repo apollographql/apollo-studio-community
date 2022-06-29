@@ -1,9 +1,7 @@
 ## 2022-06-27
-| What's new | |
-| :--------- | :-: |
-| On Recent checks page, Branch and Variant column are swapped and Variant being renamed as 'Workflow'. Re-arranged check filters and added branch icon. | ![image](https://user-images.githubusercontent.com/90986401/176038344-bc91265c-608e-43c4-98e2-3d1d6587d3ff.png)
-
-
+| What's new | Before | After |
+| :--------- | :-: | :-: | 
+| On Recent checks page, Branch and Variant column are swapped and Variant being renamed as 'Workflow'. Re-arranged check filters and added branch icon. | ![image](https://user-images.githubusercontent.com/90986401/174187902-b41ade73-48d8-42ea-9fcd-120922dcdc2f.png) | ![image](https://user-images.githubusercontent.com/90986401/176038344-bc91265c-608e-43c4-98e2-3d1d6587d3ff.png)
 
 ## 2022-06-24
 | What's new | |
