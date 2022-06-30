@@ -1,3 +1,9 @@
+
+## 2022-06-27
+| What's new | |
+| :--------- | :-: |
+| We have made some changes to the Recent Checks Page UI.</br> 1. In the first column, instead of referring to the branch, the UI now displays the variant name.</br> 2. Branch now has its own column.  | <img width="560" src="https://user-images.githubusercontent.com/86634858/176597150-afb10a4b-70e2-42f1-80aa-4dd85ed951db.png">
+
 ## 2022-06-24
 | What's new | |
 | :--------- | :-: |
