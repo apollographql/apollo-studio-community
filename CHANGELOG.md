@@ -1,3 +1,9 @@
+## 2022-07-12
+| What's new | |
+| :--------- | :-: |
+| You can now configure whether to pass `@tag` directives defined in your subgraphs through to consumers in Schema Reference and Explorer. These tags can help your API's consumers better understand your schema. To enable tags to pass through, update the build configuration for your variant. | ![image](https://user-images.githubusercontent.com/2107126/178511185-fba66590-6129-4dd3-a7a7-e09242204cc3.png)
+
+
 ## 2022-06-27
 | What's new | |
 | :--------- | :-: |
