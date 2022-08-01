@@ -1,9 +1,9 @@
 ## 2022-07-28 Schema Reference Filtering 🥳
 | What's new | |
 | :--------- | :-: |
-| You can now filter Schema Reference on subgraphs, directives, tags, arguments and return types - AND across multiple filter types, OR within a single filter type. | <img width="1203" alt="image" src="https://user-images.githubusercontent.com/86634858/182259987-5e816d88-f31b-4d5a-83fd-172a5bf69718.png">|
-| When typing a word, see hints for existing filters. | <img width="670" alt="image" src="https://user-images.githubusercontent.com/86634858/182258535-de22aae4-861c-460e-979e-029f760a5698.png">|
-| Type a word and see the schema filtered with the text highlighted. If the word is prefixed or suffixed with a `.` then schema is only filtered for type or field respectively. | <img width="540" alt="image" src="https://user-images.githubusercontent.com/86634858/182259081-0ae96b60-ac10-4a06-9ba7-478c8a54f248.png">|
+| You can now filter Schema Reference on subgraphs, directives, tags, arguments and return types - AND across multiple filter types, OR within a single filter type. | ![image](https://user-images.githubusercontent.com/86634858/182259987-5e816d88-f31b-4d5a-83fd-172a5bf69718.png) |
+| When typing a word, see hints for existing filters. | ![image](https://user-images.githubusercontent.com/86634858/182258535-de22aae4-861c-460e-979e-029f760a5698.png) |
+| Type a word and see the schema filtered with the text highlighted. If the word is prefixed or suffixed with a `.` then schema is only filtered for type or field respectively. | ![image](https://user-images.githubusercontent.com/86634858/182259081-0ae96b60-ac10-4a06-9ba7-478c8a54f248.png) |
 | Easily share the filter query with your teammates | ![image](https://user-images.githubusercontent.com/86634858/182259174-3c7386f1-d859-4cd6-9451-75a95001c8c2.png)
 
 
