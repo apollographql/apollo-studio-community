@@ -1,3 +1,9 @@
+## 2022-08-01 
+| What's new | |
+| :--------- | :-: |
+| We have made some improvements to the Trace View for operations.  We now show an accurate gap in the timing between when the gateway / router sends a request and when the subgraph starts processing it. We also show a warning and adjust the timings if the subgraph reported times are out of range of the gateway reported times, which can happen if the subgraph is using a different clock.  As an added aesthetic improvement, subgraphs are now displayed with an icon in the trace instead of using the `subgraph:` prefix. | ![Screen Shot 2022-08-02 at 2 43 29 pm](https://user-images.githubusercontent.com/1110099/182294213-0f7ecc02-5d4b-47f3-8dd3-1b30091dfe47.png)
+
+
 ## 2022-07-28 Schema Reference Filtering 🥳
 | What's new | |
 | :--------- | :-: |
