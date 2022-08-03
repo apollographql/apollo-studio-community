@@ -1,10 +1,3 @@
-## 2022-08-01 
-| What's new | |
-| :--------- | :-: |
-| We have made some changes to the Execution chart in the Operations Trace page. We now show subgraphs as an icon in the trace instead of using the `subgraph:` prefix, and there is an accurate gap in the timing between when the gateway sends a request and when the subgraph starts processing it. We also show a warning and adjust the timings if the subgraph reported times are out of range of the gateway reported times, which can happen if the subgraph is using a different clock | ![Screen Shot 2022-08-02 at 2 43 29 pm](https://user-images.githubusercontent.com/1110099/182294213-0f7ecc02-5d4b-47f3-8dd3-1b30091dfe47.png)
-
-
-
 ## 2022-07-28 Schema Reference Filtering 🥳
 | What's new | |
 | :--------- | :-: |
