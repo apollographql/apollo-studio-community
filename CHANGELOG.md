@@ -1,6 +1,12 @@
 ## 2022-08-01 
 | What's new | |
 | :--------- | :-: |
+| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | <img width="1330" alt="image" src="https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png">
+
+
+## 2022-08-01 
+| What's new | |
+| :--------- | :-: |
 | We have made some improvements to the Trace View for operations.  We now show an accurate gap in the timing between when the gateway / router sends a request and when the subgraph starts processing it. We also show a warning and adjust the timings if the subgraph reported times are out of range of the gateway reported times, which can happen if the subgraph is using a different clock.  As an added aesthetic improvement, subgraphs are now displayed with an icon in the trace instead of using the `subgraph:` prefix. | ![Screen Shot 2022-08-02 at 2 43 29 pm](https://user-images.githubusercontent.com/1110099/182294213-0f7ecc02-5d4b-47f3-8dd3-1b30091dfe47.png)
 
 
