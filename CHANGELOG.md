@@ -1,7 +1,7 @@
 ## 2022-08-01 
 | What's new | |
 | :--------- | :-: |
-| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | <img width="1330" alt="image" src="https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png">
+| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | ![Screen Shot of the Field Landing Page Feature](https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png)
 
 
 ## 2022-08-01 
