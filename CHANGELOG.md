@@ -1,7 +1,7 @@
 ## 2022-08-26 
 | What's new | |
 | :--------- | :-: |
-| Now in Sandbox, if you turn off auto-polling of schema, you can refetch the schema manually! |![Screen Recording 2022-08-26 at 03 35 12 PM](https://user-images.githubusercontent.com/86634858/186986894-1c98e204-0064-4fa4-8b08-12cfbd130ab1.gif)
+| Now in Sandbox, you can now refetch the schema manually when auto-polling is disabled! |![Screen Recording 2022-08-26 at 03 35 12 PM](https://user-images.githubusercontent.com/86634858/186986894-1c98e204-0064-4fa4-8b08-12cfbd130ab1.gif)
 
 
 ## 2022-08-01 
