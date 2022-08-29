@@ -33,8 +33,6 @@ Studio is your interface to browse the state of your graph, query your data, and
 
 ## Pricing
 
-Studio's developer tools and schema registry are free to use and always will be. You can use the Schema Reference and Apollo Explorer without worrying about cost, and can invite unlimited members of your organization to use these tools for free as well.
+You can use most of the Studio tools, including Apollo Explorer, schema reference, and CI checks for free. You can also invite unlimited "read-only" users of your registry info to use these tools for free as well.
 
-Most of Studio's observability tools, including Schema Checks, are available on the [Studio Team](https://www.apollographql.com/pricing/) plan.
-
-Single Sign-On, advanced user roles, advanced federation tools, and more are available on our [Studio Enterprise](https://www.apollographql.com/pricing/) plan. Please [get in touch with us](https://www.apollographql.com/contact-sales) if you are interested in that.
+For more information about our commercial offerings and the total set of free features please see [the Apollo pricing page](https://www.apollographql.com/pricing/)
