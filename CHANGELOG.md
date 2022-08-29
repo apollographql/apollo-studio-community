@@ -1,3 +1,9 @@
+## 2022-08-29
+| What's new | |
+| :--------- | :-: |
+| In Explorer, you can now bulk edit headers. |![Screen Recording 2022-08-29 at 11 19 29 AM](https://user-images.githubusercontent.com/86634858/187247967-e67a99ff-63b9-48dc-bdc0-b79a4baec9ba.gif)
+
+
 ## 2022-08-26 
 | What's new | |
 | :--------- | :-: |
