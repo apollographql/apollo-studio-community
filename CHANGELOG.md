@@ -1,3 +1,12 @@
+## 2022-09-08 Contract Checks! 
+| What's new | |
+| :--------- | :-: |
+| We have introduced checks for contracts! Each contract check run includes a build task and an operation task. This latest release will ensure that no contract (downstream) variants are affected by changes made to the source variant’s subgraphs or by changes made to the contract filtering configuration.|
+![Screen Recording 2022-09-08 at 10 06 07 AM](https://user-images.githubusercontent.com/86634858/189263752-ad384dad-cb1e-49cf-bbe1-135f5fd31415.gif) | 
+![Screen Recording 2022-09-08 at 10 33 10 AM](https://user-images.githubusercontent.com/86634858/189263986-e28af704-fd62-4d94-b855-4979cada76ca.gif)
+
+ 
+
 ## 2022-08-29
 | What's new | |
 | :--------- | :-: |
@@ -13,7 +22,8 @@
 ## 2022-08-01 
 | What's new | |
 | :--------- | :-: |
-| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | ![Screen Shot of the Field Landing Page Feature](https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png)
+| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | 
+![Screen Shot of the Field Landing Page Feature](https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png) 
 
 
 ## 2022-08-01 
