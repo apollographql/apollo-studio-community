@@ -1,7 +1,7 @@
 ## 2022-09-08 Contract Checks! 
 | What's new | |
 | :--------- | :-: |
-| We have introduced checks for contracts! Each contract run task includes a build check and an operation check. This latest release will ensure that no contract (downstream) variants are affected by changes made to the source variant’s subgraphs or by changes made to the contract filtering configuration.|
+| We have introduced checks for contracts! Each contract check run includes a build task and an operation task. This latest release will ensure that no contract (downstream) variants are affected by changes made to the source variant’s subgraphs or by changes made to the contract filtering configuration.|
 ![Screen Recording 2022-09-08 at 10 06 07 AM](https://user-images.githubusercontent.com/86634858/189263752-ad384dad-cb1e-49cf-bbe1-135f5fd31415.gif) | 
 ![Screen Recording 2022-09-08 at 10 33 10 AM](https://user-images.githubusercontent.com/86634858/189263986-e28af704-fd62-4d94-b855-4979cada76ca.gif)
 
