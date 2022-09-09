@@ -1,3 +1,8 @@
+## 2022-09-09
+| What's new | |
+| :--------- | :-: |
+| When filtering schema, you can now AND within the same filter type with **syntax separated by space**. For the same filter type, if you use commma and space separators, both, then you can filter by a combination of AND / OR. ℹ️ Please note that this enhancement only works when you enter the filter query manually and not through the filter dropdown.| ![image](https://user-images.githubusercontent.com/86634858/189383897-b17c3755-2663-484f-a7cd-90b68e02ef06.png) ![image](https://user-images.githubusercontent.com/86634858/189384333-f9ab6ba9-2d14-42c7-b72c-5993a56287cc.png)
+
 ## 2022-09-08 Contract Checks! 
 | What's new | |
 | :--------- | :-: |
