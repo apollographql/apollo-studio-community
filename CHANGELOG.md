@@ -1,3 +1,11 @@
+## 2022-10-05 ✨ [Cloud supergraphs](https://www.apollographql.com/docs/studio/getting-started) with Studio are now available! ✨
+| What's new | |
+| :--------- | :-: |
+This release includes a new usage based pricing model. Sign up today or convert your free account to the new [Serverless](https://www.apollographql.com/pricing) plan. |![image](https://user-images.githubusercontent.com/86634858/194015428-6248e998-8b90-4ef5-9c91-0352917359ca.png)
+A completely new Studio onboarding experience for quickly creating a supergraph.| ![image](https://user-images.githubusercontent.com/86634858/194016149-9e17d747-5bc3-43ac-8d08-d31c9f963f5c.png)
+[Apollo-managed routers](https://www.apollographql.com/docs/studio/cloud-routing/overview) in the cloud that spin up in seconds and give a production-ready supergraph endpoint in no time!| ![image](https://user-images.githubusercontent.com/86634858/194016448-d3ef956d-09e5-4279-a506-e488e47c261b.png)
+
+
 ## 2022-09-09
 | What's new | |
 | :--------- | :-: |
