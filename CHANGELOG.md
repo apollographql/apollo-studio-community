@@ -1,6 +1,6 @@
 ## 2022-10-05 Announcing the Apollo GraphOS public platform API
-| What's new | |
-| :--------- | :-: |
+| What's new | 
+| :--------- |
 As of today, [you can now use our new public API](https://www.apollographql.com/blog/tooling/devtools/integrate-with-graphos-using-the-new-platform-api/) to integrate with the Apollo GraphOS platform. We built this API to enable those using GraphOS to easily automate operations in their own systems and CI workflows. See the [API’s readme](https://studio.apollographql.com/public/apollo-platform/home?variant=main) to get started, and check out the operation collections in Explorer to see example GraphQL queries and mutations you can use for your own graphs. 
 
 
