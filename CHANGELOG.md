@@ -1,3 +1,8 @@
+## 2022-10-21 Offline Sandbox now only accessible in embedded contexts
+| What's new | 
+| :--------- |
+| In order to provide more timely updates to Studio users, offline support for Sandbox will only be accessible from embedded contexts, and studio.apollographql.com/sandbox will no longer remain accessible while not connected to internet. [Apollo Server 4](https://www.npmjs.com/package/@apollo/server) renders an embedded Sandbox by default. Apollo Server 3 users can opt-in to embedding Sandbox in its landing page by [setting the landing page plugin's config to `embed: true`](https://www.apollographql.com/blog/tooling/graphql-ide/how-to-use-apollo-sandbox-on-your-localhost/#embed-sandbox-by-default-for-apollo-server). Sandbox can also be embedded on any page via the [`@apollo/sandbox` package](https://github.com/apollographql/embeddable-explorer/tree/main/packages/sandbox).
+
 ## 2022-10-05 Announcing the Apollo GraphOS public platform API
 | What's new | 
 | :--------- |
