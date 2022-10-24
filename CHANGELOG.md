@@ -1,3 +1,8 @@
+## 2022-10-25
+| What's new | 
+| :--------- |
+| Enhancements to the Schema Checks algorithm now detect breaking changes in more cases, such as when accessing enum values, interface fields, and union fields via a list.  Additionally, checks will fail in more cases when NO operations are recorded in Studio to be checked against, as per the [documentation on schema checks](https://www.apollographql.com/docs/graphos/schema-checks/#the-check-response).
+
 ## 2022-10-21 Offline Sandbox now only accessible in embedded contexts
 | What's new | 
 | :--------- |
