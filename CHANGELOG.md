@@ -1,7 +1,7 @@
 ## 2022-10-25
 | What's new | 
 | :--------- |
-| 🚦 MORE BREAKING CHANGES IN CHECKS.  Schema checks now detect breaking changes in more cases, such as for enum values, interface fields, and union fields on a list. In addition, schema checks on operations will now fail if one or more subgraphs in the check do not have recorded operations in Studio. For Schema Checks to be able to properly assess the level of impact, observed traffic must exist to determine if a change is actually affecting any operations. [Learn more in the schema checks docs](https://www.apollographql.com/docs/graphos/schema-checks/#the-check-response).
+| 🚦 MORE BREAKING CHANGES IN CHECKS.  Schema checks now detect breaking changes in more cases, such as for enum values, interface fields, and union fields on a list. In addition, schema checks on operations will now fail if there are potentially breaking schema changes and there is no recorded operation traffic in Studio to check against. For Schema Checks to be able to properly assess the level of impact, observed traffic must exist to determine if a change is actually affecting any operations. [Learn more in the schema checks docs](https://www.apollographql.com/docs/graphos/schema-checks/#the-check-response).
 
 ## 2022-10-21 Offline Sandbox now only accessible in embedded contexts
 | What's new | 
