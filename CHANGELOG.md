@@ -1,3 +1,8 @@
+## 2022-11-17
+| What's new | 
+| :--------- |
+| We have improved the performance of the Fields page to better support graphs with a large number of fields (> 1000).
+
 ## 2022-11-15
 | What's new | 
 | :--------- |
