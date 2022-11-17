@@ -1,3 +1,8 @@
+## 2022-11-15
+| What's new | 
+| :--------- |
+| We have updated how Explorer handles large GraphQL responses. This update allows for faster rendering generally, and a better usability for responses over 20mb.
+
 ## 2022-10-25
 | What's new | 
 | :--------- |
