@@ -2,9 +2,7 @@
 | What's new | 
 | :--------- |
 | We have added the ability to rerun checks for contract variants.|
-![image](https://user-images.githubusercontent.com/22120469/204341794-c32f0242-b0d6-421c-93ff-8330137cf950.png)
 ![image](https://user-images.githubusercontent.com/22120469/204341805-2b514805-76d6-4fa4-a941-484f09e0144a.png)
-![image](https://user-images.githubusercontent.com/22120469/204341815-1891911d-84b3-4b2b-8571-1fe7658548fb.png)
 
 ## 2022-11-15
 | What's new | 
