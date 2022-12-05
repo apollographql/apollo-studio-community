@@ -1,7 +1,13 @@
-## 2022-11-17
+## 2022-12-05
 | What's new | 
 | :--------- |
 | We have improved the performance of the Fields page to better support graphs with a large number of fields (> 1000).
+
+## 2022-11-28 Contract Checks
+| What's new | 
+| :--------- |
+| We have added the ability to rerun checks for contract variants.|
+![image](https://user-images.githubusercontent.com/22120469/204341805-2b514805-76d6-4fa4-a941-484f09e0144a.png)
 
 ## 2022-11-15
 | What's new | 
