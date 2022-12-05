@@ -1,7 +1,7 @@
-## 2022-12-05
+## 2022-12-05 Fields Page Performance Enhancements
 | What's new | 
 | :--------- |
-| We have improved the performance of the Fields page to better support graphs with a large number of fields (> 1000).
+| We have improved the performance of the Fields page to better support graphs with a large number of fields (> 1000). Also, Fields page request timeouts experienced by large graphs (> 5000 fields) are now handled more gracefully and instead omit operation usage and field execution metrics from the page.
 
 ## 2022-11-28 Contract Checks
 | What's new | 
