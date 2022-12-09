@@ -1,3 +1,8 @@
+## 2022-12-05 Fields Page Performance Enhancements
+| What's new | 
+| :--------- |
+| We have improved the performance of the Fields page to better support graphs with a large number of fields. For the largest of graphs (> 5000 fields) we now omit usage metrics and encourage you to navigate to [individual field pages](https://www.apollographql.com/blog/backend/performance/field-level-insights-in-studio/) for field-level insights.
+
 ## 2022-11-28 Contract Checks
 | What's new | 
 | :--------- |
