@@ -1,3 +1,9 @@
+## 2022-12-12 Contract Query Plan Previews and Subgraphs
+| What's new | |
+| :--------- | :-: |
+| We have updated Explorer and the Operations page for contract variants to allow previewing query plans for operations. | ![image](https://user-images.githubusercontent.com/2695578/207184237-2fc27838-c4a1-4264-88d0-da7159718f5a.png) ![image](https://user-images.githubusercontent.com/2695578/207184251-f368b359-6385-4302-9cc3-87472497dc27.png)
+| We have updated the Schema page for contract variants to show subgraphs of schema elements and list the SDLs of subgraphs. Note that the Schema page does not hide subgraphs (or elements in their SDLs) if they are hidden in the API schema; they are exactly the same as shown on the source variant's Schema page. | ![image](https://user-images.githubusercontent.com/2695578/207182315-80dc46f9-7f4a-473e-9768-f211160cf119.png) ![image](https://user-images.githubusercontent.com/2695578/207180675-a3a0b25c-0fe6-418d-ab4f-3d039769d009.png)
+
 ## 2022-12-05 Fields Page Performance Enhancements
 | What's new | 
 | :--------- |
