@@ -1,4 +1,4 @@
-## 2022-12-13 Contract Query Plan Previews and Subgraphs
+## 2022-12-13 New filter on Schema Reference to only show entities
 | What's new | |
 | :--------- | :-: |
 | We have added a new filter on the reference page to show only [Entities](https://www.apollographql.com/docs/federation/entities/) | ![image](https://user-images.githubusercontent.com/3953093/207403320-17031264-cd8d-4ebf-9d2a-1b564eb7038a.png)
