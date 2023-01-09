@@ -1,5 +1,5 @@
 ## 2023-01-09 We now flatten objects in an array if they are all simple values in the object!
-| What's new | This should make CSVs exported from Table Mode much more pleasant | 
+| What's new | **Table Mode** in Explorer will now collapse arrays of simple objects into individual columns in the table. This should make CSVs exported from Table Mode much more pleasant to work with. | 
 | :--------- | :-: |
 | Before | ![image](https://user-images.githubusercontent.com/3953093/209742555-a01f5e1d-f3a7-4f91-aa13-d6dc1c67887f.png) |
 | After | ![image](https://user-images.githubusercontent.com/3953093/209742580-99d73a06-e941-4127-b8f9-07af457269c1.png)
