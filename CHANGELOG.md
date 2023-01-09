@@ -1,3 +1,8 @@
+## 2023-01-09
+| What's new | |
+| :--------- | :-: |
+| Observers+ will now see the keys of an entity on the schema reference page   | ![image](https://user-images.githubusercontent.com/3953093/211340734-9c979f70-75e0-4bcd-8dc8-289b406c2e4c.png)
+
 ## 2023-01-09 We now flatten objects in an array if they are all simple values in the object!
 | What's new | **Table Mode** in Explorer will now collapse arrays of simple objects into individual columns in the table. This should make CSVs exported from Table Mode much more pleasant to work with. | 
 | :--------- | :-: |
