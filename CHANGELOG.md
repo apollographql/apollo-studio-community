@@ -14,3 +14,6 @@
 | :--------- | :-: |
 | We have added a new column called **Updates Available** to the **Graphs** card of the **Champion Dashboard**, which lets you see update notices for the GraphQL servers you're running at a glance.  | ![image](https://user-images.githubusercontent.com/5922187/210436128-ddc665c1-2ba3-4383-9ab6-21310bd04a46.png) |
 | When you click on an upgrade notice, you can see which version of Apollo Server or Apollo Router your graph is running. You can see what level of long-term support Apollo is providing for that server and wether there's a new version to upgrade to with a link to the changelog. | ![image](https://user-images.githubusercontent.com/5922187/210436038-4399cd5b-19fd-42ed-b644-40f03bc64dd2.png)
+
+---
+For entries before 2023 see the [changelog archives](https://github.com/apollographql/apollo-studio-community/tree/main/changelog-archives).
