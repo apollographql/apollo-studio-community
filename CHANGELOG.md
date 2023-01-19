@@ -1,7 +1,7 @@
 ## 2023-01-11
 | What's new | |
 | :--------- | :-: |
-| **Automatically hiding unreachable schema elements**, a contracts feature, is now available in Studio! Up until today, tagging schema elements was very inconvenient especially when there were schema elements like inputs and enums that were unreachable anyway. Now we provide an opttion to automatically hide those unreachable elements to create a more pleasant user experience, helping you build faster and more efficiently!   | ![image](https://user-images.githubusercontent.com/10705986/213568890-6b0543e1-6c88-45de-b480-52bf82c7ff5a.png)
+| **Automatically hiding unreachable schema elements**, a contracts feature, is now available in Studio! Up until today, tagging schema elements was very inconvenient especially when there were schema elements like inputs and enums that were unreachable anyway. Now we provide an option to automatically hide those unreachable elements to create a more pleasant user experience, helping you build faster and more efficiently!   | ![image](https://user-images.githubusercontent.com/10705986/213568890-6b0543e1-6c88-45de-b480-52bf82c7ff5a.png)
 
 ## 2023-01-09
 | What's new | |
