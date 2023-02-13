@@ -1,3 +1,10 @@
+
+## 2023-02-08
+| What's new | |
+| :--------- | :-: |
+| Based on popular request, Apollo Studio now supports [Operations Scripts](https://www.apollographql.com/docs/graphos/explorer/connecting-authenticating/#operation-scripts)! Operation scripts can be used for performing complex automations or for testing [sequence of operations](https://www.apollographql.com/docs/graphos/explorer/connecting-authenticating#chaining-operations). This feature comes with powerful IntelliSense capability that you can use to find the exact graphref, collection and operation to use in the script! |![image](https://user-images.githubusercontent.com/86634858/218589899-e97f7eb2-2fb9-450c-9b2a-48fa1d5073f0.png)
+
+
 ## 2023-01-11
 | What's new | |
 | :--------- | :-: |
