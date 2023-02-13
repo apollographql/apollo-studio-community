@@ -1,3 +1,14 @@
+## 2023-02-11
+| What's new | |
+| :--------- | :-: |
+| **Add a Variant right from Studio**, via the new 'Add Variant' button in your Graph Settings. If you are on an account that supports cloud graphs, you already had this feature, but we have opened it up to Classic graphs as well! | ![image]([https://user-images.githubusercontent.com/14367451/218590075-67ac6d64-b7ea-43b4-b7b7-dfbf3496d3f6.png](https://user-images.githubusercontent.com/14367451/218590439-469ddfb4-6ff4-47ed-9bd9-00d7247c37d3.png))
+
+## 2023-02-11
+| What's new | |
+| :--------- | :-: |
+| **Subgraphs Page for Classic Graphs**, a new page in Studio for accounts not supporting cloud graphs, is now available in Studio! Browse the subgraphs that make up your federated supergraph, and add or remove subgraphs right from Studio! | ![image](https://user-images.githubusercontent.com/14367451/218590075-67ac6d64-b7ea-43b4-b7b7-dfbf3496d3f6.png)
+
+
 ## 2023-01-11
 | What's new | |
 | :--------- | :-: |
