@@ -6,7 +6,7 @@
 ## 2023-02-11
 | What's new | |
 | :--------- | :-: |
-| **Subgraphs Page for supergraphs**, a new page in Studio, is now available in Studio! Browse the subgraphs that make up your supergraph, and add or remove subgraphs right from Studio! | ![image](https://user-images.githubusercontent.com/14367451/218590885-2fa01e5b-cce2-4440-a377-d18611847698.png)
+| **Subgraphs Page for supergraphs**, a new page in Studio, is now available in Studio! Browse the subgraphs that make up your supergraph, and add or remove subgraphs right from Studio. | ![image](https://user-images.githubusercontent.com/14367451/218590885-2fa01e5b-cce2-4440-a377-d18611847698.png)
 
 
 ## 2023-01-11
