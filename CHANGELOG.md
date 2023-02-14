@@ -1,7 +1,7 @@
 ## 2023-02-14
 | What's new | |
 | :--------- | :-: |
-| With the right permission, **easily distinguish which types are entities in Explorer with an `E` icon!**| ![image](https://user-images.githubusercontent.com/86634858/218832452-469b58cf-4806-4c7c-a326-1be10f125a9a.png)
+| **Easily distinguish which types are entities in Explorer with an `E` icon!**| ![image](https://user-images.githubusercontent.com/86634858/218832452-469b58cf-4806-4c7c-a326-1be10f125a9a.png)
 | **Extract or wrap with inline `@defer` fragment** in Explorer by right clicking on the operation. No need to learn any syntax, simply defer away! | ![image](https://user-images.githubusercontent.com/86634858/218832989-b82c034e-dab9-4a44-b2a6-f4a6c9a8e278.png)
 
 ## 2023-02-11
