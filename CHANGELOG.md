@@ -1,3 +1,8 @@
+## 2023-01-20
+| What's new | |
+| :--------- | :-: |
+| Apollo Studio now allows you to **disable operation checks** for a graph variant. Some users may find it useful to skip operation checks when working in a development variant. If you use this setting, please make sure you are using **Rover v0.12.0** or higher.    | ![image](https://user-images.githubusercontent.com/9286598/219827562-a5eb5d55-7260-4112-a361-3564a1d10844.png)
+
 ## 2023-02-11
 | What's new | |
 | :--------- | :-: |
