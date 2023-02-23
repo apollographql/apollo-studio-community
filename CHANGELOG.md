@@ -1,3 +1,10 @@
+## 2023-02-23
+=======
+| What's new | |
+| :--------- | :-: |
+| **Easily distinguish which types are entities in Explorer with an `E` icon!**| ![image](https://user-images.githubusercontent.com/86634858/221050891-627be4aa-6d4a-4087-8d0c-ec897a8627db.png)
+| **Extract or wrap with inline `@defer` fragment** in Explorer by right clicking on the operation. No need to learn any syntax, simply defer away! | ![image](https://user-images.githubusercontent.com/86634858/218832989-b82c034e-dab9-4a44-b2a6-f4a6c9a8e278.png)
+
 ## 2023-02-20
 | What's new | |
 | :--------- | :-: |
@@ -7,10 +14,6 @@
 | What's new | |
 | :--------- | :-: |
 | **Add a Variant right from Studio**, via the new 'Add Variant' button in your Graph Settings. | ![image](https://user-images.githubusercontent.com/14367451/218590889-d8aaa9d8-f11f-4c54-8b2d-18c880798e8a.png)
-
-## 2023-02-11
-| What's new | |
-| :--------- | :-: |
 | **Subgraphs Page for supergraphs**, a new page in Studio, is now available in Studio! Browse the subgraphs that make up your supergraph, and add or remove subgraphs right from Studio. | ![image](https://user-images.githubusercontent.com/14367451/218590885-2fa01e5b-cce2-4440-a377-d18611847698.png)
 
 ## 2023-02-08
