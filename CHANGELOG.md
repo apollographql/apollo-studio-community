@@ -1,8 +1,14 @@
 ## 2023-02-23
+=======
 | What's new | |
 | :--------- | :-: |
 | **Easily distinguish which types are entities in Explorer with an `E` icon!**| ![image](https://user-images.githubusercontent.com/86634858/221050891-627be4aa-6d4a-4087-8d0c-ec897a8627db.png)
 | **Extract or wrap with inline `@defer` fragment** in Explorer by right clicking on the operation. No need to learn any syntax, simply defer away! | ![image](https://user-images.githubusercontent.com/86634858/218832989-b82c034e-dab9-4a44-b2a6-f4a6c9a8e278.png)
+
+## 2023-02-20
+| What's new | |
+| :--------- | :-: |
+| Apollo Studio now allows you to **disable operation checks** for a graph variant. Some users may find it useful to skip operation checks when working in a development variant. If you use this setting, please make sure you are using **Rover v0.12.0** or higher.    | ![image](https://user-images.githubusercontent.com/9286598/219827562-a5eb5d55-7260-4112-a361-3564a1d10844.png)
 
 ## 2023-02-11
 | What's new | |
