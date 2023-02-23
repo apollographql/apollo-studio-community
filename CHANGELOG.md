@@ -1,5 +1,4 @@
 ## 2023-02-23
-=======
 | What's new | |
 | :--------- | :-: |
 | **Easily distinguish which types are entities in Explorer with an `E` icon!**| ![image](https://user-images.githubusercontent.com/86634858/221050891-627be4aa-6d4a-4087-8d0c-ec897a8627db.png)
