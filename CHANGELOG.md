@@ -1,3 +1,6 @@
+[comment]: <> (NOTE! Ensure all images are added via the \[label\]\(link\) syntax!)
+
+
 ## 2023-02-23
 | What's new | |
 | :--------- | :-: |
