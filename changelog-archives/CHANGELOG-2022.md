@@ -1,0 +1,213 @@
+## 2022-12-13 New filter on Schema Reference to only show entities
+| What's new | |
+| :--------- | :-: |
+| We have added a new filter on the reference page to show only [Entities](https://www.apollographql.com/docs/federation/entities/) | ![image](https://user-images.githubusercontent.com/3953093/207403320-17031264-cd8d-4ebf-9d2a-1b564eb7038a.png)
+
+
+## 2022-12-12 Contract Query Plan Previews and Subgraphs
+| What's new | |
+| :--------- | :-: |
+| We have updated Explorer and the Operations page for contract variants to allow previewing query plans for operations. | ![image](https://user-images.githubusercontent.com/2695578/207184237-2fc27838-c4a1-4264-88d0-da7159718f5a.png) ![image](https://user-images.githubusercontent.com/2695578/207184251-f368b359-6385-4302-9cc3-87472497dc27.png)
+| We have updated the Schema page for contract variants to show subgraphs of schema elements and list the SDLs of subgraphs. Note that the Schema page does not hide subgraphs (or elements in their SDLs) if they are hidden in the API schema; they are exactly the same as shown on the source variant's Schema page. If you wish to view only visible elements in the API schema, you can use the Reference tab on the Schema page, which links to the corresponding subgraph schema elements. | ![image](https://user-images.githubusercontent.com/2695578/207182315-80dc46f9-7f4a-473e-9768-f211160cf119.png) ![image](https://user-images.githubusercontent.com/2695578/207180675-a3a0b25c-0fe6-418d-ab4f-3d039769d009.png)
+
+## 2022-12-05 Fields Page Performance Enhancements
+| What's new | 
+| :--------- |
+| We have improved the performance of the Fields page to better support graphs with a large number of fields. For the largest of graphs (> 5000 fields) we now omit usage metrics and encourage you to navigate to [individual field pages](https://www.apollographql.com/blog/backend/performance/field-level-insights-in-studio/) for field-level insights.
+
+## 2022-11-28 Contract Checks
+| What's new | 
+| :--------- |
+| We have added the ability to rerun checks for contract variants.|
+![image](https://user-images.githubusercontent.com/22120469/204341805-2b514805-76d6-4fa4-a941-484f09e0144a.png)
+
+## 2022-11-15
+| What's new | 
+| :--------- |
+| We have updated how Explorer handles large GraphQL responses. This update allows for faster rendering generally, and a better usability for responses over 20mb.
+
+## 2022-10-25
+| What's new | 
+| :--------- |
+| 🚦 MORE BREAKING CHANGES IN CHECKS.  Schema checks now detect breaking changes in more cases, such as for enum values, interface fields, and union fields on a list. In addition, schema checks on operations will now fail if there are potentially breaking schema changes and there is no recorded operation traffic in Studio to check against. For Schema Checks to be able to properly assess the level of impact, observed traffic must exist to determine if a change is actually affecting any operations. [Learn more in the schema checks docs](https://www.apollographql.com/docs/graphos/schema-checks/#the-check-response).
+
+## 2022-10-21 Offline Sandbox now only accessible in embedded contexts
+| What's new | 
+| :--------- |
+| In order to provide more timely updates to Studio users, offline support for Sandbox will only be accessible from embedded contexts, and studio.apollographql.com/sandbox will no longer remain accessible while not connected to internet. [Apollo Server 4](https://www.npmjs.com/package/@apollo/server) renders an embedded Sandbox by default. Apollo Server 3 users can opt-in to embedding Sandbox in its landing page by [setting the landing page plugin's config to `embed: true`](https://www.apollographql.com/blog/tooling/graphql-ide/how-to-use-apollo-sandbox-on-your-localhost/#embed-sandbox-by-default-for-apollo-server). Sandbox can also be embedded on any page via the [`@apollo/sandbox` package](https://github.com/apollographql/embeddable-explorer/tree/main/packages/sandbox).
+
+## 2022-10-05 Announcing the Apollo GraphOS public platform API
+| What's new | 
+| :--------- |
+| As of today, [you can now use our new public API](https://www.apollographql.com/blog/tooling/devtools/integrate-with-graphos-using-the-new-platform-api/) to integrate with the Apollo GraphOS platform. We built this API to enable those using GraphOS to easily automate operations in their own systems and CI workflows. See the [API’s readme](https://studio.apollographql.com/public/apollo-platform/home?variant=main) to get started, and check out the operation collections in Explorer to see example GraphQL queries and mutations you can use for your own graphs. 
+
+
+## 2022-10-05 ✨ [Cloud supergraphs](https://www.apollographql.com/docs/studio/getting-started) with Studio are now available! ✨
+| What's new | |
+| :--------- | :-: |
+This release includes a new usage based pricing model. Sign up today or convert your free account to the new [Serverless](https://www.apollographql.com/pricing) plan. |![image](https://user-images.githubusercontent.com/86634858/194015428-6248e998-8b90-4ef5-9c91-0352917359ca.png)
+A completely new Studio onboarding experience for quickly creating a supergraph.| ![image](https://user-images.githubusercontent.com/86634858/194016149-9e17d747-5bc3-43ac-8d08-d31c9f963f5c.png)
+[Apollo-managed routers](https://www.apollographql.com/docs/studio/cloud-routing/overview) in the cloud that spin up in seconds and give a production-ready supergraph endpoint in no time!| ![image](https://user-images.githubusercontent.com/86634858/194016448-d3ef956d-09e5-4279-a506-e488e47c261b.png)
+
+
+## 2022-09-09
+| What's new | |
+| :--------- | :-: |
+| When filtering schema, you can now AND within the same filter type with **syntax separated by space**. For the same filter type, if you use commma and space separators, both, then you can filter by a combination of AND / OR. ℹ️ Please note that this enhancement only works when you enter the filter query manually and not through the filter dropdown.| ![image](https://user-images.githubusercontent.com/86634858/189383897-b17c3755-2663-484f-a7cd-90b68e02ef06.png) ![image](https://user-images.githubusercontent.com/86634858/189384333-f9ab6ba9-2d14-42c7-b72c-5993a56287cc.png)
+
+## 2022-09-08 Contract Checks! 
+| What's new | |
+| :--------- | :-: |
+| We have introduced checks for contracts! Each contract check run includes a build task and an operation task. This latest release will ensure that no contract (downstream) variants are affected by changes made to the source variant’s subgraphs or by changes made to the contract filtering configuration.|
+![Screen Recording 2022-09-08 at 10 06 07 AM](https://user-images.githubusercontent.com/86634858/189263752-ad384dad-cb1e-49cf-bbe1-135f5fd31415.gif) | 
+![Screen Recording 2022-09-08 at 10 33 10 AM](https://user-images.githubusercontent.com/86634858/189263986-e28af704-fd62-4d94-b855-4979cada76ca.gif)
+
+ 
+
+## 2022-08-29
+| What's new | |
+| :--------- | :-: |
+| In Explorer, you can now bulk edit headers. |![Screen Recording 2022-08-29 at 11 19 29 AM](https://user-images.githubusercontent.com/86634858/187247967-e67a99ff-63b9-48dc-bdc0-b79a4baec9ba.gif)
+
+
+## 2022-08-26 
+| What's new | |
+| :--------- | :-: |
+| Now in Sandbox, you can refetch the schema manually when auto-polling is disabled! |![Screen Recording 2022-08-26 at 03 35 12 PM](https://user-images.githubusercontent.com/86634858/186986894-1c98e204-0064-4fa4-8b08-12cfbd130ab1.gif)
+
+
+## 2022-08-01 
+| What's new | |
+| :--------- | :-: |
+| Announcing a new landing page for field insights! With this release, you can navigate from the Fields page or the schema browser to the field insights page, which provides a high-level overview of a field's usage, includng request count, latency, and error rate over time. Stay tuned for improvements and [share your feedback](https://forms.gle/P6pMJebLWrnyZMNaA) with us on the new experience! | 
+![Screen Shot of the Field Landing Page Feature](https://user-images.githubusercontent.com/6365997/185142459-b3d2e9e0-294f-49ed-adce-d9417fc54ef7.png) 
+
+
+## 2022-08-01 
+| What's new | |
+| :--------- | :-: |
+| We have made some improvements to the Trace View for operations.  We now show an accurate gap in the timing between when the gateway / router sends a request and when the subgraph starts processing it. We also show a warning and adjust the timings if the subgraph reported times are out of range of the gateway reported times, which can happen if the subgraph is using a different clock.  As an added aesthetic improvement, subgraphs are now displayed with an icon in the trace instead of using the `subgraph:` prefix. | ![Screen Shot 2022-08-02 at 2 43 29 pm](https://user-images.githubusercontent.com/1110099/182294213-0f7ecc02-5d4b-47f3-8dd3-1b30091dfe47.png)
+
+
+## 2022-07-28 Schema Reference Filtering 🥳
+| What's new | |
+| :--------- | :-: |
+| You can now filter Schema Reference on subgraphs, directives, tags, arguments and return types - AND across multiple filter types, OR within a single filter type. | ![image](https://user-images.githubusercontent.com/86634858/182259987-5e816d88-f31b-4d5a-83fd-172a5bf69718.png) |
+| When typing a word, see hints for existing filters. | ![image](https://user-images.githubusercontent.com/86634858/182258535-de22aae4-861c-460e-979e-029f760a5698.png) |
+| Type a word and see the schema filtered with the text highlighted. If the word is prefixed or suffixed with a `.` then schema is only filtered for type or field respectively. | ![image](https://user-images.githubusercontent.com/86634858/182259081-0ae96b60-ac10-4a06-9ba7-478c8a54f248.png) |
+| Easily share the filter query with your teammates | ![image](https://user-images.githubusercontent.com/86634858/182259174-3c7386f1-d859-4cd6-9451-75a95001c8c2.png)
+
+
+## 2022-07-12
+| What's new | |
+| :--------- | :-: |
+| You can now configure whether to pass `@tag` directives defined in your subgraphs through to consumers in Schema Reference and Explorer. These tags can help your API's consumers better understand your schema. To enable tags to pass through, update the build configuration for your variant. | ![image](https://user-images.githubusercontent.com/2107126/178511185-fba66590-6129-4dd3-a7a7-e09242204cc3.png)
+
+
+## 2022-06-27
+| What's new | |
+| :--------- | :-: |
+| We have made some changes to the Recent Checks Page UI. In the first column, instead of referring to the branch, the UI now displays the variant name. Also, branch now has its own column. | ![image](https://user-images.githubusercontent.com/86634858/176597150-afb10a4b-70e2-42f1-80aa-4dd85ed951db.png)
+
+
+## 2022-06-24
+| What's new | |
+| :--------- | :-: |
+| The Organization Memberships table now shows badges for members who have achieved Associate or Professional certifications through Apollo Odyssey! To learn how to get your team certified, visit [Apollo Odyssey](https://www.apollographql.com/tutorials/#certifications). | ![image](https://user-images.githubusercontent.com/24704789/175658830-f3adca0a-87de-4ea5-a70c-65888ea91bca.png) |
+| You can now edit the default build configuration for your graph in the Settings page under the "This Graph" tab. New variants will use this track by default. On the other hand, existing variants will not be affected by updates to the default configuration. | ![image](https://user-images.githubusercontent.com/9286598/175666032-6fa67014-4372-4a8c-823e-70fddde46f08.png) 
+
+## 2022-05-26
+| What's new | 
+| :--------- | 
+| Contract build status webhooks now supported. For details, see [docs](https://www.apollographql.com/docs/studio/build-status-notification/).
+
+## 2022-05-09
+![image](https://user-images.githubusercontent.com/10705986/167469204-6f17e9d0-dec5-4690-90c8-46fe19a4a357.png)
+
+| What's new | |
+| :--------- | :-: |
+| Since the release of public preview we have been working hard to improve the overall quality of life for Contracts. With GA you’ll find some fresh and nifty tools like the filter preview that allows you to view the “before” and “after” contract schema when you apply your filter configurations, support for tagging **additional schema elements** with Federation 2, the ability to view downstream contract launches via the Launches page, and many bug fixes! | ![image](https://user-images.githubusercontent.com/10705986/167470093-bdcc56e9-1fdb-4a5c-9c5f-012f483e015a.png) |
+| Generate a filter preview so you can easily visualize the result of your filter configuration and tags to product your contract schema! | ![image](https://user-images.githubusercontent.com/10705986/167469691-4e1aa0e8-cb77-401c-95b5-6e77a44d482b.png) |
+| Reason about contract launches triggered from your base variant via the Launches page! | ![image](https://user-images.githubusercontent.com/10705986/167470344-69181d26-7e5a-4114-a9d7-becee2dec4f6.png) 
+
+## 2022-04-11
+| What's new | |
+| :--------- | :-: |
+| Federation 2 is now in General Availability! | ![image](https://user-images.githubusercontent.com/6365997/162807130-d9f561e7-1df4-4b11-971a-97d329d085e9.png) |
+| We've updated the new graph on-boarding experience to have a fresh new look, and now federation 2 is the default on-boarding experience. There is no impact to existing graphs with this update. | ![image](https://user-images.githubusercontent.com/6365997/162784055-ec577ae6-18ff-4719-b1e1-3602362198e2.png) |
+| You are now prompted to select a default build pipeline track for your graph during on-boarding. All new variants will use this track by default. Individual variants can still override the graph-level default in the variant settings page. | ![image](https://user-images.githubusercontent.com/6365997/162784409-f42b48b9-a521-4f9f-a2e8-07e3380a723d.png) |
+
+## 2022-04-08
+| What's new | |
+| :--------- | :-: |
+| Access collections from other variants on your current graph using the select at the top of the collections panel. | ![image](https://user-images.githubusercontent.com/6856868/162516154-82834b65-1447-4109-900b-0def573d1f7b.png)
+
+## 2022-04-07
+| What's new | |
+| :--------- | :-: |
+| Directly save a copy of an operation to a collection from Operations View in Studio. | ![image](https://user-images.githubusercontent.com/86634858/162484861-810824de-41a8-488c-b09a-b5508939dbec.png)
+
+## 2022-04-01
+| What's new | |
+| :--------- | :-: |
+| Explorer's [Preflight Scripts](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#preflight-scripts) can now open dialogs with markdown content using [`explorer.prompt`](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#explorerprompt)! |![image](https://user-images.githubusercontent.com/743976/159772224-66b57c8e-4675-4a35-8b3d-c586a7626081.png)
+
+## 2022-03-31
+| What's new | |
+| :--------- | :-: |
+| [README](https://www.apollographql.com/blog/announcement/platform/create-a-readme-to-onboard-developers-to-the-graph/) for your graph/variants on Apollo Studio now has a table of contents that is generated based on headings in the README and makes the README easier to navigate. | ![image](https://user-images.githubusercontent.com/86634858/161134583-76928fb1-3c3d-443a-82ce-c9ca177a0518.png)| 
+
+## 2022-03-30
+| What's new | |
+| :--------- | :-: |
+| Explorer now has an option to “select all” fields for a given type. Recursively select all fields, or just add the scalar fields for a given type to your query. Find it next to `Fields` under the docs tab in Explorer. We hope this will saves y'all time next time you visit. | ![image](https://user-images.githubusercontent.com/86634858/160898153-d5cf13d2-70dd-4be5-9090-5adc1c743da2.png)| 
+
+## 2022-03-24
+[![Save and share Explorer operations with Operation Collections](https://user-images.githubusercontent.com/743976/159976790-a1e7f7f3-e9d4-4393-92bc-9856ad94da86.png)](https://www.apollographql.com/blog/announcement/platform/save-and-share-your-graphql-operations-in-apollo-explorer/?utm_campaign=2022-03-22_save-and-share-graphql-operations-blog&utm_medium=studio&utm_source=changelog)
+
+## 2022-02-16
+We've shipped some recent upgrades to Operation Insights in Apollo Studio. This update features three significant enhancements which make it easier to understand the usage and data flow of operations in your graph. [See the complete blogpost here.](https://www.apollographql.com/blog/announcement/platform/new-operation-insights-with-client-usage-and-federation-query-plans/)
+
+| What's new | |
+| :--- | ---- |
+| First, we brought the operation signature front and center so that you can quickly understand the shape of fields being requested by the operation. The signature now appears as a side-panel that you can resize instead of hidden behind another tab. | ![image](https://wp.apollographql.com/wp-content/uploads/2022/03/operation-blog-1-1024x621.png) |
+| In the same panel, we added the ability to view the federation query plan for an operation. The query plan lets you see how Apollo Gateway or Router is working under the hood, describing how data from your subgraphs is woven together to build a full query response. | ![image](https://www.apollographql.com/blog/static/0ad0380c2fe95a1267a5e0f752f60701/operation-blog-2.png) |
+| Last but not least, we introduced a way to understand which clients are using an operation in a new Client Usage display. The most active clients are sorted to the top of the list based on the number of requests reported to Apollo Studio via usage reporting. | ![image](https://wp.apollographql.com/wp-content/uploads/2022/03/operation-blog-3-1024x621.png) |
+
+## 2022-02-15
+| What's new | |
+| :--- | ---- |
+| We have added support for using subgraphs in Sandbox! If the endpoint that you add to Sandbox points to a subgraph, a SUBGRAPH badge will appear. |![image](https://user-images.githubusercontent.com/14367451/154155677-b83f2f30-7291-41d0-b1d7-f083f5b8866d.png) |
+| You can then run operations against your local subgraph schema, diff your changes against a registered subgraph schema and run checks to ensure that your changes do not affect composition or any running operations to the corresponding federated graph. Learn more [here](https://www.apollographql.com/docs/studio/explorer/sandbox/#subgraph-checks). | ![subgraph-sandbox-one-check-failed](https://user-images.githubusercontent.com/14367451/154148356-2fabcd82-1124-4a3b-bd70-5820e33f7895.jpg)|
+
+## 2022-02-10
+| What's new | |
+| :-- | --- |
+| You can now view **Query Plan Previews** for registered [Federation 2](https://www.apollographql.com/docs/federation/v2/) graphs in Apollo Studio Explorer. | ![image](https://user-images.githubusercontent.com/86634858/153515255-cc7276a8-3114-499d-9bae-740c6ed2ca7a.png) | 
+
+## 2022-02-01
+| What's new | |
+| :-- | --- |
+| The **Protected Variant**, **Public Variant**, and **Delete Variant** settings have been moved to a new "This Variant" tab of the Graph Settings page. | ![image](https://user-images.githubusercontent.com/5922187/153106696-1d15b528-9e23-4998-984e-502f0c5151e6.png) | 
+
+## 2022-02-01
+| What's new | |
+| :-- | --- |
+| Preflight scripts now expose the graphql POST request body and the crypto-js project. You can use the request body by referencing `explorer.request.body`, and crypto-js can be accessed with `explorer.CryptoJS` | ![image](https://user-images.githubusercontent.com/3953093/152077068-7d2c9dc8-4c13-464f-960d-1e8bc38c5991.png) | 
+
+## 2022-01-25
+| What's new | |
+| :-- | --- |
+| Operation names can now be excluded from schema checks. Sometimes an operation ID is not enough to prevent failures while checking schemas, and to ignore expected failures on certain operations, we've introduced the ability to exclude operations by name from the Checks Config page. | ![Excluded Operation Names](https://user-images.githubusercontent.com/639025/151235036-cc195e6a-480f-4cf0-a05f-ca44df4cec4d.gif) | 
+
+## 2022-01-11
+
+| What's new | |
+| :--------- | :-: |
+| We've updated the Graph Settings to be spread out across 5 tabs. We previously had just **General** and **Access**, and now we have **General**, **Permissions**, **API Keys**, **Reporting**, and **Variants**. | ![image](https://user-images.githubusercontent.com/5922187/149028499-df4239ab-163e-4d6b-bc25-17a46e8dd66b.png) |
+
+## 2022-01-03 Happy new year! 🥳
+
+| What's new | |
+| :--------- | :-: |
+| Preflight scripts are now available in Explorer! Preflight scripts are really useful for managing authentication before operations are run. As graph producers, you can automate authentication against your graph endpoints to reduce friction for your graph consumers as much as possible, increasing graph usage and adoption. Simply click to add the code snippets and get started with your preflight scripts today! For details, see [docs](https://www.apollographql.com/docs/studio/explorer/connecting-authenticating/#preflight-scripts).| ![image](https://user-images.githubusercontent.com/86634858/147967983-7573674b-cdb8-4d37-8879-375cf771c54a.png) |
