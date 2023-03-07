@@ -1,5 +1,12 @@
 [comment]: <> (NOTE! Ensure all images are added via the \[label\]\(link\) syntax!)
 
+## 2023-03-07
+| What's new | |
+| :--- | :-: |
+| **The graph list now has search!** Also, if your account is on our Serverless plan and you had a combination of Supergraphs and Classic Graphs in your account, you will now find all your graphs unified under a single **Graphs** tab. | ![example of using new studio search bar](https://user-images.githubusercontent.com/5922187/223514626-fc6eba25-fdae-42ad-a927-928b5c75745a.gif) |
+
+
+
 
 ## 2023-02-23
 | What's new | |
