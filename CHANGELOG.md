@@ -4,9 +4,7 @@
 | What's new | |
 | :--- | :-: |
 | **The graph list now has search!** Also, if your account is on our Serverless plan and you had a combination of Supergraphs and Classic Graphs in your account, you will now find all your graphs unified under a single **Graphs** tab. | ![example of using new studio search bar](https://user-images.githubusercontent.com/5922187/223514626-fc6eba25-fdae-42ad-a927-928b5c75745a.gif) |
-
-
-
+| **Billing usage insights are now available!** Org Admins on paid plans can now view monthly breakdowns of their account's total (and sampled) usage on the **Dashboard** tab. | ![Image of a chart showing comparison lines for total and sampled usage next to a table with columns showing total and sampled usage count by month](https://user-images.githubusercontent.com/45475656/223765077-869c199a-b7a3-4fc1-9a78-6d3d0b6bd4ba.png) |
 
 ## 2023-02-23
 | What's new | |
