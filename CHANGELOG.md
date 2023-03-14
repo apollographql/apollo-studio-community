@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-03-14
+| What's new | |
+| :--- | :-: |
+| **Entities are now easily distinguishable in the Schema Reference Page!** | ![example of new schema reference page](https://user-images.githubusercontent.com/24704789/224794960-3854bc34-6777-4a51-a1a1-d56f64c517aa.png) |
+
 ## 2023-03-07
 | What's new | |
 | :--- | :-: |
