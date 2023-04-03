@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-04-03
+| What's new | |
+| :--- | :-: |
+| **File upload is now supported in Explorer 🎉!** For servers that support file upload, you can now send operations with files using the 'Add files' button on the Variables tab in Explorer. Toggle multi file support on if you are running an operation that supports multi file upload.| ![example use of the new file upload 'add files' button](https://user-images.githubusercontent.com/14367451/229630103-9070ac8e-174d-4168-a362-d59548d06802.png) |
+
+
 ## 2023-03-14
 | What's new | |
 | :--- | :-: |
