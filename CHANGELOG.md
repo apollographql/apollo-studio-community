@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-04-13
+| What's new | |
+| :--- | :-: |
+| **📓 Schema Checks in Launches have been removed.** Studio no longer supports Schema Checks as a part of Launches. We strongly recommend that users use rover and our full featured Checks offering to prevent Launches which will negatively impact your traffic, as this is the best way to control changes to your SuperGraph. If you would like to see Checks and change management in Launches, please get ahold of your account rep, we'd love to hear from you! | |
+
 ## 2023-04-03
 | What's new | |
 | :--- | :-: |
