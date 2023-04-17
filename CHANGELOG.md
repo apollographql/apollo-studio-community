@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-04-17
+| What's new | |
+| :--- | :-: |
+| **👤 Explorer now supports OAuth 2.0 requests.** In your preflight scripts in Sandbox and Explorer, you can now use `explorer.oauth2Request` to make authorization requests for your users before queries are made. Make sure to safelist https://studio.apollographql.com/explorer-oauth2 in your client settings of your OAuth 2.0 provider as a redirect url. | |
+
 ## 2023-04-13
 | What's new | |
 | :--- | :-: |
