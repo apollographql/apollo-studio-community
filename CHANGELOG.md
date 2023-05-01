@@ -3,7 +3,7 @@
 ## 2023-05-01
 | What's new | |
 | :--------- | :-: |
-| Easily find operations with empty an operation name using the **new "Unnamed operations" filter!**| ![unnamed operations](https://user-images.githubusercontent.com/9868979/235502626-161eefd5-d2ba-47ed-aa50-43f58143342e.gif) |
+| Easily find operations with an empty operation name using the **new "Unnamed operations" filter!**| ![unnamed operations](https://user-images.githubusercontent.com/9868979/235502626-161eefd5-d2ba-47ed-aa50-43f58143342e.gif) |
 
 ## 2023-04-13
 | What's new | |
