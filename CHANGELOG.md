@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-06-15
+| What's new | |
+| :--------- | :-: |
+| **Schema Linter is now available in Studio 🎉!** Lint checks will now run as part of check workflows, allowing you to enforce formatting conventions and GraphQL schema design best practices. Additionally, you can set your linter configuration to cater to your graph's needs as well as perform one off linting with Rover CLI.  | ![schema linter](https://github.com/apollographql/apollo-studio-community/assets/10705986/9115e72a-779d-481c-8872-c9ec6abc510a) |
+
 ## 2023-05-01
 | What's new | |
 | :--------- | :-: |
