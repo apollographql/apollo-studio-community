@@ -10,6 +10,11 @@
 | :--------- | :-: |
 | Easily find operations with an empty operation name using the **new "Unnamed operations" filter!**| ![unnamed operations](https://user-images.githubusercontent.com/9868979/235502626-161eefd5-d2ba-47ed-aa50-43f58143342e.gif) |
 
+## 2023-04-17
+| What's new | |
+| :--- | :-: |
+| **👤 Explorer now supports OAuth 2.0 requests.** In your Preflight and Operation Scripts in Sandbox and Explorer, you can now use `explorer.oauth2Request` to make authorization requests for your users before queries are made. Make sure to safelist https://studio.apollographql.com/explorer-oauth2 in your client settings of your OAuth 2.0 provider as a redirect url. | |
+
 ## 2023-04-13
 | What's new | |
 | :--- | :-: |
