@@ -1,5 +1,15 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-06-15
+| What's new | |
+| :--------- | :-: |
+| **Schema Linter is now available in Studio 🎉!** Lint checks will now run as part of the check workflows, allowing you to enforce formatting conventions and GraphQL schema design best practices. Easily configure the severity of each rule in the linter settings under the checks workflow configuration per graph. You can additionally perform one off linting with Rover CLI. Learn more [here](https://www.apollographql.com/docs/graphos/delivery/schema-linter/).  | ![schema linter](https://github.com/apollographql/apollo-studio-community/assets/10705986/9115e72a-779d-481c-8872-c9ec6abc510a) |
+
+## 2023-05-01
+| What's new | |
+| :--------- | :-: |
+| Easily find operations with an empty operation name using the **new "Unnamed operations" filter!**| ![unnamed operations](https://user-images.githubusercontent.com/9868979/235502626-161eefd5-d2ba-47ed-aa50-43f58143342e.gif) |
+
 ## 2023-04-17
 | What's new | |
 | :--- | :-: |

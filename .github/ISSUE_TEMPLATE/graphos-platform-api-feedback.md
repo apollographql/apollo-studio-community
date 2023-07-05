@@ -4,7 +4,6 @@ about: Template for the community to suggest ideas for how to improve the Apollo
   Platform API
 title: GraphOS Platform API Feedback
 labels: GraphOS Platform API
-assignees: d3rp3tt3, jsegaran
 
 ---
 
