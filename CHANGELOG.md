@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-07-31
+| What's new | |
+| :--------- | :-: |
+| The **Operations Overview** now respects your selected time range! | ![image](https://github.com/apollographql/apollo-studio-community/assets/1831709/82c68aba-c397-4cb2-bc9d-bbca130aff13) |
+
 ## 2023-06-15
 | What's new | |
 | :--------- | :-: |
