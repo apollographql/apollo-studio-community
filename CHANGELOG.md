@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-08-02
+| What's new | |
+| :--------- | :-: |
+| Learn about new Federation versions and how to upgrade safely with notifications! You can now try out stable and experimental Federation versions directly within Apollo Studio, in order to take advantage of the latest and greatest features. We've also simplified our documentation and UI to enable safe and straightforward upgrades, so that you can stay up to date more easily! | ![image](https://github.com/apollographql/apollo-studio-community/assets/9286598/44c5a37e-78f1-4e56-a856-5c6e3f4e3f07) |
+
 ## 2023-07-31
 | What's new | |
 | :--------- | :-: |
