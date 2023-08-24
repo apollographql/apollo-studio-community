@@ -3,7 +3,7 @@
 ## 2023-08-24
 | What's new | |
 | :--------- | :-: |
-| The [GraphOS Schema Linter](https://www.apollographql.com/docs/graphos/delivery/schema-linter) now includes composition rules for federated graphs running on at least Federation version 2.5. These composition rules flag inconsistent elements across subgraphs, overridden or unused elements, and issues with Federation directives. Additionally, two other linter rules have been added to enforce that all defined schema elements must be used and have a description associated with it. |
+| The [GraphOS Schema Linter](https://www.apollographql.com/docs/graphos/delivery/schema-linter) now includes [composition rules](https://www.apollographql.com/docs/graphos/delivery/linter-rules/#composition-rules) for federated graphs running on [Apollo Federation version 2.5](https://www.apollographql.com/docs/federation/federation-versions/#v25) and later. These composition rules flag potential issues during supergraph composition, such as identifying inconsistent elements across subgraphs, problems with overriding elements from other subgraphs, and problems composing custom directives. The schema linter now also includes two other rules to enforce that defined schema elements are used and have descriptions. |
 
 ## 2023-08-10
 | What's new | |
