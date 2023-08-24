@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-08-10
+| What's new | |
+| :--------- | :-: |
+| With [GraphOS Enterprise](https://www.apollographql.com/docs/graphos/enterprise/), you can enhance your graph's security by maintaining a **persisted query list** (**PQL**) for your graph's self-hosted router. The [Apollo Router](https://www.apollographql.com/docs/router/) checks incoming requests against the PQL, an operation safelist made by your first-party apps. You can open the PQL page for a graph by clicking its PQL button. Check out the [persisted query docs](https://www.apollographql.com/docs/graphos/operations/persisted-queries/) to learn more. | ![image](https://github.com/apollographql/apollo-studio-community/assets/23219998/238e345a-90d8-4be1-81ef-b701602365d8) |
+
 ## 2023-08-02
 | What's new | |
 | :--------- | :-: |
