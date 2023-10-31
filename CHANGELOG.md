@@ -1,5 +1,12 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+
+## 2023-10-31
+| What's new | |
+| :--------- | :-: |
+| Happy Halloween 🎃 Today we have a special treat 🍬 for everyone! We are delighted to announce the **new and improved Insights page** in GraphOS Studio 🎉 The operations and fields page we all know and love are now consolidated into one place and we have given them a complete makeover ✨ We have also made improvements to the performance of fields and operation load times for large graphs and provide more intuitive search capabilities on fields and operations such as a **convenient search bar, new filters, and sorting mechanisms**.  | ![image](https://github.com/apollographql/apollo-studio-community/assets/10705986/b1e33249-d1bc-4e63-bdd6-a2228a62438f)|
+
+
 ## 2023-08-24
 | What's new | |
 | :--------- | :-: |
