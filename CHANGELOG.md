@@ -3,7 +3,7 @@
 ## 2023-12-13
 | What's new | |
 | :--------- | :-: |
-| The Insights **Clients filter** now can **search by client name and version**. The filter has found a new home to the right of the operations and fields search bar. | <img width="1439" alt="changelog" src="https://github.com/apollographql/apollo-studio-community/assets/9868979/2fd9bb5a-63ce-4235-8d9b-70b9bc0aef20"> |
+| The Insights **Clients filter** now can **search by client name and version**. The filter has found a new home to the right of the operations and fields search bar. |![image](https://github.com/apollographql/apollo-studio-community/assets/9286598/da73b6bf-6c1c-44fe-8a29-c9468405e72f) |
 | Additionally, the Insights page now has **Fast Mode** time range options. These options exclude the last 24 hours of data to decrease load times for large graphs. |![image](https://github.com/apollographql/apollo-studio-community/assets/9286598/ecd233c5-8fac-48db-a0d2-c1f4dce3c3a5) |
 
 ## 2023-10-31
