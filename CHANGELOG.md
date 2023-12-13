@@ -1,5 +1,9 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2023-12-13
+| What's new | |
+| :--------- | :-: |
+| The Insights **Clients filter** now has the ability to **search by client name and version**. It has also found a new home alongside the operations and fields filters. | <img width="1439" alt="changelog" src="https://github.com/apollographql/apollo-studio-community/assets/9868979/2fd9bb5a-63ce-4235-8d9b-70b9bc0aef20"> |
 
 ## 2023-10-31
 | What's new | |
