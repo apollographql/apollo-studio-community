@@ -3,7 +3,7 @@
 ## 2024-02-08
 | What's new | |
 | :--------- | :-: |
-| For Studio Enterprise teams, [Schema Change Proposals](https://apollographql.com/blog/graphos-schema-proposals-a-principled-development-workflow-for-graphql-api-platforms) are now available to help teams collaborate on schema changes before laying down code! | ![image](https://github.com/apollographql/apollo-studio-community/assets/743976/ce00e365-316a-49f1-aec7-eef3fa95b8e1)
+| For Studio Enterprise teams, [Schema Change Proposals](https://apollographql.com/blog/graphos-schema-proposals-a-principled-development-workflow-for-graphql-api-platforms) are now generally available to help teams collaborate on schema changes before laying down code. | ![image](https://github.com/apollographql/apollo-studio-community/assets/743976/ce00e365-316a-49f1-aec7-eef3fa95b8e1)
 
 
 
