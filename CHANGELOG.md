@@ -3,7 +3,7 @@
 ## 2024-03-15
 | What's new | |
 | :--------- | :-: |
-| [Schema Visualization](https://www.apollographql.com/docs/graphos/graphs/studio-features/#schema-visualization) in Studio is now available, head over to the Visualization tab on the Schema page to see a graphical representation of your schema.  | ![image](https://github.com/apollographql/apollo-studio-community/assets/3953093/9e32c188-2c48-40d4-8028-fe24c53242f5)
+| [Schema Visualization](https://www.apollographql.com/docs/graphos/graphs/studio-features/#schema-visualization) in Studio is now available. Head over to the Visualization tab on the Schema page to explore a graphical representation of your schema.  | ![image](https://github.com/apollographql/apollo-studio-community/assets/3953093/9e32c188-2c48-40d4-8028-fe24c53242f5)
 
 ## 2024-02-08
 | What's new | |
