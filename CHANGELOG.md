@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-06-21
+| What's new | |
+| :--------- | :-: |
+| [Schema proposals webhook notifications](https://www.apollographql.com/docs/graphos/metrics/notifications/schema-proposal-integration/) - GraphOS can now be configured to send a notification to a webhook endpoint whenever schema proposals are created, revised or if their status changes. 
+
+
 ## 2024-03-15
 | What's new | |
 | :--------- | :-: |
