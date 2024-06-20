@@ -3,7 +3,7 @@
 ## 2024-06-21
 | What's new | |
 | :--------- | :-: |
-| [Schema proposals webhook notifications](https://www.apollographql.com/docs/graphos/metrics/notifications/schema-proposal-integration/) - GraphOS can now be configured to send a notification to a webhook endpoint whenever schema proposals are created, revised or if their status changes. 
+| [Schema proposals webhook notifications](https://www.apollographql.com/docs/graphos/metrics/notifications/schema-proposal-integration/) - GraphOS can now be configured to send a notification to a webhook endpoint whenever schema proposals are created, revised or if their status changes. Find this in the `Reporting` tab of graph settings. | ![image](https://github.com/apollographql/apollo-studio-community/assets/1314446/09f788a7-7e64-46e6-9eee-4401678a2509)
 
 
 ## 2024-03-15
