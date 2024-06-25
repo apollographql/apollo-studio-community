@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-06-24
+| What's new | |
+| :--------- | :-: |
+| We are excited to announce a new and improved Operation Checks view in Studio 🎉 You can now see the full list of checked operations including broken, potentially affected, safe, and ignored operations. We also added a convenient search bar for operations and a status filter. | ![image](https://github.com/apollographql/apollo-studio-community/assets/9286598/25459bc0-c8fa-4e76-b63c-b781be5f0ea6)
+
 ## 2024-06-21
 | What's new | |
 | :--------- | :-: |
