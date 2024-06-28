@@ -3,7 +3,7 @@
 ## 2024-06-28
 | What's new | |
 | :--------- | :-: |
-| Configuring proposal check severity at the variant level is now enabled. Find this in Checks Config > This Variant > Proposals. With this, you can configure proposal checks to `Error` on a dev variant, but `Warn` on a Prod variant to allow hot fixes to go through, for example. | ![image](https://github.com/apollographql/apollo-studio-community/assets/1314446/c05c18cc-016a-47e4-b668-999cdd22b3ce)
+| Proposal check severity can now be configured at the variant level. Find this in Checks Config > This Variant > Proposals. With this, you can configure proposal checks to `Error` on a dev variant, but `Warn` on a Prod variant to allow hot fixes to go through, for example. | ![image](https://github.com/apollographql/apollo-studio-community/assets/1314446/c05c18cc-016a-47e4-b668-999cdd22b3ce)
 
 ## 2024-06-24
 | What's new | |
