@@ -1,5 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-07-10
+| What's new | |
+| :--------- | :-: |
+| Schema Visualization heatmaps now use the Viridis palette for improved visibility! Head over to the Visualization tab on the Schema page to explore a heatmap of your graph usage! | ![image](https://github.com/apollographql/apollo-studio-community/assets/16587341/28d66343-284d-4d7e-96e1-b7591f1e082a)
+
 ## 2024-06-28
 | What's new | |
 | :--------- | :-: |
