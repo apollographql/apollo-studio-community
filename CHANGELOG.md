@@ -3,7 +3,7 @@
 ## 2024-07-18
 | What's new | |
 | :--------- | :-: |
-| Enhanced checks and better insights on input object fields and enum values 🎉 For more details please visit the [blog post](https://www.apollographql.com/blog/enhanced-checks-and-observability-in-graphos) | ![image](https://github.com/user-attachments/assets/bb907cff-75a6-4d71-a6bf-34dd6376ff4f)
+| GraphOS now offers enhanced [operation checks](https://www.apollographql.com/docs/router/configuration/overview/#enhanced-operation-checks) and more comprehensive [insights on input object fields and enum values](https://www.apollographql.com/docs/graphos/metrics/field-usage#input-fields-and-enum-values). For more details, please visit the [blog post](https://www.apollographql.com/blog/enhanced-checks-and-observability-in-graphos) | ![image](https://github.com/user-attachments/assets/bb907cff-75a6-4d71-a6bf-34dd6376ff4f)
 
 ## 2024-07-10
 | What's new | |
