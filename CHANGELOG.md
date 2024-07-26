@@ -3,7 +3,7 @@
 ## 2024-07-25
 | What's new | |
 | :--------- | :-: |
-| Schema proposals editor loading performance has been optimized so you can start editing and collaborating on schema proposals quicker than ever before. Go to `Propsals > Editor` to try it out. | ![image](https://github.com/user-attachments/assets/78e7886b-3eb7-4a13-b028-209be99f028f)
+| We've improved the schema proposal editor's loading performance so you can start working on schema proposals faster than ever before. Go to **Proposals > Editor** to try it out. | ![image](https://github.com/user-attachments/assets/78e7886b-3eb7-4a13-b028-209be99f028f)
 
 
 
