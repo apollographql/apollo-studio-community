@@ -1,5 +1,12 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-08-01
+| What's new | |
+| :--------- | :-: |
+| We've improved the schema proposal editor's loading performance so you can start working on schema proposals faster than ever before. Go to **Proposals > Editor** to try it out. | ![image](https://github.com/user-attachments/assets/78e7886b-3eb7-4a13-b028-209be99f028f)
+
+
+
 ## 2024-07-18
 | What's new | |
 | :--------- | :-: |
