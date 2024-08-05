@@ -3,7 +3,7 @@
 ## 2024-08-05
 | What's new |
 | :--------- |
-| We're excited to unveil Studio's new look and feel! We've introduced brand-aligned colors, revamped icons, and updated fonts for better readability. Keep an eye out for more incremental updates in the coming months. We hope you love the new design—please let us know if you spot any visual issues by reaching out to your Apollo contact or emailing us at support@apollographql.com
+| We're excited to unveil Studio's new look and feel! We've introduced brand-aligned colors, revamped icons, and updated fonts for better readability. We'll be gradually rolling out updates this week and into the coming months. We hope you love the new design! Please let us know if you spot any visual issues by reaching out to your Apollo contact or emailing us at support@apollographql.com
 
 
 ## 2024-08-01
