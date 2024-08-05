@@ -1,8 +1,8 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
 ## 2024-08-05
-| What's new | |
-| :--------- | :-: |
+| What's new |
+| :--------- |
 | We're excited to announce a fresh new look and feel to Studio! In efforts to align with our branding, we've introduced new colors, revamped some of our icons, and updated fonts for better readability. We will be making more incremental changes in the upcoming months. We hope you enjoy the new look and please let us know if you notice any visual bugs!
 
 
