@@ -3,7 +3,7 @@
 ## 2024-09-27
 | What's new | |
 | :--------- | :-: |
-| The proposals editor is now powered by Apollo's new language server :tada:! This update brings a host of editor improvements, including diagnostics, autocompletion, goto definition for entities, and more. Try running composition to see errors as they happen, now right in your editor! We have a lot of great ideas about how to make this even better, but we'd love to hear yours as well. Reach out to your Apollo contact or email us at support@apollographql.com to report any issues or if you just want to share your ideas with us. Go to **Proposals > Editor** and check it out! | ![image](https://github.com/user-attachments/assets/8ef558fa-9921-4272-9853-122e1a050699)
+| The schema proposals editor is now powered by Apollo's new language server :tada:! This upgrade introduces several editor improvements, including diagnostics, autocompletion, goto definition for entities, and more. You can now run composition on your proposal to see errors as you update your schema, right in the editor. We have plenty more ideas for improvements, but we'd love to hear yours as well. Reach out to your Apollo contact or email us at support@apollographql.com to share your ideas or report issues. Go to **Proposals > Editor** and check it out! | ![image](https://github.com/user-attachments/assets/8ef558fa-9921-4272-9853-122e1a050699)
 
 
 ## 2024-08-05
