@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-09-27
+| What's new | |
+| :--------- | :-: |
+| The schema proposals editor is now powered by Apollo's new language server :tada:! This upgrade introduces several editor improvements, including diagnostics, autocompletion, goto definition for entities, and more. You can now run composition on your proposal to see errors as you update your schema, right in the editor. We have plenty more ideas for improvements, but we'd love to hear yours as well. Reach out to your Apollo contact or email us at support@apollographql.com to share your ideas or report issues. Go to **Proposals > Editor** and check it out! | ![image](https://github.com/user-attachments/assets/8ef558fa-9921-4272-9853-122e1a050699)
+
+
 ## 2024-08-05
 | What's new |
 | :--------- |
