@@ -1,4 +1,10 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
+## 2024-09-30
+| What's new | |
+| :--------- | :-: |
+| [Custom schema checks](https://www.apollographql.com/docs/graphos/delivery/custom-checks/) are now available on enterprise plans. Go to Checks settings to register webhook handlers that run custom validations, such as custom lint rules, on your own services.  | ![image](https://github.com/user-attachments/assets/7c0f4165-6e7a-499b-aa47-076b0bd3f814)
+| Checks settings have been moved into graph settings | ![image](https://github.com/user-attachments/assets/58907268-6834-41de-8018-97eed790b47e)
+
 
 ## 2024-09-27
 | What's new | |
