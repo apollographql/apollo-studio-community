@@ -1,5 +1,12 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-11-14
+
+| What's new | |
+| :--------- | :-: |
+| Schema proposals can now pull updates from their source variants. Conflicts with source variants could cause proposals to enter a stuck state, preventing implementation. You can now address this by pulling changes from source variants and resolving the conflicts. | <img width="989" alt="image" src="https://github.com/user-attachments/assets/aaaa4664-f505-47f5-8a3a-18968b5a9b25">
+
+
 ## 2024-09-30
 
 | What's new | |
