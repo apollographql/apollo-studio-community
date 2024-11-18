@@ -4,7 +4,7 @@
 
 | What's new | |
 | :--------- | :-: |
-| Schema proposals can now pull updates from their source variants. Conflicts with source variants could cause proposals to enter a stuck state, preventing implementation. You can now address this by pulling changes from source variants and resolving the conflicts. | <img width="989" alt="image" src="https://github.com/user-attachments/assets/aaaa4664-f505-47f5-8a3a-18968b5a9b25">
+| Schema proposals can now pull updates from their source variants. Conflicts with source variants could cause proposals to enter a stuck state, preventing implementation. You can now address this by pulling changes from source variants and resolving the conflicts. | ![image](https://github.com/user-attachments/assets/aaaa4664-f505-47f5-8a3a-18968b5a9b25)
 
 
 ## 2024-09-30
