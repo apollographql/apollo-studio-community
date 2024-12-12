@@ -4,7 +4,7 @@
 
 | What's new | |
 | :--------- | :-: |
-| We've made it possible to comment on lines containing field return types and descriptions in Schema Proposals. Clicking on the comment button on the Proposal Changes page on these lines now lets you target more specific parts of your schema more easily! | ![image](https://github.com/user-attachments/assets/ac75f026-8891-4b30-a099-ab8682482533) 
+| You can now comment on lines containing field return types and descriptions in schema proposals. This lets you target more specific parts of your schema more easily. | ![image](https://github.com/user-attachments/assets/ac75f026-8891-4b30-a099-ab8682482533) 
 
 ## 2024-11-14
 
