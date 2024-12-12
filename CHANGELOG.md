@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2024-12-09
+
+| What's new | |
+| :--------- | :-: |
+| You can now comment on lines containing field return types and descriptions in schema proposals. This lets you target more specific parts of your schema more easily. | ![image](https://github.com/user-attachments/assets/ac75f026-8891-4b30-a099-ab8682482533) 
+
 ## 2024-11-14
 
 | What's new | |
