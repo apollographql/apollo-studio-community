@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2025-03-26 Schema proposal checks now WARN on missing description changes instead of ERROR
+| What's new | |
+| :--------- | :-: |
+| Schema proposal checks now WARN instead of ERROR for descriptions that do not have a matching approved schema proposal. This means copy and white space mismatches in descriptions will no longer block these checks. | <img width="1863" alt="Screenshot 2025-03-26 at 11 32 32 AM" src="https://github.com/user-attachments/assets/a1fdfba0-dfa7-4a6c-9049-d93e23f1e52c" /> |
+
+
 ## 2025-02-05 Happy new year! 🥳
 | What's new | |
 | :--------- | :-: |
