@@ -1,5 +1,11 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
 
+## 2025-04-24 New Operation Insights Errors page
+| What's new | |
+| :--------- | :-: |
+| We've introduced a brand new Errors Insights page for enhanced error telemetry including categorization by service and error code. See our [documentation](https://www.apollographql.com/docs/graphos/platform/insights/errors) for more detailed information and instructions on how to enable an even richer experience with [extended error reporting](https://www.apollographql.com/docs/graphos/platform/insights/errors#extended-error-reporting).| ![image](https://github.com/user-attachments/assets/70d018ea-bdbc-479d-9e1a-c07aab246536)
+
+
 ## 2025-03-26 Schema proposal checks now WARN on missing description changes instead of ERROR
 | What's new | |
 | :--------- | :-: |
