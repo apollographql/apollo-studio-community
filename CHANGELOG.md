@@ -1,4 +1,8 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
+## 2025-06-03 Operations Checks Bulk Actions
+| What's new                                                                                                                                                                                                                      | |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-: |
+| You can now ignore and mark operations as safe in bulk on the Operations Checks page. This makes it faster and easier to ignore and mark operations as safe when a check has many broken and potentially affected operations.   | ![image](https://github.com/user-attachments/assets/49476382-b1ae-4696-93e5-da6c13029a1b)
 
 ## 2025-04-24 New Operation Insights Errors page
 | What's new | |
