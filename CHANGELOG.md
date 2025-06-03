@@ -3,7 +3,7 @@
 ## 2025-06-03 Operations Checks Bulk Actions
 | What's new                                                                                                                                                                                                                      | |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-: |
-| You can now bulk ignore and mark operations as safe directly from the Operations Checks page. This makes it much faster and easier to handle large volumes of broken or potentially affected operations.   | ![image](https://github.com/user-attachments/assets/49476382-b1ae-4696-93e5-da6c13029a1b)
+| The **Operations Checks** page now supports bulk actions to quickly ignore or mark operations as safe.   | ![image](https://github.com/user-attachments/assets/49476382-b1ae-4696-93e5-da6c13029a1b)
 
 ## 2025-04-24 New Operation Insights Errors page
 | What's new | |
