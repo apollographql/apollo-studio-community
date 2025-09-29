@@ -2,7 +2,7 @@
 ## 2025-10-06 Subgraph and Connector Insights page
 | What's new | |
 | :--------- | :-: |
-| Introduced the Subgraph and Connector Insights page. It provides developers with a detailed dashboard for each subgraph or connector, including traffic sources, error patterns, latency trends, and owner contact info. See the [documentation](https://www.apollographql.com/docs/graphos/platform/insights/subgraphs) for more detailed information and instructions on how to enable the necessary data reporting. | ![image](https://github.com/user-attachments/assets/82db6c0e-dc2b-48be-b48d-2b8fb6311075) |
+| Added the Insights > Subgraphs page. It provides developers with a detailed dashboard for each subgraph or connector, including traffic sources, error patterns, latency trends, and owner contact info. See [documentation](https://www.apollographql.com/docs/graphos/platform/insights/subgraphs) for more detailed information and instructions on how to enable data reporting. | ![image](https://github.com/user-attachments/assets/82db6c0e-dc2b-48be-b48d-2b8fb6311075) |
 
 ## 2025-06-03 Operations Checks Bulk Actions
 | What's new                                                                                                                                                                                                                      | |
