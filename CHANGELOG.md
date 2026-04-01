@@ -1,4 +1,9 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
+## 2026-04-01 Dark Mode is here 🌒
+| What's new | |
+| :--------- | :-: |
+| Your eyes asked, we delivered. GraphOS Studio now fully supports dark mode, available to everyone. Head to your **personal settings** to switch things up. | ![image](https://github.com/user-attachments/assets/3742b521-157a-40ba-befd-3c3d117a5ae6) |
+
 ## 2025-10-06 Subgraph and Connector Insights page
 | What's new | |
 | :--------- | :-: |
