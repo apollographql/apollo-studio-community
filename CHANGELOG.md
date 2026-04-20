@@ -1,4 +1,9 @@
 [comment]: <> "NOTE! Ensure all images are added via the \[label\]\(link\) syntax!"
+## 2026-04-20 Reviewing Schema Proposals just got easier
+| What's new | |
+| :--------- | :-: |
+| Two small-but-mighty improvements: You can now expand the comments UI to give yourself room to think (and type), and quickly jump between schema changes. | ![image](https://github.com/user-attachments/assets/ef0103f2-10dd-4bc4-88b9-3ee7f401a31b) |
+
 ## 2026-04-01 Dark Mode is here 🌒
 | What's new | |
 | :--------- | :-: |
