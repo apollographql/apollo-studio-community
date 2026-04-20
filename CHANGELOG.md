@@ -3,6 +3,7 @@
 | What's new | |
 | :--------- | :-: |
 | Two small-but-mighty improvements: You can now expand the comments UI to give yourself room to think (and type), and quickly jump between schema changes without losing your place. Because nobody wants to scroll through an entire schema diff to find the one change they care about. | ![image](/Users/anademag/Desktop/Gifox GIFs/2026-04-20 13.33.02.gif) |
+
 ## 2026-04-01 Dark Mode is here 🌒
 | What's new | |
 | :--------- | :-: |
