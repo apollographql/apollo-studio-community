@@ -2,7 +2,7 @@
 ## 2026-04-20 Reviewing Schema Proposals just got easier
 | What's new | |
 | :--------- | :-: |
-| Two small-but-mighty improvements: You can now expand the comments UI to give yourself room to think (and type), and quickly jump between schema changes without losing your place. Because nobody wants to scroll through an entire schema diff to find the one change they care about. | ![image](https://github.com/user-attachments/assets/24ede598-8328-4880-9167-8456ca560667) |
+| Two small-but-mighty improvements: You can now expand the comments UI to give yourself room to think (and type), and quickly jump between schema changes without losing your place. Because nobody wants to scroll through an entire schema diff to find the one change they care about. | ![image](https://github.com/user-attachments/assets/2b0be62e-df3b-4634-a788-9f0c3c3e2871) |
 
 ## 2026-04-01 Dark Mode is here 🌒
 | What's new | |
